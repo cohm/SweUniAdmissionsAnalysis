@@ -123,10 +123,10 @@ def plot_county_map(aggregated_df, group = "", printTotal = True):
 if __name__ == "__main__":
     # Update with the actual paths to your Excel files
     excel_files = [
-        '../NyA/createReport-2025.xls',
+        '../../NyA/createReport-2025.xls',
         # Add more paths if needed
     ]
-    postalcode_mapping_file = 'postalcode_data.csv'
+    postalcode_mapping_file = 'data/postalcode_data.csv'
     postalcode_column_name = 'Postnummer'
 
     df = load_excel_files(excel_files)
