@@ -1,15 +1,18 @@
 import pandas as pd
 import numpy as np
+import re
 import swemaps
 import geopandas as gpd
 import matplotlib.pyplot as plt
 from matplotlib.colors import LogNorm
+from scipy.stats import pearsonr, spearmanr
+import seaborn as sns
 
 def load_excel_files(file_paths):
     """Load and combine multiple Excel files with student data."""
     all_data = pd.concat([pd.read_excel(fp) for fp in file_paths], ignore_index=True)
     print("Read in data for %d applicants" % len(all_data))
-    print(all_data.dtypes)
+    #print(all_data.dtypes)
     return all_data
 
 def load_postal_mapping(mapping_csv):
@@ -20,12 +23,34 @@ def load_postal_mapping(mapping_csv):
     return mapping
 
 def preprocess_data(df, mapping, postal_code_col):
-    """Add municipality and county names from addresses, via postal code mapping data."""
+    """Pre-process the data, and add info such as county names from addresses (via postal code mapping data), extract merit scores into separate columns, etc"""
+    
+    # start with geographic data
     df = df.copy()
     df[postal_code_col] = df[postal_code_col].astype(str).str.zfill(5)
     df = df.merge(mapping, how='left', left_on=postal_code_col, right_on='Postnummer')
     df = df.dropna(subset=['LnNamn'])
     df = df.astype({'KnKod':'Int64'}) # this was otherwise of type 'object'
+
+    # now extract the grade data
+    def extract_score(merit, pattern):
+        if pd.isna(merit):
+            return None
+        match = pattern.search(merit)
+        if match:
+            return float(match.group(1).replace(",", "."))
+        return None
+
+    # add the merit score cols
+    merit_types = [ "BI", "BII", "HP", "MAFY" ]
+    for merit_type in merit_types:
+        merit_pattern = re.compile(rf"{merit_type}\s*\(\s*([\d.,]+)\s*\)", flags=re.IGNORECASE)
+        df = df.copy()
+        df[f"{merit_type}_score"] = df["Meritvärde"].apply(lambda x: extract_score(x, merit_pattern))
+
+    # and a column for whether the applicant was accepted (NB! The same applicant can have several rows if they applied to more than one program)
+    df['Antagen'] = df['Resultat'].str.contains("Antagen")
+    print(df)
     return df
 
 def aggregate_by_column(df, col_name):
@@ -120,6 +145,169 @@ def plot_county_map(aggregated_df, group = "", printTotal = True):
     plt.savefig(("plots/CountyMap_%s.pdf" % group).replace(' ', '_'), dpi=300)
     plt.show()
     
+def plot_score_distribution(df, category, group):
+    """
+    Plot histogram of a score category ('BI', 'BII', 'HP' or 'MAFY') for all applicants and admitted ones. Bin sizes depends on category. Adds counts to legend.
+    """
+
+    bin_sizes = {
+        "BI": 0.1,
+        "BII": 0.1,
+        "HP": 0.05,
+        "MAFY": 1
+    }
+
+    if category not in bin_sizes:
+        raise ValueError(f"Unknown category '{category}'. Must be one of: {list(bin_sizes.keys())}")
+
+    bin_size = bin_sizes[category]
+
+    pattern = re.compile(rf"{category}\s*\(\s*([\d.,]+)\s*\)", flags=re.IGNORECASE)
+
+    def extract_score(merit):
+        if pd.isna(merit):
+            return None
+        match = pattern.search(merit)
+        if match:
+            return float(match.group(1).replace(",", "."))
+        return None
+
+    df = df.copy()
+    df[f"{category}_score"] = df["Meritvärde"].apply(extract_score)
+
+    has_score = df[df[f"{category}_score"].notna()]
+    admitted = has_score[has_score["Resultat"].str.lower() == "antagen"]
+
+    if has_score.empty:
+        print(f"No valid {category} scores found.")
+        return
+
+    total_all = len(has_score)
+    total_admitted = len(admitted)
+
+    min_val = has_score[f"{category}_score"].min()
+    max_val = has_score[f"{category}_score"].max()
+    bins = np.arange(np.floor(min_val)-bin_size/2, np.ceil(max_val)+bin_size/2, bin_size)
+
+    # Plot
+    fig, ax = plt.subplots(figsize=(10, 6))
+    ax.set_axisbelow(True)  # Grid behind bars
+
+    ax.hist(
+        has_score[f"{category}_score"],
+        bins=bins,
+        alpha=0.5,
+        label=f"Alla sökande (n = {total_all})",
+        color="gray",
+        edgecolor="black"
+    )
+    ax.hist(
+        admitted[f"{category}_score"],
+        bins=bins,
+        alpha=0.5,
+        label=f"Antagna (n = {total_admitted})",
+        color="blue",
+        edgecolor="black"
+    )
+
+    ax.set_xlabel(f"{category}-poäng")
+    ax.set_ylabel("Antal sökande")
+    ax.set_title(f"Fördelning av {category}-poäng, {group}: alla sökande vs. antagna")
+
+    # Subtle grid
+    ax.grid(True, which="both", linestyle="--", linewidth=0.5, color="gray", alpha=0.3)
+
+    ax.legend()
+    plt.tight_layout()
+    plt.savefig(("plots/GradeDistribution_%s_%s.pdf" % (group, category)).replace(' ', '_'), dpi=300)
+    plt.show()
+
+def plot_merit_correlation(df, group, merit1, merit2):
+    """
+    Plot correlation between merit1 and merit2 scores.
+    Draws three regression lines (all, admitted, rejected),
+    shows Pearson and Spearman correlations,
+    and includes a count-based legend.
+    """
+
+    valid = df.dropna(subset=[f"{merit1}_score", f"{merit2}_score"])
+
+    if valid.empty:
+        print("No valid data points with both {merit1} and {merit2} scores.")
+        return
+
+    # Subsets
+    admitted = valid[valid["Antagen"]]
+    rejected = valid[~valid["Antagen"]]
+
+    # Counts
+    total_all = len(valid)
+    total_admitted = len(admitted)
+    total_rejected = len(rejected)
+
+    # Correlations (for all data)
+    pearson_corr, _ = pearsonr(valid[f"{merit1}_score"], valid[f"{merit2}_score"])
+    spearman_corr, _ = spearmanr(valid[f"{merit1}_score"], valid[f"{merit2}_score"])
+
+    # Plot
+    plt.figure(figsize=(9, 7))
+    sns.set(style="whitegrid")
+
+    # All candidates - solid black regression line
+    sns.regplot(
+        data=valid,
+        x=f"{merit1}_score",
+        y=f"{merit2}_score",
+        scatter=False,
+        line_kws={"color": "black", "label": f"All (n={total_all})", "linestyle": "-"},
+        ci=None
+    )
+
+    # Admitted - dashed blue
+    if not admitted.empty:
+        sns.regplot(
+            data=admitted,
+            x=f"{merit1}_score",
+            y=f"{merit2}_score",
+            scatter=False,
+            line_kws={"color": "blue", "label": f"Antagna (n = {total_admitted})", "linestyle": "--"},
+            ci=None
+        )
+
+    # Rejected - dashed gray
+    if not rejected.empty:
+        sns.regplot(
+            data=rejected,
+            x=f"{merit1}_score",
+            y=f"{merit2}_score",
+            scatter=False,
+            line_kws={"color": "gray", "label": f"Ej antagna (n = {total_rejected})", "linestyle": "--"},
+            ci=None
+        )
+
+    # Scatter plot (colored by admission)
+    sns.scatterplot(
+        data=valid,
+        x=f"{merit1}_score",
+        y=f"{merit2}_score",
+        hue="Antagen",
+        palette={True: "blue", False: "gray"},
+        edgecolor="black",
+        alpha=0.6
+    )
+
+    plt.title(
+        f"Korrelation mellan {merit1}- och {merit2}-poäng, sökande {group}\n"
+        f"(Pearson r = {pearson_corr:.3f}, Spearman ρ = {spearman_corr:.3f})"
+    )
+    plt.xlabel(f"{merit1}-poäng")
+    plt.ylabel(f"{merit2}-poäng")
+    plt.grid(True, linestyle="--", linewidth=0.5, color="gray", alpha=0.3)
+    plt.legend(title="Antagen")
+    plt.tight_layout()
+    plt.savefig(("plots/GradeCorrelation_%s_%s-%s.pdf" % (group, merit1, merit2)).replace(' ', '_'), dpi=300)
+    plt.show()
+
 if __name__ == "__main__":
     # Update with the actual paths to your Excel files
     excel_files = [
@@ -142,7 +330,7 @@ if __name__ == "__main__":
     print(aggCounty)
     plot_county_map(aggCounty, "CING SCI sökande")
     
-    programs = ["CTFYS", "CTMAT", "CFATE", "COPEN"]
+    programs = ["CTFYS"] #, "CTMAT", "CFATE", "COPEN"]
     for p in programs:
         print("Will now check program %s specifically" % p)
         df_program = df[df['Kurs-/programkod'].str.contains(p)]
@@ -160,7 +348,6 @@ if __name__ == "__main__":
         plot_municipality_map(aggMunicipality, p+" sökande")
         plot_municipality_map(aggMunicipalityPrio, p+" sökande prio 1")
         plot_municipality_map(aggMunicipalityAdmitted, p+" antagna")
-        print("Dataframe")
         aggCounty = aggregate_by_column(df_program, 'LnNamn')
         aggCountyPrio = aggregate_by_column(df_program_prio, 'LnNamn')
         aggCountyAdmitted = aggregate_by_column(df_program_admitted, 'LnNamn')
@@ -174,3 +361,14 @@ if __name__ == "__main__":
         plot_county_map(aggCountyAdmitted, p+" antagna")
         #plot_county_map(aggCountyAdmittedAccepted, p+" tackat ja")
 
+        # test with grade distributions too
+        plot_score_distribution(df_program, "BI", p)
+        plot_score_distribution(df_program, "BII", p)
+        plot_score_distribution(df_program, "HP", p)
+        plot_score_distribution(df_program, "MAFY", p)
+
+        # look at some correlations between grade categories
+        plot_merit_correlation(df_program, p, "HP", "BI")
+        plot_merit_correlation(df_program, p, "MAFY", "BI")
+        plot_merit_correlation(df_program, p, "BII", "BI")
+        plot_merit_correlation(df_program, p, "HP", "MAFY")
