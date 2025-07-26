@@ -50,6 +50,15 @@ def preprocess_data(df, mapping, postal_code_col):
 
     # and a column for whether the applicant was accepted (NB! The same applicant can have several rows if they applied to more than one program)
     df['Antagen'] = df['Resultat'].str.contains("Antagen")
+
+    # now extract the gender via the personal number
+    def extract_gender(personal_number):
+        if int(str(personal_number)[11]) % 2 == 0:
+            return "K"
+        else:
+            return "M"
+    df['Kön'] = df['Personnummer'].apply(extract_gender)
+
     print(df)
     return df
 
