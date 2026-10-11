@@ -1,5 +1,18 @@
 # CO's own ones
 plots/*.pdf
+.DS_Store
+
+# Raw UHR API responses; regenerable, so not worth versioning. The tidy exports
+# under data/uhr/ are small and aggregated and are meant to be committed.
+data/uhr_cache/
+
+# Guard against ever committing applicant-level exports (names, addresses,
+# personnummer). The postal code mapping is the one data file that belongs here.
+*.xls
+*.xlsx
+*.csv
+!data/postalcode_data.csv
+!data/uhr/*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
