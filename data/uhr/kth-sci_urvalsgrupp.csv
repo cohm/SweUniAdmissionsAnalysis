@@ -1,0 +1,1035 @@
+larosate_id,program_id,anmalningskod,termin_id,ar,urval,urvalsgrupp,score,score_status,score_raw,score_scale,n_antagna_grupp,n_reserver_grupp,label
+KTH,CFATE,KTH-32105,HT08,2008,urval1,BF,,none_admitted,-,folkhogskola,0,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT08,2008,urval1,BG,16.35,value,16.35,betyg_20,83,159,Farkostteknik
+KTH,CFATE,KTH-32105,HT08,2008,urval1,DA,,all_admitted,*,annat,2,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT08,2008,urval1,HP,1.0,value,1.00,hogskoleprov,41,72,Farkostteknik
+KTH,CFATE,KTH-32105,HT08,2008,urval1,T1,,all_admitted,*,kth_lokal,11,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT08,2008,urval1,T2,,all_admitted,*,kth_lokal,3,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT08,2008,urval2,BF,,none_admitted,-,folkhogskola,0,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT08,2008,urval2,BG,15.8,value,15.80,betyg_20,73,83,Farkostteknik
+KTH,CFATE,KTH-32105,HT08,2008,urval2,DA,,all_admitted,*,annat,2,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT08,2008,urval2,HP,1.0,value,1.00,hogskoleprov,36,42,Farkostteknik
+KTH,CFATE,KTH-32105,HT08,2008,urval2,T1,,all_admitted,*,kth_lokal,11,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT08,2008,urval2,T2,,all_admitted,*,kth_lokal,3,0,Farkostteknik
+KTH,CTFYS,KTH-32114,HT08,2008,urval1,BF,,none_admitted,-,folkhogskola,0,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT08,2008,urval1,BG,19.22,value,19.22,betyg_20,93,163,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT08,2008,urval1,HP,1.6,value,1.60,hogskoleprov,45,90,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT08,2008,urval1,ÖS,,none_admitted,-,annat,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT08,2008,urval1,T1,,all_admitted,*,kth_lokal,6,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT08,2008,urval1,T2,,all_admitted,*,kth_lokal,1,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT08,2008,urval2,BF,,none_admitted,-,folkhogskola,0,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT08,2008,urval2,BG,19.22,value,19.22,betyg_20,76,91,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT08,2008,urval2,HP,1.6,value,1.60,hogskoleprov,35,52,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT08,2008,urval2,ÖS,,none_admitted,-,annat,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT08,2008,urval2,T1,,all_admitted,*,kth_lokal,6,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT08,2008,urval2,T2,,all_admitted,*,kth_lokal,1,0,Teknisk fysik
+KTH,COPEN,KTH-32115,HT08,2008,urval1,BF,,none_admitted,-,folkhogskola,0,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT08,2008,urval1,BG,17.3,value,17.30,betyg_20,91,240,Öppen ingång
+KTH,COPEN,KTH-32115,HT08,2008,urval1,DA,,all_admitted,*,annat,1,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT08,2008,urval1,HP,1.2,value,1.20,hogskoleprov,45,129,Öppen ingång
+KTH,COPEN,KTH-32115,HT08,2008,urval1,ÖS,,none_admitted,-,annat,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT08,2008,urval1,T1,,all_admitted,*,kth_lokal,3,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT08,2008,urval1,T2,,none_admitted,-,kth_lokal,0,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT08,2008,urval2,BF,,none_admitted,-,folkhogskola,0,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT08,2008,urval2,BG,17.04,value,17.04,betyg_20,78,141,Öppen ingång
+KTH,COPEN,KTH-32115,HT08,2008,urval2,DA,,all_admitted,*,annat,1,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT08,2008,urval2,HP,1.1,value,1.10,hogskoleprov,38,74,Öppen ingång
+KTH,COPEN,KTH-32115,HT08,2008,urval2,ÖS,,none_admitted,-,annat,0,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT08,2008,urval2,T1,,all_admitted,*,kth_lokal,3,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT08,2008,urval2,T2,,none_admitted,-,kth_lokal,0,0,Öppen ingång
+KTH,CFATE,KTH-32105,HT09,2009,urval1,BG,16.73,value,16.73,betyg_20,93,204,Farkostteknik
+KTH,CFATE,KTH-32105,HT09,2009,urval1,DA,,all_admitted,*,annat,1,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT09,2009,urval1,HP,1.1,value,1.10,hogskoleprov,45,106,Farkostteknik
+KTH,CFATE,KTH-32105,HT09,2009,urval1,T1,,all_admitted,*,kth_lokal,12,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT09,2009,urval1,T2,75.0,value,75,kth_lokal,4,3,Farkostteknik
+KTH,CFATE,KTH-32105,HT09,2009,urval2,BG,16.6,value,16.60,betyg_20,76,119,Farkostteknik
+KTH,CFATE,KTH-32105,HT09,2009,urval2,DA,,all_admitted,*,annat,1,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT09,2009,urval2,HP,1.1,value,1.10,hogskoleprov,37,68,Farkostteknik
+KTH,CFATE,KTH-32105,HT09,2009,urval2,T1,,all_admitted,*,kth_lokal,12,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT09,2009,urval2,T2,75.0,value,75,kth_lokal,4,3,Farkostteknik
+KTH,CTFYS,KTH-32114,HT09,2009,urval1,BF,,none_admitted,-,folkhogskola,0,2,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT09,2009,urval1,BG,19.38,value,19.38,betyg_20,89,234,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT09,2009,urval1,DA,,all_admitted,*,annat,4,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT09,2009,urval1,HP,1.6,value,1.60,hogskoleprov,44,147,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT09,2009,urval1,ÖS,,none_admitted,-,annat,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT09,2009,urval1,T1,,all_admitted,*,kth_lokal,14,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT09,2009,urval1,T2,65.0,value,65,kth_lokal,4,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT09,2009,urval2,BF,,none_admitted,-,folkhogskola,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT09,2009,urval2,BG,19.4,value,19.40,betyg_20,68,126,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT09,2009,urval2,DA,,all_admitted,*,annat,4,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT09,2009,urval2,HP,1.6,value,1.60,hogskoleprov,40,80,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT09,2009,urval2,ÖS,,none_admitted,-,annat,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT09,2009,urval2,T1,,all_admitted,*,kth_lokal,14,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT09,2009,urval2,T2,65.0,value,65,kth_lokal,4,1,Teknisk fysik
+KTH,COPEN,KTH-32115,HT09,2009,urval1,BF,,none_admitted,-,folkhogskola,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT09,2009,urval1,BG,18.1,value,18.10,betyg_20,99,430,Öppen ingång
+KTH,COPEN,KTH-32115,HT09,2009,urval1,DA,,all_admitted,*,annat,2,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT09,2009,urval1,HP,1.3,value,1.30,hogskoleprov,48,262,Öppen ingång
+KTH,COPEN,KTH-32115,HT09,2009,urval1,T1,,all_admitted,*,kth_lokal,10,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT09,2009,urval1,T2,,all_admitted,*,kth_lokal,1,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT09,2009,urval2,BF,,none_admitted,-,folkhogskola,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT09,2009,urval2,BG,17.98,value,17.98,betyg_20,79,229,Öppen ingång
+KTH,COPEN,KTH-32115,HT09,2009,urval2,DA,,all_admitted,*,annat,2,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT09,2009,urval2,HP,1.3,value,1.30,hogskoleprov,38,149,Öppen ingång
+KTH,COPEN,KTH-32115,HT09,2009,urval2,T1,,all_admitted,*,kth_lokal,10,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT09,2009,urval2,T2,,all_admitted,*,kth_lokal,1,0,Öppen ingång
+KTH,CFATE,KTH-32105,HT10,2010,urval1,BI,18.39,value,18.39,betyg_22_5,78,115,Farkostteknik
+KTH,CFATE,KTH-32105,HT10,2010,urval1,BII,17.04,value,17.04,betyg_22_5,10,10,Farkostteknik
+KTH,CFATE,KTH-32105,HT10,2010,urval1,BIII,450.0,value,450,utlandska_betyg,2,7,Farkostteknik
+KTH,CFATE,KTH-32105,HT10,2010,urval1,BIV,,none_admitted,-,utlandska_betyg,0,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT10,2010,urval1,DA,,all_admitted,*,annat,3,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT10,2010,urval1,HP,1.0,value,1.00,hogskoleprov,43,73,Farkostteknik
+KTH,CFATE,KTH-32105,HT10,2010,urval1,ÖS,,none_admitted,-,annat,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT10,2010,urval1,T10,,all_admitted,*,kth_lokal,12,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT10,2010,urval1,T20,,all_admitted,*,kth_lokal,2,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT10,2010,urval2,BI,18.2,value,18.20,betyg_22_5,56,64,Farkostteknik
+KTH,CFATE,KTH-32105,HT10,2010,urval2,BII,17.04,value,17.04,betyg_22_5,9,7,Farkostteknik
+KTH,CFATE,KTH-32105,HT10,2010,urval2,BIII,450.0,value,450,utlandska_betyg,2,3,Farkostteknik
+KTH,CFATE,KTH-32105,HT10,2010,urval2,BIV,,none_admitted,-,utlandska_betyg,0,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT10,2010,urval2,DA,,all_admitted,*,annat,3,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT10,2010,urval2,HP,1.0,value,1.00,hogskoleprov,36,40,Farkostteknik
+KTH,CFATE,KTH-32105,HT10,2010,urval2,ÖS,,none_admitted,-,annat,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT10,2010,urval2,T10,,all_admitted,*,kth_lokal,12,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT10,2010,urval2,T20,,all_admitted,*,kth_lokal,2,0,Farkostteknik
+KTH,CTFYS,KTH-32114,HT10,2010,urval1,BI,21.5,value,21.50,betyg_22_5,76,229,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT10,2010,urval1,BII,20.3,value,20.30,betyg_22_5,9,32,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT10,2010,urval1,BIII,480.0,value,480,utlandska_betyg,1,7,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT10,2010,urval1,BIV,,none_admitted,-,utlandska_betyg,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT10,2010,urval1,DA,,all_admitted,*,annat,2,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT10,2010,urval1,HP,1.7,value,1.70,hogskoleprov,42,183,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT10,2010,urval1,T10,245.0,value,245,kth_lokal,17,5,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT10,2010,urval1,T20,135.0,value,135,kth_lokal,3,3,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT10,2010,urval2,BI,21.5,value,21.50,betyg_22_5,56,115,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT10,2010,urval2,BII,20.72,value,20.72,betyg_22_5,8,20,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT10,2010,urval2,BIII,480.0,value,480,utlandska_betyg,1,5,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT10,2010,urval2,BIV,,none_admitted,-,utlandska_betyg,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT10,2010,urval2,DA,,all_admitted,*,annat,2,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT10,2010,urval2,HP,1.7,value,1.70,hogskoleprov,37,96,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT10,2010,urval2,T10,245.0,value,245,kth_lokal,18,4,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT10,2010,urval2,T20,135.0,value,135,kth_lokal,3,3,Teknisk fysik
+KTH,COPEN,KTH-32115,HT10,2010,urval1,BI,19.6,value,19.60,betyg_22_5,84,306,Öppen ingång
+KTH,COPEN,KTH-32115,HT10,2010,urval1,BII,19.2,value,19.20,betyg_22_5,14,47,Öppen ingång
+KTH,COPEN,KTH-32115,HT10,2010,urval1,BIII,445.0,value,445,utlandska_betyg,2,12,Öppen ingång
+KTH,COPEN,KTH-32115,HT10,2010,urval1,BIV,,none_admitted,-,utlandska_betyg,0,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT10,2010,urval1,DA,,all_admitted,*,annat,2,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT10,2010,urval1,HP,1.3,value,1.30,hogskoleprov,49,247,Öppen ingång
+KTH,COPEN,KTH-32115,HT10,2010,urval1,ÖS,,none_admitted,-,annat,0,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT10,2010,urval1,T10,,all_admitted,*,kth_lokal,6,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT10,2010,urval1,T20,,all_admitted,*,kth_lokal,3,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT10,2010,urval2,BI,19.59,value,19.59,betyg_22_5,58,151,Öppen ingång
+KTH,COPEN,KTH-32115,HT10,2010,urval2,BII,19.2,value,19.20,betyg_22_5,13,35,Öppen ingång
+KTH,COPEN,KTH-32115,HT10,2010,urval2,BIII,445.0,value,445,utlandska_betyg,3,4,Öppen ingång
+KTH,COPEN,KTH-32115,HT10,2010,urval2,BIV,,none_admitted,-,utlandska_betyg,0,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT10,2010,urval2,DA,,all_admitted,*,annat,2,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT10,2010,urval2,HP,1.3,value,1.30,hogskoleprov,44,128,Öppen ingång
+KTH,COPEN,KTH-32115,HT10,2010,urval2,ÖS,,none_admitted,-,annat,0,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT10,2010,urval2,T10,,all_admitted,*,kth_lokal,7,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT10,2010,urval2,T20,,all_admitted,*,kth_lokal,3,0,Öppen ingång
+KTH,CFATE,KTH-32105,HT11,2011,urval1,BI,18.92,value,18.92,betyg_22_5,54,149,Farkostteknik
+KTH,CFATE,KTH-32105,HT11,2011,urval1,BII,17.9,value,17.90,betyg_22_5,9,22,Farkostteknik
+KTH,CFATE,KTH-32105,HT11,2011,urval1,BIII,450.0,value,450,utlandska_betyg,1,7,Farkostteknik
+KTH,CFATE,KTH-32105,HT11,2011,urval1,BIV,,none_admitted,-,utlandska_betyg,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT11,2011,urval1,DA,,all_admitted,*,annat,2,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT11,2011,urval1,HP,1.0,value,1.00,hogskoleprov,61,122,Farkostteknik
+KTH,CFATE,KTH-32105,HT11,2011,urval1,MAFY,,all_admitted,*,mafy,4,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT11,2011,urval1,ÖS,,none_admitted,-,annat,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT11,2011,urval1,T10,,all_admitted,*,kth_lokal,15,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT11,2011,urval1,T20,125.0,value,125,kth_lokal,4,7,Farkostteknik
+KTH,CFATE,KTH-32105,HT11,2011,urval2,BI,18.92,value,18.92,betyg_22_5,39,84,Farkostteknik
+KTH,CFATE,KTH-32105,HT11,2011,urval2,BII,17.9,value,17.90,betyg_22_5,8,16,Farkostteknik
+KTH,CFATE,KTH-32105,HT11,2011,urval2,BIII,450.0,value,450,utlandska_betyg,1,3,Farkostteknik
+KTH,CFATE,KTH-32105,HT11,2011,urval2,BIV,,none_admitted,-,utlandska_betyg,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT11,2011,urval2,DA,,all_admitted,*,annat,1,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT11,2011,urval2,HP,1.0,value,1.00,hogskoleprov,48,74,Farkostteknik
+KTH,CFATE,KTH-32105,HT11,2011,urval2,MAFY,,all_admitted,*,mafy,4,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT11,2011,urval2,ÖS,,none_admitted,-,annat,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT11,2011,urval2,T10,,all_admitted,*,kth_lokal,15,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT11,2011,urval2,T20,125.0,value,125,kth_lokal,4,5,Farkostteknik
+KTH,CTFYS,KTH-32114,HT11,2011,urval1,BI,21.9,value,21.90,betyg_22_5,39,264,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT11,2011,urval1,BII,21.6,value,21.60,betyg_22_5,4,54,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT11,2011,urval1,BIII,490.0,value,490,utlandska_betyg,1,11,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT11,2011,urval1,BIV,,none_admitted,-,utlandska_betyg,0,2,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT11,2011,urval1,HP,1.6,value,1.60,hogskoleprov,43,219,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT11,2011,urval1,MAFY,,all_admitted,*,mafy,43,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT11,2011,urval1,ÖS,,none_admitted,-,annat,0,2,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT11,2011,urval1,T10,270.0,value,270,kth_lokal,16,14,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT11,2011,urval1,T20,140.0,value,140,kth_lokal,4,10,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT11,2011,urval2,BI,21.9,value,21.90,betyg_22_5,32,130,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT11,2011,urval2,BII,21.6,value,21.60,betyg_22_5,3,39,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT11,2011,urval2,BIII,490.0,value,490,utlandska_betyg,1,8,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT11,2011,urval2,BIV,,none_admitted,-,utlandska_betyg,0,2,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT11,2011,urval2,HP,1.6,value,1.60,hogskoleprov,38,116,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT11,2011,urval2,MAFY,,all_admitted,*,mafy,41,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT11,2011,urval2,ÖS,,none_admitted,-,annat,0,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT11,2011,urval2,T10,270.0,value,270,kth_lokal,16,12,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT11,2011,urval2,T20,140.0,value,140,kth_lokal,4,7,Teknisk fysik
+KTH,COPEN,KTH-32115,HT11,2011,urval1,BI,20.3,value,20.30,betyg_22_5,80,358,Öppen ingång
+KTH,COPEN,KTH-32115,HT11,2011,urval1,BII,19.4,value,19.40,betyg_22_5,13,73,Öppen ingång
+KTH,COPEN,KTH-32115,HT11,2011,urval1,BIII,460.0,value,460,utlandska_betyg,2,13,Öppen ingång
+KTH,COPEN,KTH-32115,HT11,2011,urval1,BIV,,none_admitted,-,utlandska_betyg,0,2,Öppen ingång
+KTH,COPEN,KTH-32115,HT11,2011,urval1,DA,,all_admitted,*,annat,1,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT11,2011,urval1,HP,1.3,value,1.30,hogskoleprov,46,313,Öppen ingång
+KTH,COPEN,KTH-32115,HT11,2011,urval1,ÖS,,none_admitted,-,annat,0,2,Öppen ingång
+KTH,COPEN,KTH-32115,HT11,2011,urval1,T10,,all_admitted,*,kth_lokal,13,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT11,2011,urval1,T20,115.0,value,115,kth_lokal,5,8,Öppen ingång
+KTH,COPEN,KTH-32115,HT11,2011,urval2,BI,20.3,value,20.30,betyg_22_5,64,183,Öppen ingång
+KTH,COPEN,KTH-32115,HT11,2011,urval2,BII,19.4,value,19.40,betyg_22_5,10,45,Öppen ingång
+KTH,COPEN,KTH-32115,HT11,2011,urval2,BIII,460.0,value,460,utlandska_betyg,2,7,Öppen ingång
+KTH,COPEN,KTH-32115,HT11,2011,urval2,BIV,,none_admitted,-,utlandska_betyg,0,2,Öppen ingång
+KTH,COPEN,KTH-32115,HT11,2011,urval2,DA,,all_admitted,*,annat,1,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT11,2011,urval2,HP,1.4,value,1.40,hogskoleprov,38,172,Öppen ingång
+KTH,COPEN,KTH-32115,HT11,2011,urval2,ÖS,,none_admitted,-,annat,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT11,2011,urval2,T10,,all_admitted,*,kth_lokal,12,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT11,2011,urval2,T20,115.0,value,115,kth_lokal,5,7,Öppen ingång
+KTH,CFATE,KTH-32105,HT12,2012,urval1,BF,,none_admitted,-,folkhogskola,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT12,2012,urval1,BI,19.5,value,19.50,betyg_22_5,59,207,Farkostteknik
+KTH,CFATE,KTH-32105,HT12,2012,urval1,BII,17.98,value,17.98,betyg_22_5,10,41,Farkostteknik
+KTH,CFATE,KTH-32105,HT12,2012,urval1,DA,,all_admitted,*,annat,1,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT12,2012,urval1,HP,1.3,value,1.30,hogskoleprov,67,203,Farkostteknik
+KTH,CFATE,KTH-32105,HT12,2012,urval1,MAFY,,all_admitted,*,mafy,1,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT12,2012,urval1,ÖS,,none_admitted,-,annat,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT12,2012,urval1,T10,,all_admitted,*,kth_lokal,10,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT12,2012,urval1,T20,,all_admitted,*,kth_lokal,2,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT12,2012,urval2,BF,,none_admitted,-,folkhogskola,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT12,2012,urval2,BI,19.5,value,19.50,betyg_22_5,43,127,Farkostteknik
+KTH,CFATE,KTH-32105,HT12,2012,urval2,BII,17.98,value,17.98,betyg_22_5,8,29,Farkostteknik
+KTH,CFATE,KTH-32105,HT12,2012,urval2,DA,,all_admitted,*,annat,1,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT12,2012,urval2,HP,1.3,value,1.30,hogskoleprov,55,131,Farkostteknik
+KTH,CFATE,KTH-32105,HT12,2012,urval2,MAFY,,all_admitted,*,mafy,1,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT12,2012,urval2,ÖS,,none_admitted,-,annat,0,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT12,2012,urval2,T10,,all_admitted,*,kth_lokal,10,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT12,2012,urval2,T20,,all_admitted,*,kth_lokal,2,0,Farkostteknik
+KTH,CTFYS,KTH-32114,HT12,2012,urval1,BF,,none_admitted,-,folkhogskola,0,4,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT12,2012,urval1,BI,22.1,value,22.10,betyg_22_5,50,341,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT12,2012,urval1,BII,21.7,value,21.70,betyg_22_5,5,49,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT12,2012,urval1,HP,1.7,value,1.70,hogskoleprov,54,296,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT12,2012,urval1,MAFY,,all_admitted,*,mafy,21,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT12,2012,urval1,T10,,all_admitted,*,kth_lokal,19,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT12,2012,urval1,T20,125.0,value,125,kth_lokal,6,2,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT12,2012,urval2,BF,,none_admitted,-,folkhogskola,0,3,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT12,2012,urval2,BI,22.1,value,22.10,betyg_22_5,41,163,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT12,2012,urval2,BII,22.11,value,22.11,betyg_22_5,2,29,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT12,2012,urval2,HP,1.7,value,1.70,hogskoleprov,48,143,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT12,2012,urval2,MAFY,,all_admitted,*,mafy,20,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT12,2012,urval2,T10,,all_admitted,*,kth_lokal,19,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT12,2012,urval2,T20,125.0,value,125,kth_lokal,6,2,Teknisk fysik
+KTH,COPEN,KTH-32115,HT12,2012,urval1,BF,,none_admitted,-,folkhogskola,0,3,Öppen ingång
+KTH,COPEN,KTH-32115,HT12,2012,urval1,BI,20.5,value,20.50,betyg_22_5,83,571,Öppen ingång
+KTH,COPEN,KTH-32115,HT12,2012,urval1,BII,19.87,value,19.87,betyg_22_5,15,109,Öppen ingång
+KTH,COPEN,KTH-32115,HT12,2012,urval1,HP,1.5,value,1.50,hogskoleprov,48,553,Öppen ingång
+KTH,COPEN,KTH-32115,HT12,2012,urval1,ÖS,,none_admitted,-,annat,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT12,2012,urval1,T10,,all_admitted,*,kth_lokal,10,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT12,2012,urval1,T20,,all_admitted,*,kth_lokal,4,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT12,2012,urval2,BF,,none_admitted,-,folkhogskola,0,2,Öppen ingång
+KTH,COPEN,KTH-32115,HT12,2012,urval2,BI,20.5,value,20.50,betyg_22_5,63,290,Öppen ingång
+KTH,COPEN,KTH-32115,HT12,2012,urval2,BII,19.87,value,19.87,betyg_22_5,13,56,Öppen ingång
+KTH,COPEN,KTH-32115,HT12,2012,urval2,HP,1.5,value,1.50,hogskoleprov,40,274,Öppen ingång
+KTH,COPEN,KTH-32115,HT12,2012,urval2,ÖS,,none_admitted,-,annat,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT12,2012,urval2,T10,,all_admitted,*,kth_lokal,10,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT12,2012,urval2,T20,,all_admitted,*,kth_lokal,4,0,Öppen ingång
+KTH,CFATE,KTH-32105,HT13,2013,urval1,BF,,none_admitted,-,folkhogskola,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT13,2013,urval1,BI,19.0,value,19.00,betyg_22_5,61,154,Farkostteknik
+KTH,CFATE,KTH-32105,HT13,2013,urval1,BII,18.3,value,18.30,betyg_22_5,9,28,Farkostteknik
+KTH,CFATE,KTH-32105,HT13,2013,urval1,HP,1.2,value,1.20,hogskoleprov,68,137,Farkostteknik
+KTH,CFATE,KTH-32105,HT13,2013,urval1,MAFY,,all_admitted,*,mafy,1,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT13,2013,urval1,ÖS,,none_admitted,-,annat,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT13,2013,urval1,T10,,all_admitted,*,kth_lokal,8,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT13,2013,urval1,T20,,all_admitted,*,kth_lokal,3,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT13,2013,urval2,BF,,none_admitted,-,folkhogskola,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT13,2013,urval2,BI,18.9,value,18.90,betyg_22_5,49,85,Farkostteknik
+KTH,CFATE,KTH-32105,HT13,2013,urval2,BII,18.3,value,18.30,betyg_22_5,6,15,Farkostteknik
+KTH,CFATE,KTH-32105,HT13,2013,urval2,HP,1.2,value,1.20,hogskoleprov,53,79,Farkostteknik
+KTH,CFATE,KTH-32105,HT13,2013,urval2,MAFY,,all_admitted,*,mafy,1,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT13,2013,urval2,ÖS,,none_admitted,-,annat,0,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT13,2013,urval2,T10,,all_admitted,*,kth_lokal,8,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT13,2013,urval2,T20,,all_admitted,*,kth_lokal,3,0,Farkostteknik
+KTH,CTFYS,KTH-32114,HT13,2013,urval1,BF,,none_admitted,-,folkhogskola,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT13,2013,urval1,BI,22.1,value,22.10,betyg_22_5,49,266,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT13,2013,urval1,BII,21.71,value,21.71,betyg_22_5,7,53,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT13,2013,urval1,HP,1.65,value,1.65,hogskoleprov,54,249,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT13,2013,urval1,MAFY,,all_admitted,*,mafy,35,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT13,2013,urval1,ÖS,,none_admitted,-,annat,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT13,2013,urval1,T10,220.0,value,220,kth_lokal,19,3,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT13,2013,urval1,T20,110.0,value,110,kth_lokal,6,2,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT13,2013,urval2,BF,,none_admitted,-,folkhogskola,0,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT13,2013,urval2,BI,22.1,value,22.10,betyg_22_5,44,119,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT13,2013,urval2,BII,21.71,value,21.71,betyg_22_5,6,28,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT13,2013,urval2,HP,1.65,value,1.65,hogskoleprov,46,112,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT13,2013,urval2,MAFY,,all_admitted,*,mafy,34,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT13,2013,urval2,ÖS,,none_admitted,-,annat,0,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT13,2013,urval2,T10,220.0,value,220,kth_lokal,19,3,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT13,2013,urval2,T20,120.0,value,120,kth_lokal,5,1,Teknisk fysik
+KTH,COPEN,KTH-32115,HT13,2013,urval1,BF,,none_admitted,-,folkhogskola,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT13,2013,urval1,BI,20.3,value,20.30,betyg_22_5,92,557,Öppen ingång
+KTH,COPEN,KTH-32115,HT13,2013,urval1,BII,20.0,value,20.00,betyg_22_5,15,101,Öppen ingång
+KTH,COPEN,KTH-32115,HT13,2013,urval1,HP,1.45,value,1.45,hogskoleprov,53,527,Öppen ingång
+KTH,COPEN,KTH-32115,HT13,2013,urval1,ÖS,,none_admitted,-,annat,0,2,Öppen ingång
+KTH,COPEN,KTH-32115,HT13,2013,urval1,T10,,all_admitted,*,kth_lokal,9,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT13,2013,urval1,T20,95.0,value,95,kth_lokal,6,5,Öppen ingång
+KTH,COPEN,KTH-32115,HT13,2013,urval2,BF,,none_admitted,-,folkhogskola,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT13,2013,urval2,BI,20.2,value,20.20,betyg_22_5,71,250,Öppen ingång
+KTH,COPEN,KTH-32115,HT13,2013,urval2,BII,20.0,value,20.00,betyg_22_5,12,58,Öppen ingång
+KTH,COPEN,KTH-32115,HT13,2013,urval2,HP,1.45,value,1.45,hogskoleprov,47,234,Öppen ingång
+KTH,COPEN,KTH-32115,HT13,2013,urval2,ÖS,,none_admitted,-,annat,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT13,2013,urval2,T10,,all_admitted,*,kth_lokal,9,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT13,2013,urval2,T20,95.0,value,95,kth_lokal,6,4,Öppen ingång
+KTH,CFATE,KTH-32105,HT14,2014,urval1,BF,,none_admitted,-,folkhogskola,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT14,2014,urval1,BI,18.9,value,18.90,betyg_22_5,25,162,Farkostteknik
+KTH,CFATE,KTH-32105,HT14,2014,urval1,BIEX,18.11,value,18.11,betyg_22_5,32,95,Farkostteknik
+KTH,CFATE,KTH-32105,HT14,2014,urval1,BII,19.02,value,19.02,betyg_22_5,10,44,Farkostteknik
+KTH,CFATE,KTH-32105,HT14,2014,urval1,HP,1.2,value,1.20,hogskoleprov,65,170,Farkostteknik
+KTH,CFATE,KTH-32105,HT14,2014,urval1,MAFY,,all_admitted,*,mafy,2,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT14,2014,urval1,T10,,all_admitted,*,kth_lokal,11,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT14,2014,urval1,T20,,all_admitted,*,kth_lokal,5,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT14,2014,urval2,BF,,none_admitted,-,folkhogskola,0,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT14,2014,urval2,BI,18.9,value,18.90,betyg_22_5,17,94,Farkostteknik
+KTH,CFATE,KTH-32105,HT14,2014,urval2,BIEX,18.11,value,18.11,betyg_22_5,23,48,Farkostteknik
+KTH,CFATE,KTH-32105,HT14,2014,urval2,BII,19.02,value,19.02,betyg_22_5,9,26,Farkostteknik
+KTH,CFATE,KTH-32105,HT14,2014,urval2,HP,1.2,value,1.20,hogskoleprov,48,96,Farkostteknik
+KTH,CFATE,KTH-32105,HT14,2014,urval2,MAFY,,all_admitted,*,mafy,2,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT14,2014,urval2,T10,,all_admitted,*,kth_lokal,11,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT14,2014,urval2,T20,,all_admitted,*,kth_lokal,5,0,Farkostteknik
+KTH,CTFYS,KTH-32114,HT14,2014,urval1,BF,,none_admitted,-,folkhogskola,0,3,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT14,2014,urval1,BI,22.3,value,22.30,betyg_22_5,16,306,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT14,2014,urval1,BIEX,21.98,value,21.98,betyg_22_5,25,182,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT14,2014,urval1,BII,21.77,value,21.77,betyg_22_5,5,70,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT14,2014,urval1,HP,1.75,value,1.75,hogskoleprov,44,325,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT14,2014,urval1,MAFY,32.0,value,32,mafy,44,7,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT14,2014,urval1,ÖS,,none_admitted,-,annat,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT14,2014,urval1,T10,220.0,value,220,kth_lokal,18,5,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT14,2014,urval1,T20,,all_admitted,*,kth_lokal,8,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT14,2014,urval2,BF,,none_admitted,-,folkhogskola,0,2,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT14,2014,urval2,BI,22.3,value,22.30,betyg_22_5,11,141,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT14,2014,urval2,BIEX,22.08,value,22.08,betyg_22_5,18,90,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT14,2014,urval2,BII,22.0,value,22.00,betyg_22_5,2,38,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT14,2014,urval2,HP,1.75,value,1.75,hogskoleprov,40,149,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT14,2014,urval2,MAFY,32.0,value,32,mafy,43,6,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT14,2014,urval2,ÖS,,none_admitted,-,annat,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT14,2014,urval2,T10,220.0,value,220,kth_lokal,18,2,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT14,2014,urval2,T20,,all_admitted,*,kth_lokal,8,0,Teknisk fysik
+KTH,COPEN,KTH-32115,HT14,2014,urval1,BF,,none_admitted,-,folkhogskola,0,3,Öppen ingång
+KTH,COPEN,KTH-32115,HT14,2014,urval1,BI,20.14,value,20.14,betyg_22_5,44,618,Öppen ingång
+KTH,COPEN,KTH-32115,HT14,2014,urval1,BIEX,19.79,value,19.79,betyg_22_5,49,334,Öppen ingång
+KTH,COPEN,KTH-32115,HT14,2014,urval1,BII,19.36,value,19.36,betyg_22_5,14,120,Öppen ingång
+KTH,COPEN,KTH-32115,HT14,2014,urval1,HP,1.5,value,1.50,hogskoleprov,53,623,Öppen ingång
+KTH,COPEN,KTH-32115,HT14,2014,urval1,ÖS,,none_admitted,-,annat,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT14,2014,urval1,T10,,all_admitted,*,kth_lokal,12,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT14,2014,urval1,T20,90.0,value,90,kth_lokal,8,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT14,2014,urval2,BF,,none_admitted,-,folkhogskola,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT14,2014,urval2,BI,20.14,value,20.14,betyg_22_5,33,267,Öppen ingång
+KTH,COPEN,KTH-32115,HT14,2014,urval2,BIEX,19.64,value,19.64,betyg_22_5,38,137,Öppen ingång
+KTH,COPEN,KTH-32115,HT14,2014,urval2,BII,19.36,value,19.36,betyg_22_5,11,75,Öppen ingång
+KTH,COPEN,KTH-32115,HT14,2014,urval2,HP,1.5,value,1.50,hogskoleprov,47,287,Öppen ingång
+KTH,COPEN,KTH-32115,HT14,2014,urval2,ÖS,,none_admitted,-,annat,0,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT14,2014,urval2,T10,,all_admitted,*,kth_lokal,13,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT14,2014,urval2,T20,,all_admitted,*,kth_lokal,8,0,Öppen ingång
+KTH,CFATE,KTH-32105,HT15,2015,urval1,BF,,none_admitted,-,folkhogskola,0,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT15,2015,urval1,BI,20.05,value,20.05,betyg_22_5,13,231,Farkostteknik
+KTH,CFATE,KTH-32105,HT15,2015,urval1,BIEX,18.59,value,18.59,betyg_22_5,43,172,Farkostteknik
+KTH,CFATE,KTH-32105,HT15,2015,urval1,BII,17.34,value,17.34,betyg_22_5,10,49,Farkostteknik
+KTH,CFATE,KTH-32105,HT15,2015,urval1,HP,1.3,value,1.30,hogskoleprov,64,244,Farkostteknik
+KTH,CFATE,KTH-32105,HT15,2015,urval1,MAFY,,all_admitted,*,mafy,1,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT15,2015,urval1,ÖS,,none_admitted,-,annat,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT15,2015,urval1,T10,170.0,value,170,kth_lokal,15,4,Farkostteknik
+KTH,CFATE,KTH-32105,HT15,2015,urval1,T20,,all_admitted,*,kth_lokal,4,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT15,2015,urval2,BF,,none_admitted,-,folkhogskola,0,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT15,2015,urval2,BI,20.05,value,20.05,betyg_22_5,9,131,Farkostteknik
+KTH,CFATE,KTH-32105,HT15,2015,urval2,BIEX,18.59,value,18.59,betyg_22_5,35,93,Farkostteknik
+KTH,CFATE,KTH-32105,HT15,2015,urval2,BII,17.34,value,17.34,betyg_22_5,9,31,Farkostteknik
+KTH,CFATE,KTH-32105,HT15,2015,urval2,HP,1.3,value,1.30,hogskoleprov,56,140,Farkostteknik
+KTH,CFATE,KTH-32105,HT15,2015,urval2,MAFY,,all_admitted,*,mafy,1,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT15,2015,urval2,ÖS,,none_admitted,-,annat,0,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT15,2015,urval2,T10,170.0,value,170,kth_lokal,15,3,Farkostteknik
+KTH,CFATE,KTH-32105,HT15,2015,urval2,T20,,all_admitted,*,kth_lokal,4,0,Farkostteknik
+KTH,CTFYS,KTH-32114,HT15,2015,urval1,BF,,none_admitted,-,folkhogskola,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT15,2015,urval1,BI,22.05,value,22.05,betyg_22_5,10,343,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT15,2015,urval1,BIEX,21.82,value,21.82,betyg_22_5,33,267,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT15,2015,urval1,BII,20.64,value,20.64,betyg_22_5,7,76,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT15,2015,urval1,HP,1.75,value,1.75,hogskoleprov,49,357,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT15,2015,urval1,MAFY,,all_admitted,*,mafy,45,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT15,2015,urval1,T10,205.0,value,205,kth_lokal,18,13,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT15,2015,urval1,T20,,all_admitted,*,kth_lokal,8,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT15,2015,urval2,BF,,none_admitted,-,folkhogskola,0,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT15,2015,urval2,BI,22.05,value,22.05,betyg_22_5,7,167,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT15,2015,urval2,BIEX,21.9,value,21.90,betyg_22_5,26,125,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT15,2015,urval2,BII,20.64,value,20.64,betyg_22_5,7,39,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT15,2015,urval2,HP,1.75,value,1.75,hogskoleprov,39,177,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT15,2015,urval2,MAFY,,all_admitted,*,mafy,42,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT15,2015,urval2,T10,205.0,value,205,kth_lokal,18,10,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT15,2015,urval2,T20,,all_admitted,*,kth_lokal,8,0,Teknisk fysik
+KTH,COPEN,KTH-32115,HT15,2015,urval1,BF,,none_admitted,-,folkhogskola,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT15,2015,urval1,BI,19.57,value,19.57,betyg_22_5,24,568,Öppen ingång
+KTH,COPEN,KTH-32115,HT15,2015,urval1,BIEX,19.53,value,19.53,betyg_22_5,67,425,Öppen ingång
+KTH,COPEN,KTH-32115,HT15,2015,urval1,BII,18.8,value,18.80,betyg_22_5,17,120,Öppen ingång
+KTH,COPEN,KTH-32115,HT15,2015,urval1,HP,1.5,value,1.50,hogskoleprov,53,601,Öppen ingång
+KTH,COPEN,KTH-32115,HT15,2015,urval1,T10,155.0,value,155,kth_lokal,18,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT15,2015,urval1,T20,,all_admitted,*,kth_lokal,6,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT15,2015,urval2,BF,,none_admitted,-,folkhogskola,0,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT15,2015,urval2,BI,19.6,value,19.60,betyg_22_5,19,249,Öppen ingång
+KTH,COPEN,KTH-32115,HT15,2015,urval2,BIEX,19.54,value,19.54,betyg_22_5,51,180,Öppen ingång
+KTH,COPEN,KTH-32115,HT15,2015,urval2,BII,18.8,value,18.80,betyg_22_5,14,67,Öppen ingång
+KTH,COPEN,KTH-32115,HT15,2015,urval2,HP,1.5,value,1.50,hogskoleprov,45,273,Öppen ingång
+KTH,COPEN,KTH-32115,HT15,2015,urval2,T10,155.0,value,155,kth_lokal,18,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT15,2015,urval2,T20,,all_admitted,*,kth_lokal,6,0,Öppen ingång
+KTH,CFATE,KTH-32105,HT16,2016,urval1,BF,,none_admitted,-,folkhogskola,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT16,2016,urval1,BI,19.1,value,19.10,betyg_22_5,8,220,Farkostteknik
+KTH,CFATE,KTH-32105,HT16,2016,urval1,BIEX,18.65,value,18.65,betyg_22_5,52,189,Farkostteknik
+KTH,CFATE,KTH-32105,HT16,2016,urval1,BII,17.11,value,17.11,betyg_22_5,11,38,Farkostteknik
+KTH,CFATE,KTH-32105,HT16,2016,urval1,DA,,all_admitted,*,annat,1,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT16,2016,urval1,HP,1.3,value,1.30,hogskoleprov,45,230,Farkostteknik
+KTH,CFATE,KTH-32105,HT16,2016,urval1,MAFY,,all_admitted,*,mafy,4,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT16,2016,urval1,T10,170.0,value,170,kth_lokal,15,4,Farkostteknik
+KTH,CFATE,KTH-32105,HT16,2016,urval1,T20,,all_admitted,*,kth_lokal,4,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT16,2016,urval2,BF,,none_admitted,-,folkhogskola,0,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT16,2016,urval2,BI,19.25,value,19.25,betyg_22_5,4,119,Farkostteknik
+KTH,CFATE,KTH-32105,HT16,2016,urval2,BIEX,18.65,value,18.65,betyg_22_5,39,104,Farkostteknik
+KTH,CFATE,KTH-32105,HT16,2016,urval2,BII,17.11,value,17.11,betyg_22_5,10,24,Farkostteknik
+KTH,CFATE,KTH-32105,HT16,2016,urval2,DA,,all_admitted,*,annat,1,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT16,2016,urval2,HP,1.3,value,1.30,hogskoleprov,41,131,Farkostteknik
+KTH,CFATE,KTH-32105,HT16,2016,urval2,MAFY,,all_admitted,*,mafy,4,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT16,2016,urval2,ÖS,,none_admitted,-,annat,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT16,2016,urval2,T10,170.0,value,170,kth_lokal,15,4,Farkostteknik
+KTH,CFATE,KTH-32105,HT16,2016,urval2,T20,,all_admitted,*,kth_lokal,4,0,Farkostteknik
+KTH,CTFYS,KTH-32114,HT16,2016,urval1,BF,,none_admitted,-,folkhogskola,0,3,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT16,2016,urval1,BI,22.5,value,22.50,betyg_22_5,6,378,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT16,2016,urval1,BIEX,21.88,value,21.88,betyg_22_5,36,318,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT16,2016,urval1,BII,21.91,value,21.91,betyg_22_5,6,88,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT16,2016,urval1,HP,1.75,value,1.75,hogskoleprov,46,399,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT16,2016,urval1,MAFY,35.0,value,35,mafy,46,30,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT16,2016,urval1,ÖS,,none_admitted,-,annat,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT16,2016,urval1,T10,175.0,value,175,kth_lokal,19,3,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT16,2016,urval1,T20,80.0,value,80,kth_lokal,6,3,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT16,2016,urval2,BF,,none_admitted,-,folkhogskola,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT16,2016,urval2,BI,22.5,value,22.50,betyg_22_5,2,163,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT16,2016,urval2,BIEX,21.88,value,21.88,betyg_22_5,21,133,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT16,2016,urval2,BII,21.91,value,21.91,betyg_22_5,6,51,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT16,2016,urval2,HP,1.75,value,1.75,hogskoleprov,40,179,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT16,2016,urval2,MAFY,35.0,value,35,mafy,47,24,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT16,2016,urval2,ÖS,,none_admitted,-,annat,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT16,2016,urval2,T10,175.0,value,175,kth_lokal,19,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT16,2016,urval2,T20,80.0,value,80,kth_lokal,6,1,Teknisk fysik
+KTH,COPEN,KTH-32115,HT16,2016,urval1,BF,,none_admitted,-,folkhogskola,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT16,2016,urval1,BI,20.0,value,20.00,betyg_22_5,15,590,Öppen ingång
+KTH,COPEN,KTH-32115,HT16,2016,urval1,BIEX,19.92,value,19.92,betyg_22_5,76,488,Öppen ingång
+KTH,COPEN,KTH-32115,HT16,2016,urval1,BII,18.73,value,18.73,betyg_22_5,16,114,Öppen ingång
+KTH,COPEN,KTH-32115,HT16,2016,urval1,HP,1.5,value,1.50,hogskoleprov,52,633,Öppen ingång
+KTH,COPEN,KTH-32115,HT16,2016,urval1,ÖS,,none_admitted,-,annat,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT16,2016,urval1,T10,,all_admitted,*,kth_lokal,16,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT16,2016,urval1,T20,,all_admitted,*,kth_lokal,5,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT16,2016,urval2,BF,,none_admitted,-,folkhogskola,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT16,2016,urval2,BI,20.25,value,20.25,betyg_22_5,13,269,Öppen ingång
+KTH,COPEN,KTH-32115,HT16,2016,urval2,BIEX,19.92,value,19.92,betyg_22_5,60,217,Öppen ingång
+KTH,COPEN,KTH-32115,HT16,2016,urval2,BII,18.73,value,18.73,betyg_22_5,16,55,Öppen ingång
+KTH,COPEN,KTH-32115,HT16,2016,urval2,HP,1.5,value,1.50,hogskoleprov,43,292,Öppen ingång
+KTH,COPEN,KTH-32115,HT16,2016,urval2,ÖS,,none_admitted,-,annat,0,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT16,2016,urval2,T10,,all_admitted,*,kth_lokal,16,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT16,2016,urval2,T20,,all_admitted,*,kth_lokal,5,0,Öppen ingång
+KTH,CFATE,KTH-32105,HT17,2017,urval1,BF,,none_admitted,-,folkhogskola,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT17,2017,urval1,BI,19.05,value,19.05,betyg_22_5,59,228,Farkostteknik
+KTH,CFATE,KTH-32105,HT17,2017,urval1,BII,18.15,value,18.15,betyg_22_5,11,57,Farkostteknik
+KTH,CFATE,KTH-32105,HT17,2017,urval1,HP,1.35,value,1.35,hogskoleprov,39,258,Farkostteknik
+KTH,CFATE,KTH-32105,HT17,2017,urval1,MAFY,,all_admitted,*,mafy,1,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT17,2017,urval1,T10,175.0,value,175,kth_lokal,12,8,Farkostteknik
+KTH,CFATE,KTH-32105,HT17,2017,urval1,T20,65.0,value,65,kth_lokal,3,3,Farkostteknik
+KTH,CFATE,KTH-32105,HT17,2017,urval2,BF,,none_admitted,-,folkhogskola,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT17,2017,urval2,BI,18.75,value,18.75,betyg_22_5,47,111,Farkostteknik
+KTH,CFATE,KTH-32105,HT17,2017,urval2,BII,18.15,value,18.15,betyg_22_5,7,29,Farkostteknik
+KTH,CFATE,KTH-32105,HT17,2017,urval2,HP,1.35,value,1.35,hogskoleprov,30,131,Farkostteknik
+KTH,CFATE,KTH-32105,HT17,2017,urval2,MAFY,,all_admitted,*,mafy,1,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT17,2017,urval2,T10,175.0,value,175,kth_lokal,12,5,Farkostteknik
+KTH,CFATE,KTH-32105,HT17,2017,urval2,T20,65.0,value,65,kth_lokal,3,1,Farkostteknik
+KTH,CTFYS,KTH-32114,HT17,2017,urval1,BF,,none_admitted,-,folkhogskola,0,3,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT17,2017,urval1,BI,21.98,value,21.98,betyg_22_5,40,360,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT17,2017,urval1,BII,21.77,value,21.77,betyg_22_5,6,103,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT17,2017,urval1,HP,1.65,value,1.65,hogskoleprov,45,396,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT17,2017,urval1,MAFY,36.0,value,36,mafy,45,26,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT17,2017,urval1,ÖS,,none_admitted,-,annat,0,2,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT17,2017,urval1,T10,210.0,value,210,kth_lokal,15,21,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT17,2017,urval1,T20,80.0,value,80,kth_lokal,4,5,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT17,2017,urval2,BF,,none_admitted,-,folkhogskola,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT17,2017,urval2,BI,21.98,value,21.98,betyg_22_5,24,147,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT17,2017,urval2,BII,21.77,value,21.77,betyg_22_5,4,52,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT17,2017,urval2,HP,1.65,value,1.65,hogskoleprov,41,171,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT17,2017,urval2,MAFY,36.0,value,36,mafy,43,21,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT17,2017,urval2,ÖS,,none_admitted,-,annat,0,2,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT17,2017,urval2,T10,210.0,value,210,kth_lokal,15,16,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT17,2017,urval2,T20,80.0,value,80,kth_lokal,4,4,Teknisk fysik
+KTH,COPEN,KTH-32115,HT17,2017,urval1,BF,4.0,value,4.00,folkhogskola,1,3,Öppen ingång
+KTH,COPEN,KTH-32115,HT17,2017,urval1,BI,20.05,value,20.05,betyg_22_5,82,469,Öppen ingång
+KTH,COPEN,KTH-32115,HT17,2017,urval1,BII,19.32,value,19.32,betyg_22_5,15,114,Öppen ingång
+KTH,COPEN,KTH-32115,HT17,2017,urval1,HP,1.5,value,1.50,hogskoleprov,48,515,Öppen ingång
+KTH,COPEN,KTH-32115,HT17,2017,urval1,ÖS,,none_admitted,-,annat,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT17,2017,urval1,T10,165.0,value,165,kth_lokal,15,7,Öppen ingång
+KTH,COPEN,KTH-32115,HT17,2017,urval1,T20,70.0,value,70,kth_lokal,4,9,Öppen ingång
+KTH,COPEN,KTH-32115,HT17,2017,urval2,BF,,none_admitted,-,folkhogskola,0,2,Öppen ingång
+KTH,COPEN,KTH-32115,HT17,2017,urval2,BI,20.05,value,20.05,betyg_22_5,66,226,Öppen ingång
+KTH,COPEN,KTH-32115,HT17,2017,urval2,BII,19.32,value,19.32,betyg_22_5,14,70,Öppen ingång
+KTH,COPEN,KTH-32115,HT17,2017,urval2,HP,1.5,value,1.50,hogskoleprov,42,254,Öppen ingång
+KTH,COPEN,KTH-32115,HT17,2017,urval2,ÖS,,none_admitted,-,annat,0,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT17,2017,urval2,T10,165.0,value,165,kth_lokal,15,8,Öppen ingång
+KTH,COPEN,KTH-32115,HT17,2017,urval2,T20,70.0,value,70,kth_lokal,4,8,Öppen ingång
+KTH,CFATE,KTH-32105,HT18,2018,urval1,BF,,none_admitted,-,folkhogskola,0,2,Farkostteknik
+KTH,CFATE,KTH-32105,HT18,2018,urval1,BI,18.65,value,18.65,betyg_22_5,69,149,Farkostteknik
+KTH,CFATE,KTH-32105,HT18,2018,urval1,BII,17.86,value,17.86,betyg_22_5,12,44,Farkostteknik
+KTH,CFATE,KTH-32105,HT18,2018,urval1,HP,1.25,value,1.25,hogskoleprov,46,174,Farkostteknik
+KTH,CFATE,KTH-32105,HT18,2018,urval1,MAFY,,all_admitted,*,mafy,3,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT18,2018,urval1,T10,175.0,value,175,kth_lokal,11,7,Farkostteknik
+KTH,CFATE,KTH-32105,HT18,2018,urval1,T20,,all_admitted,*,kth_lokal,3,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT18,2018,urval2,BF,,none_admitted,-,folkhogskola,0,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT18,2018,urval2,BI,18.65,value,18.65,betyg_22_5,61,82,Farkostteknik
+KTH,CFATE,KTH-32105,HT18,2018,urval2,BII,17.86,value,17.86,betyg_22_5,12,19,Farkostteknik
+KTH,CFATE,KTH-32105,HT18,2018,urval2,HP,1.25,value,1.25,hogskoleprov,40,93,Farkostteknik
+KTH,CFATE,KTH-32105,HT18,2018,urval2,MAFY,,all_admitted,*,mafy,3,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT18,2018,urval2,T10,175.0,value,175,kth_lokal,11,5,Farkostteknik
+KTH,CFATE,KTH-32105,HT18,2018,urval2,T20,,all_admitted,*,kth_lokal,3,0,Farkostteknik
+KTH,CTFYS,KTH-32114,HT18,2018,urval1,BF,,none_admitted,-,folkhogskola,0,3,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT18,2018,urval1,BI,21.98,value,21.98,betyg_22_5,49,323,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT18,2018,urval1,BII,21.32,value,21.32,betyg_22_5,7,70,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT18,2018,urval1,DA,,all_admitted,*,annat,1,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT18,2018,urval1,HP,1.65,value,1.65,hogskoleprov,54,332,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT18,2018,urval1,MAFY,33.0,value,33,mafy,54,14,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT18,2018,urval1,ÖS,,none_admitted,-,annat,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT18,2018,urval1,T10,205.0,value,205,kth_lokal,15,12,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT18,2018,urval1,T20,80.0,value,80,kth_lokal,3,2,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT18,2018,urval2,BF,,none_admitted,-,folkhogskola,0,2,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT18,2018,urval2,BI,21.98,value,21.98,betyg_22_5,36,164,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT18,2018,urval2,BII,21.32,value,21.32,betyg_22_5,7,36,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT18,2018,urval2,DA,,all_admitted,*,annat,1,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT18,2018,urval2,HP,1.65,value,1.65,hogskoleprov,42,167,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT18,2018,urval2,MAFY,33.0,value,33,mafy,54,11,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT18,2018,urval2,ÖS,,none_admitted,-,annat,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT18,2018,urval2,T10,205.0,value,205,kth_lokal,16,8,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT18,2018,urval2,T20,80.0,value,80,kth_lokal,3,2,Teknisk fysik
+KTH,COPEN,KTH-32115,HT18,2018,urval1,BF,,none_admitted,-,folkhogskola,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT18,2018,urval1,BI,19.84,value,19.84,betyg_22_5,90,427,Öppen ingång
+KTH,COPEN,KTH-32115,HT18,2018,urval1,BII,19.12,value,19.12,betyg_22_5,17,106,Öppen ingång
+KTH,COPEN,KTH-32115,HT18,2018,urval1,HP,1.45,value,1.45,hogskoleprov,53,465,Öppen ingång
+KTH,COPEN,KTH-32115,HT18,2018,urval1,ÖS,,none_admitted,-,annat,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT18,2018,urval1,T10,175.0,value,175,kth_lokal,14,18,Öppen ingång
+KTH,COPEN,KTH-32115,HT18,2018,urval1,T20,65.0,value,65,kth_lokal,3,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT18,2018,urval2,BF,,none_admitted,-,folkhogskola,0,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT18,2018,urval2,BI,19.74,value,19.74,betyg_22_5,68,201,Öppen ingång
+KTH,COPEN,KTH-32115,HT18,2018,urval2,BII,19.12,value,19.12,betyg_22_5,16,57,Öppen ingång
+KTH,COPEN,KTH-32115,HT18,2018,urval2,HP,1.45,value,1.45,hogskoleprov,41,224,Öppen ingång
+KTH,COPEN,KTH-32115,HT18,2018,urval2,ÖS,,none_admitted,-,annat,0,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT18,2018,urval2,T10,175.0,value,175,kth_lokal,14,12,Öppen ingång
+KTH,COPEN,KTH-32115,HT18,2018,urval2,T20,65.0,value,65,kth_lokal,3,1,Öppen ingång
+KTH,CFATE,KTH-32105,HT19,2019,urval1,BF,,none_admitted,-,folkhogskola,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT19,2019,urval1,BI,19.05,value,19.05,betyg_22_5,56,166,Farkostteknik
+KTH,CFATE,KTH-32105,HT19,2019,urval1,BII,17.54,value,17.54,betyg_22_5,11,45,Farkostteknik
+KTH,CFATE,KTH-32105,HT19,2019,urval1,DA,,all_admitted,*,annat,5,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT19,2019,urval1,HP,1.3,value,1.30,hogskoleprov,38,183,Farkostteknik
+KTH,CFATE,KTH-32105,HT19,2019,urval1,MAFY,,all_admitted,*,mafy,7,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT19,2019,urval1,T10,165.0,value,165,kth_lokal,10,7,Farkostteknik
+KTH,CFATE,KTH-32105,HT19,2019,urval1,T20,75.0,value,75,kth_lokal,3,5,Farkostteknik
+KTH,CFATE,KTH-32105,HT19,2019,urval2,BF,,none_admitted,-,folkhogskola,0,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT19,2019,urval2,BI,19.06,value,19.06,betyg_22_5,37,97,Farkostteknik
+KTH,CFATE,KTH-32105,HT19,2019,urval2,BII,17.54,value,17.54,betyg_22_5,11,33,Farkostteknik
+KTH,CFATE,KTH-32105,HT19,2019,urval2,DA,,all_admitted,*,annat,5,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT19,2019,urval2,HP,1.3,value,1.30,hogskoleprov,34,110,Farkostteknik
+KTH,CFATE,KTH-32105,HT19,2019,urval2,MAFY,,all_admitted,*,mafy,6,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT19,2019,urval2,T10,165.0,value,165,kth_lokal,10,6,Farkostteknik
+KTH,CFATE,KTH-32105,HT19,2019,urval2,T20,70.0,value,70,kth_lokal,3,3,Farkostteknik
+KTH,CTFYS,KTH-32114,HT19,2019,urval1,BF,,none_admitted,-,folkhogskola,0,3,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT19,2019,urval1,BI,22.19,value,22.19,betyg_22_5,41,376,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT19,2019,urval1,BII,22.27,value,22.27,betyg_22_5,6,88,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT19,2019,urval1,DA,,all_admitted,*,annat,3,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT19,2019,urval1,HP,1.75,value,1.75,hogskoleprov,46,381,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT19,2019,urval1,MAFY,43.0,value,43,mafy,46,58,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT19,2019,urval1,ÖS,,none_admitted,-,annat,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT19,2019,urval1,T10,210.0,value,210,kth_lokal,14,19,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT19,2019,urval1,T20,80.0,value,80,kth_lokal,4,6,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT19,2019,urval2,BF,,none_admitted,-,folkhogskola,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT19,2019,urval2,BI,22.19,value,22.19,betyg_22_5,30,166,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT19,2019,urval2,BII,22.27,value,22.27,betyg_22_5,5,54,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT19,2019,urval2,DA,,all_admitted,*,annat,2,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT19,2019,urval2,HP,1.75,value,1.75,hogskoleprov,39,188,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT19,2019,urval2,MAFY,43.0,value,43,mafy,45,42,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT19,2019,urval2,ÖS,,none_admitted,-,annat,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT19,2019,urval2,T10,210.0,value,210,kth_lokal,14,15,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT19,2019,urval2,T20,80.0,value,80,kth_lokal,4,5,Teknisk fysik
+KTH,COPEN,KTH-32115,HT19,2019,urval1,BF,4.0,value,4.00,folkhogskola,1,3,Öppen ingång
+KTH,COPEN,KTH-32115,HT19,2019,urval1,BI,20.21,value,20.21,betyg_22_5,80,408,Öppen ingång
+KTH,COPEN,KTH-32115,HT19,2019,urval1,BII,19.38,value,19.38,betyg_22_5,15,128,Öppen ingång
+KTH,COPEN,KTH-32115,HT19,2019,urval1,HP,1.45,value,1.45,hogskoleprov,47,462,Öppen ingång
+KTH,COPEN,KTH-32115,HT19,2019,urval1,T10,185.0,value,185,kth_lokal,14,28,Öppen ingång
+KTH,COPEN,KTH-32115,HT19,2019,urval1,T20,75.0,value,75,kth_lokal,3,15,Öppen ingång
+KTH,COPEN,KTH-32115,HT19,2019,urval2,BF,4.0,value,4.00,folkhogskola,1,3,Öppen ingång
+KTH,COPEN,KTH-32115,HT19,2019,urval2,BI,20.21,value,20.21,betyg_22_5,58,213,Öppen ingång
+KTH,COPEN,KTH-32115,HT19,2019,urval2,BII,19.38,value,19.38,betyg_22_5,13,79,Öppen ingång
+KTH,COPEN,KTH-32115,HT19,2019,urval2,HP,1.45,value,1.45,hogskoleprov,36,250,Öppen ingång
+KTH,COPEN,KTH-32115,HT19,2019,urval2,T10,185.0,value,185,kth_lokal,15,21,Öppen ingång
+KTH,COPEN,KTH-32115,HT19,2019,urval2,T20,75.0,value,75,kth_lokal,3,10,Öppen ingång
+KTH,CFATE,KTH-32105,HT20,2020,urval1,BF,,none_admitted,-,folkhogskola,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT20,2020,urval1,BI,19.43,value,19.43,betyg_22_5,70,254,Farkostteknik
+KTH,CFATE,KTH-32105,HT20,2020,urval1,BII,18.7,value,18.70,betyg_22_5,10,49,Farkostteknik
+KTH,CFATE,KTH-32105,HT20,2020,urval1,HP,1.3,value,1.30,hogskoleprov,40,205,Farkostteknik
+KTH,CFATE,KTH-32105,HT20,2020,urval1,ÖS,,none_admitted,-,annat,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT20,2020,urval1,T10,175.0,value,175,kth_lokal,8,3,Farkostteknik
+KTH,CFATE,KTH-32105,HT20,2020,urval1,T20,65.0,value,65,kth_lokal,2,2,Farkostteknik
+KTH,CFATE,KTH-32105,HT20,2020,urval2,BF,,none_admitted,-,folkhogskola,0,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT20,2020,urval2,BI,19.43,value,19.43,betyg_22_5,49,150,Farkostteknik
+KTH,CFATE,KTH-32105,HT20,2020,urval2,BII,18.7,value,18.70,betyg_22_5,10,33,Farkostteknik
+KTH,CFATE,KTH-32105,HT20,2020,urval2,DA,,all_admitted,*,annat,3,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT20,2020,urval2,HP,1.3,value,1.30,hogskoleprov,34,123,Farkostteknik
+KTH,CFATE,KTH-32105,HT20,2020,urval2,ÖS,,none_admitted,-,annat,0,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT20,2020,urval2,T10,175.0,value,175,kth_lokal,8,3,Farkostteknik
+KTH,CFATE,KTH-32105,HT20,2020,urval2,T20,,all_admitted,*,kth_lokal,2,0,Farkostteknik
+KTH,CTFYS,KTH-32114,HT20,2020,urval1,BF,4.0,value,4.00,folkhogskola,1,3,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT20,2020,urval1,BI,22.0,value,22.00,betyg_22_5,89,450,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT20,2020,urval1,BII,21.11,value,21.11,betyg_22_5,10,79,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT20,2020,urval1,DA,,all_admitted,*,annat,7,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT20,2020,urval1,HP,1.65,value,1.65,hogskoleprov,49,368,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT20,2020,urval1,ÖS,,none_admitted,-,annat,0,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT20,2020,urval1,T10,200.0,value,200,kth_lokal,11,14,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT20,2020,urval1,T20,85.0,value,85,kth_lokal,3,6,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT20,2020,urval2,BF,4.0,value,4.00,folkhogskola,1,2,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT20,2020,urval2,BI,22.0,value,22.00,betyg_22_5,72,231,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT20,2020,urval2,BII,21.11,value,21.11,betyg_22_5,8,56,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT20,2020,urval2,DA,,all_admitted,*,annat,7,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT20,2020,urval2,HP,1.65,value,1.65,hogskoleprov,38,199,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT20,2020,urval2,ÖS,,none_admitted,-,annat,0,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT20,2020,urval2,T10,200.0,value,200,kth_lokal,11,12,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT20,2020,urval2,T20,85.0,value,85,kth_lokal,3,4,Teknisk fysik
+KTH,COPEN,KTH-32115,HT20,2020,urval1,BF,4.0,value,4.00,folkhogskola,1,2,Öppen ingång
+KTH,COPEN,KTH-32115,HT20,2020,urval1,BI,20.57,value,20.57,betyg_22_5,83,592,Öppen ingång
+KTH,COPEN,KTH-32115,HT20,2020,urval1,BII,20.0,value,20.00,betyg_22_5,13,128,Öppen ingång
+KTH,COPEN,KTH-32115,HT20,2020,urval1,DA,,all_admitted,*,annat,1,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT20,2020,urval1,HP,1.45,value,1.45,hogskoleprov,48,528,Öppen ingång
+KTH,COPEN,KTH-32115,HT20,2020,urval1,ÖS,,none_admitted,-,annat,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT20,2020,urval1,T10,180.0,value,180,kth_lokal,11,10,Öppen ingång
+KTH,COPEN,KTH-32115,HT20,2020,urval1,T20,60.0,value,60,kth_lokal,3,2,Öppen ingång
+KTH,COPEN,KTH-32115,HT20,2020,urval2,BF,,all_admitted,*,folkhogskola,1,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT20,2020,urval2,BI,20.6,value,20.60,betyg_22_5,66,303,Öppen ingång
+KTH,COPEN,KTH-32115,HT20,2020,urval2,BII,20.0,value,20.00,betyg_22_5,12,76,Öppen ingång
+KTH,COPEN,KTH-32115,HT20,2020,urval2,DA,,all_admitted,*,annat,1,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT20,2020,urval2,HP,1.45,value,1.45,hogskoleprov,42,276,Öppen ingång
+KTH,COPEN,KTH-32115,HT20,2020,urval2,ÖS,,none_admitted,-,annat,0,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT20,2020,urval2,T10,180.0,value,180,kth_lokal,11,8,Öppen ingång
+KTH,COPEN,KTH-32115,HT20,2020,urval2,T20,60.0,value,60,kth_lokal,3,2,Öppen ingång
+KTH,CTMAT,KTH-32116,HT20,2020,urval1,BF,,none_admitted,-,folkhogskola,0,6,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT20,2020,urval1,BI,22.1,value,22.10,betyg_22_5,31,406,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT20,2020,urval1,BII,21.25,value,21.25,betyg_22_5,5,126,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT20,2020,urval1,HP,1.75,value,1.75,hogskoleprov,18,395,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT20,2020,urval1,ÖS,,none_admitted,-,annat,0,2,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT20,2020,urval1,T10,200.0,value,200,kth_lokal,5,16,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT20,2020,urval1,T20,85.0,value,85,kth_lokal,1,9,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT20,2020,urval2,BF,,none_admitted,-,folkhogskola,0,3,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT20,2020,urval2,BI,22.1,value,22.10,betyg_22_5,25,216,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT20,2020,urval2,BII,21.25,value,21.25,betyg_22_5,4,76,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT20,2020,urval2,HP,1.75,value,1.75,hogskoleprov,16,212,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT20,2020,urval2,ÖS,,none_admitted,-,annat,0,2,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT20,2020,urval2,T10,200.0,value,200,kth_lokal,5,14,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT20,2020,urval2,T20,85.0,value,85,kth_lokal,1,5,Teknisk matematik
+KTH,CFATE,KTH-32105,HT21,2021,urval1,BF,,none_admitted,-,folkhogskola,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT21,2021,urval1,BI,20.49,value,20.49,betyg_22_5,46,307,Farkostteknik
+KTH,CFATE,KTH-32105,HT21,2021,urval1,BII,19.49,value,19.49,betyg_22_5,8,103,Farkostteknik
+KTH,CFATE,KTH-32105,HT21,2021,urval1,DA,,all_admitted,*,annat,5,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT21,2021,urval1,HP,1.3,value,1.30,hogskoleprov,53,282,Farkostteknik
+KTH,CFATE,KTH-32105,HT21,2021,urval1,MAFY,,all_admitted,*,mafy,4,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT21,2021,urval1,ÖS,,none_admitted,-,annat,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT21,2021,urval1,T10,200.0,value,200,kth_lokal,12,37,Farkostteknik
+KTH,CFATE,KTH-32105,HT21,2021,urval1,T20,80.0,value,80,kth_lokal,2,7,Farkostteknik
+KTH,CFATE,KTH-32105,HT21,2021,urval2,BF,,none_admitted,-,folkhogskola,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT21,2021,urval2,BI,20.49,value,20.49,betyg_22_5,33,182,Farkostteknik
+KTH,CFATE,KTH-32105,HT21,2021,urval2,BII,19.49,value,19.49,betyg_22_5,8,61,Farkostteknik
+KTH,CFATE,KTH-32105,HT21,2021,urval2,DA,,all_admitted,*,annat,5,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT21,2021,urval2,HP,1.3,value,1.30,hogskoleprov,45,163,Farkostteknik
+KTH,CFATE,KTH-32105,HT21,2021,urval2,MAFY,,all_admitted,*,mafy,3,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT21,2021,urval2,ÖS,,none_admitted,-,annat,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT21,2021,urval2,T10,200.0,value,200,kth_lokal,12,27,Farkostteknik
+KTH,CFATE,KTH-32105,HT21,2021,urval2,T20,80.0,value,80,kth_lokal,2,6,Farkostteknik
+KTH,CTFYS,KTH-32114,HT21,2021,urval1,BF,,none_admitted,-,folkhogskola,0,5,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT21,2021,urval1,BI,22.29,value,22.29,betyg_22_5,44,413,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT21,2021,urval1,BII,21.4,value,21.40,betyg_22_5,6,93,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT21,2021,urval1,DA,,all_admitted,*,annat,7,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT21,2021,urval1,HP,1.7,value,1.70,hogskoleprov,49,378,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT21,2021,urval1,MAFY,33.0,value,33,mafy,49,8,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT21,2021,urval1,ÖS,,none_admitted,-,annat,0,2,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT21,2021,urval1,T10,200.0,value,200,kth_lokal,17,24,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT21,2021,urval1,T20,85.0,value,85,kth_lokal,3,6,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT21,2021,urval2,BF,,none_admitted,-,folkhogskola,0,4,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT21,2021,urval2,BI,22.29,value,22.29,betyg_22_5,33,201,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT21,2021,urval2,BII,21.4,value,21.40,betyg_22_5,6,55,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT21,2021,urval2,DA,,all_admitted,*,annat,7,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT21,2021,urval2,HP,1.7,value,1.70,hogskoleprov,39,185,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT21,2021,urval2,MAFY,33.0,value,33,mafy,46,6,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT21,2021,urval2,ÖS,,none_admitted,-,annat,0,2,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT21,2021,urval2,T10,200.0,value,200,kth_lokal,16,16,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT21,2021,urval2,T20,85.0,value,85,kth_lokal,3,3,Teknisk fysik
+KTH,COPEN,KTH-32115,HT21,2021,urval1,BF,,none_admitted,-,folkhogskola,0,3,Öppen ingång
+KTH,COPEN,KTH-32115,HT21,2021,urval1,BI,20.68,value,20.68,betyg_22_5,78,509,Öppen ingång
+KTH,COPEN,KTH-32115,HT21,2021,urval1,BII,19.87,value,19.87,betyg_22_5,16,153,Öppen ingång
+KTH,COPEN,KTH-32115,HT21,2021,urval1,DA,,none_admitted,-,annat,0,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT21,2021,urval1,HP,1.5,value,1.50,hogskoleprov,47,512,Öppen ingång
+KTH,COPEN,KTH-32115,HT21,2021,urval1,ÖS,,none_admitted,-,annat,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT21,2021,urval1,T10,185.0,value,185,kth_lokal,16,38,Öppen ingång
+KTH,COPEN,KTH-32115,HT21,2021,urval1,T20,75.0,value,75,kth_lokal,3,5,Öppen ingång
+KTH,COPEN,KTH-32115,HT21,2021,urval2,BF,,none_admitted,-,folkhogskola,0,3,Öppen ingång
+KTH,COPEN,KTH-32115,HT21,2021,urval2,BI,20.68,value,20.68,betyg_22_5,65,258,Öppen ingång
+KTH,COPEN,KTH-32115,HT21,2021,urval2,BII,19.87,value,19.87,betyg_22_5,14,98,Öppen ingång
+KTH,COPEN,KTH-32115,HT21,2021,urval2,DA,,none_admitted,-,annat,0,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT21,2021,urval2,HP,1.5,value,1.50,hogskoleprov,35,272,Öppen ingång
+KTH,COPEN,KTH-32115,HT21,2021,urval2,ÖS,,none_admitted,-,annat,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT21,2021,urval2,T10,185.0,value,185,kth_lokal,16,35,Öppen ingång
+KTH,COPEN,KTH-32115,HT21,2021,urval2,T20,75.0,value,75,kth_lokal,3,5,Öppen ingång
+KTH,CTMAT,KTH-32116,HT21,2021,urval1,BF,,none_admitted,-,folkhogskola,0,2,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT21,2021,urval1,BI,22.29,value,22.29,betyg_22_5,19,282,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT21,2021,urval1,BII,22.19,value,22.19,betyg_22_5,3,85,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT21,2021,urval1,DA,,all_admitted,*,annat,1,0,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT21,2021,urval1,HP,1.75,value,1.75,hogskoleprov,22,273,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT21,2021,urval1,MAFY,35.0,value,35,mafy,22,14,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT21,2021,urval1,T10,210.0,value,210,kth_lokal,7,30,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT21,2021,urval1,T20,85.0,value,85,kth_lokal,1,6,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT21,2021,urval2,BF,,none_admitted,-,folkhogskola,0,2,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT21,2021,urval2,BI,22.34,value,22.34,betyg_22_5,14,144,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT21,2021,urval2,BII,22.19,value,22.19,betyg_22_5,3,47,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT21,2021,urval2,DA,,all_admitted,*,annat,1,0,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT21,2021,urval2,HP,1.75,value,1.75,hogskoleprov,18,138,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT21,2021,urval2,MAFY,35.0,value,35,mafy,21,11,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT21,2021,urval2,T10,210.0,value,210,kth_lokal,7,20,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT21,2021,urval2,T20,85.0,value,85,kth_lokal,1,4,Teknisk matematik
+KTH,CFATE,KTH-32105,HT22,2022,urval1,BF,,none_admitted,-,folkhogskola,0,2,Farkostteknik
+KTH,CFATE,KTH-32105,HT22,2022,urval1,BI,20.21,value,20.21,betyg_22_5,60,314,Farkostteknik
+KTH,CFATE,KTH-32105,HT22,2022,urval1,BII,20.13,value,20.13,betyg_22_5,8,68,Farkostteknik
+KTH,CFATE,KTH-32105,HT22,2022,urval1,DA,,all_admitted,*,annat,3,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT22,2022,urval1,HP,1.4,value,1.40,hogskoleprov,39,295,Farkostteknik
+KTH,CFATE,KTH-32105,HT22,2022,urval1,MAFY,,all_admitted,*,mafy,6,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT22,2022,urval1,ÖS,,none_admitted,-,annat,0,2,Farkostteknik
+KTH,CFATE,KTH-32105,HT22,2022,urval1,T10,180.0,value,180,kth_lokal,12,17,Farkostteknik
+KTH,CFATE,KTH-32105,HT22,2022,urval1,T20,80.0,value,80,kth_lokal,2,10,Farkostteknik
+KTH,CFATE,KTH-32105,HT22,2022,urval2,BF,,none_admitted,-,folkhogskola,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT22,2022,urval2,BI,20.21,value,20.21,betyg_22_5,41,170,Farkostteknik
+KTH,CFATE,KTH-32105,HT22,2022,urval2,BII,19.69,value,19.69,betyg_22_5,6,44,Farkostteknik
+KTH,CFATE,KTH-32105,HT22,2022,urval2,DA,,all_admitted,*,annat,3,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT22,2022,urval2,HP,1.4,value,1.40,hogskoleprov,26,165,Farkostteknik
+KTH,CFATE,KTH-32105,HT22,2022,urval2,MAFY,,all_admitted,*,mafy,5,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT22,2022,urval2,ÖS,,none_admitted,-,annat,0,2,Farkostteknik
+KTH,CFATE,KTH-32105,HT22,2022,urval2,T10,180.0,value,180,kth_lokal,12,11,Farkostteknik
+KTH,CFATE,KTH-32105,HT22,2022,urval2,T20,80.0,value,80,kth_lokal,2,8,Farkostteknik
+KTH,CTFYS,KTH-32114,HT22,2022,urval1,BF,,none_admitted,-,folkhogskola,0,2,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT22,2022,urval1,BI,22.3,value,22.30,betyg_22_5,38,442,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT22,2022,urval1,BII,21.71,value,21.71,betyg_22_5,5,105,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT22,2022,urval1,DA,,all_admitted,*,annat,5,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT22,2022,urval1,HP,1.7,value,1.70,hogskoleprov,41,385,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT22,2022,urval1,MAFY,35.0,value,35,mafy,41,46,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT22,2022,urval1,ÖS,,none_admitted,-,annat,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT22,2022,urval1,T10,210.0,value,210,kth_lokal,17,15,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT22,2022,urval1,T20,90.0,value,90,kth_lokal,3,9,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT22,2022,urval2,BF,,none_admitted,-,folkhogskola,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT22,2022,urval2,BI,22.19,value,22.19,betyg_22_5,38,205,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT22,2022,urval2,BII,21.37,value,21.37,betyg_22_5,5,52,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT22,2022,urval2,DA,,all_admitted,*,annat,5,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT22,2022,urval2,HP,1.65,value,1.65,hogskoleprov,41,182,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT22,2022,urval2,MAFY,35.0,value,35,mafy,41,32,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT22,2022,urval2,ÖS,,none_admitted,-,annat,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT22,2022,urval2,T10,200.0,value,200,kth_lokal,17,9,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT22,2022,urval2,T20,90.0,value,90,kth_lokal,3,7,Teknisk fysik
+KTH,COPEN,KTH-32115,HT22,2022,urval1,BF,,none_admitted,-,folkhogskola,0,3,Öppen ingång
+KTH,COPEN,KTH-32115,HT22,2022,urval1,BI,20.63,value,20.63,betyg_22_5,85,519,Öppen ingång
+KTH,COPEN,KTH-32115,HT22,2022,urval1,BII,20.58,value,20.58,betyg_22_5,14,105,Öppen ingång
+KTH,COPEN,KTH-32115,HT22,2022,urval1,DA,,all_admitted,*,annat,3,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT22,2022,urval1,HP,1.5,value,1.50,hogskoleprov,49,504,Öppen ingång
+KTH,COPEN,KTH-32115,HT22,2022,urval1,ÖS,,none_admitted,-,annat,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT22,2022,urval1,T10,155.0,value,155,kth_lokal,16,3,Öppen ingång
+KTH,COPEN,KTH-32115,HT22,2022,urval1,T20,80.0,value,80,kth_lokal,3,15,Öppen ingång
+KTH,COPEN,KTH-32115,HT22,2022,urval2,BF,,none_admitted,-,folkhogskola,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT22,2022,urval2,BI,20.47,value,20.47,betyg_22_5,59,269,Öppen ingång
+KTH,COPEN,KTH-32115,HT22,2022,urval2,BII,20.55,value,20.55,betyg_22_5,8,66,Öppen ingång
+KTH,COPEN,KTH-32115,HT22,2022,urval2,DA,,all_admitted,*,annat,2,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT22,2022,urval2,HP,1.5,value,1.50,hogskoleprov,37,264,Öppen ingång
+KTH,COPEN,KTH-32115,HT22,2022,urval2,ÖS,,none_admitted,-,annat,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT22,2022,urval2,T10,150.0,value,150,kth_lokal,16,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT22,2022,urval2,T20,80.0,value,80,kth_lokal,3,13,Öppen ingång
+KTH,CTMAT,KTH-32116,HT22,2022,urval1,BF,,none_admitted,-,folkhogskola,0,4,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT22,2022,urval1,BI,22.2,value,22.20,betyg_22_5,16,309,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT22,2022,urval1,BII,22.1,value,22.10,betyg_22_5,3,90,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT22,2022,urval1,DA,,all_admitted,*,annat,1,0,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT22,2022,urval1,HP,1.8,value,1.80,hogskoleprov,18,282,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT22,2022,urval1,MAFY,44.0,value,44,mafy,18,47,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT22,2022,urval1,T10,200.0,value,200,kth_lokal,8,15,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT22,2022,urval1,T20,90.0,value,90,kth_lokal,1,7,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT22,2022,urval2,BF,,none_admitted,-,folkhogskola,0,0,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT22,2022,urval2,BI,22.2,value,22.20,betyg_22_5,16,145,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT22,2022,urval2,BII,22.1,value,22.10,betyg_22_5,3,39,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT22,2022,urval2,DA,,all_admitted,*,annat,1,0,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT22,2022,urval2,HP,1.75,value,1.75,hogskoleprov,18,128,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT22,2022,urval2,MAFY,41.0,value,41,mafy,18,31,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT22,2022,urval2,T10,200.0,value,200,kth_lokal,8,7,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT22,2022,urval2,T20,90.0,value,90,kth_lokal,1,5,Teknisk matematik
+KTH,CFATE,KTH-32105,HT23,2023,urval1,BF,,all_admitted,*,folkhogskola,1,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT23,2023,urval1,BI,20.73,value,20.73,betyg_22_5,61,294,Farkostteknik
+KTH,CFATE,KTH-32105,HT23,2023,urval1,BII,20.55,value,20.55,betyg_22_5,8,57,Farkostteknik
+KTH,CFATE,KTH-32105,HT23,2023,urval1,DA,,all_admitted,*,annat,11,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT23,2023,urval1,HP,1.45,value,1.45,hogskoleprov,40,287,Farkostteknik
+KTH,CFATE,KTH-32105,HT23,2023,urval1,MAFY,,all_admitted,*,mafy,3,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT23,2023,urval1,ÖS,,none_admitted,-,annat,0,2,Farkostteknik
+KTH,CFATE,KTH-32105,HT23,2023,urval1,T10,175.0,value,175,kth_lokal,10,10,Farkostteknik
+KTH,CFATE,KTH-32105,HT23,2023,urval1,T20,65.0,value,65,kth_lokal,1,2,Farkostteknik
+KTH,CFATE,KTH-32105,HT23,2023,urval2,BF,,all_admitted,*,folkhogskola,1,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT23,2023,urval2,BI,20.1,value,20.10,betyg_22_5,62,137,Farkostteknik
+KTH,CFATE,KTH-32105,HT23,2023,urval2,BII,20.55,value,20.55,betyg_22_5,7,39,Farkostteknik
+KTH,CFATE,KTH-32105,HT23,2023,urval2,DA,,all_admitted,*,annat,11,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT23,2023,urval2,HP,1.35,value,1.35,hogskoleprov,40,149,Farkostteknik
+KTH,CFATE,KTH-32105,HT23,2023,urval2,MAFY,,all_admitted,*,mafy,3,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT23,2023,urval2,ÖS,,none_admitted,-,annat,0,2,Farkostteknik
+KTH,CFATE,KTH-32105,HT23,2023,urval2,T10,175.0,value,175,kth_lokal,10,9,Farkostteknik
+KTH,CFATE,KTH-32105,HT23,2023,urval2,T20,65.0,value,65,kth_lokal,1,1,Farkostteknik
+KTH,CTFYS,KTH-32114,HT23,2023,urval1,BF,4.0,value,4.00,folkhogskola,1,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT23,2023,urval1,BI,22.29,value,22.29,betyg_22_5,43,425,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT23,2023,urval1,BII,21.88,value,21.88,betyg_22_5,5,72,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT23,2023,urval1,DA,,all_admitted,*,annat,5,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT23,2023,urval1,HP,1.7,value,1.70,hogskoleprov,48,373,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT23,2023,urval1,MAFY,31.0,value,31,mafy,48,3,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT23,2023,urval1,ÖS,,none_admitted,-,annat,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT23,2023,urval1,T10,190.0,value,190,kth_lokal,14,11,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT23,2023,urval1,T20,85.0,value,85,kth_lokal,1,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT23,2023,urval2,BF,,all_admitted,*,folkhogskola,1,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT23,2023,urval2,BI,22.14,value,22.14,betyg_22_5,45,189,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT23,2023,urval2,BII,21.88,value,21.88,betyg_22_5,5,50,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT23,2023,urval2,DA,,all_admitted,*,annat,5,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT23,2023,urval2,HP,1.65,value,1.65,hogskoleprov,50,169,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT23,2023,urval2,MAFY,,all_admitted,*,mafy,44,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT23,2023,urval2,ÖS,,none_admitted,-,annat,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT23,2023,urval2,T10,190.0,value,190,kth_lokal,14,9,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT23,2023,urval2,T20,85.0,value,85,kth_lokal,1,1,Teknisk fysik
+KTH,COPEN,KTH-32115,HT23,2023,urval1,BF,4.0,value,4.00,folkhogskola,1,4,Öppen ingång
+KTH,COPEN,KTH-32115,HT23,2023,urval1,BI,20.68,value,20.68,betyg_22_5,87,499,Öppen ingång
+KTH,COPEN,KTH-32115,HT23,2023,urval1,BII,21.04,value,21.04,betyg_22_5,13,110,Öppen ingång
+KTH,COPEN,KTH-32115,HT23,2023,urval1,HP,1.5,value,1.50,hogskoleprov,50,506,Öppen ingång
+KTH,COPEN,KTH-32115,HT23,2023,urval1,ÖS,,none_admitted,-,annat,0,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT23,2023,urval1,T10,165.0,value,165,kth_lokal,13,23,Öppen ingång
+KTH,COPEN,KTH-32115,HT23,2023,urval1,T20,70.0,value,70,kth_lokal,1,4,Öppen ingång
+KTH,COPEN,KTH-32115,HT23,2023,urval2,BF,4.0,value,4.00,folkhogskola,1,3,Öppen ingång
+KTH,COPEN,KTH-32115,HT23,2023,urval2,BI,20.31,value,20.31,betyg_22_5,87,241,Öppen ingång
+KTH,COPEN,KTH-32115,HT23,2023,urval2,BII,20.06,value,20.06,betyg_22_5,13,70,Öppen ingång
+KTH,COPEN,KTH-32115,HT23,2023,urval2,HP,1.45,value,1.45,hogskoleprov,50,257,Öppen ingång
+KTH,COPEN,KTH-32115,HT23,2023,urval2,ÖS,,none_admitted,-,annat,0,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT23,2023,urval2,T10,165.0,value,165,kth_lokal,13,15,Öppen ingång
+KTH,COPEN,KTH-32115,HT23,2023,urval2,T20,70.0,value,70,kth_lokal,1,4,Öppen ingång
+KTH,CTMAT,KTH-32116,HT23,2023,urval1,BF,,none_admitted,-,folkhogskola,0,11,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT23,2023,urval1,BI,22.3,value,22.30,betyg_22_5,18,310,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT23,2023,urval1,BII,22.31,value,22.31,betyg_22_5,2,68,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT23,2023,urval1,DA,,all_admitted,*,annat,3,0,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT23,2023,urval1,HP,1.8,value,1.80,hogskoleprov,20,279,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT23,2023,urval1,MAFY,39.0,value,39,mafy,20,19,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT23,2023,urval1,ÖS,,none_admitted,-,annat,0,0,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT23,2023,urval1,T10,200.0,value,200,kth_lokal,6,18,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT23,2023,urval1,T20,,all_admitted,*,kth_lokal,1,0,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT23,2023,urval2,BF,4.0,value,4.00,folkhogskola,1,3,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT23,2023,urval2,BI,22.23,value,22.23,betyg_22_5,17,154,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT23,2023,urval2,BII,22.31,value,22.31,betyg_22_5,2,43,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT23,2023,urval2,DA,,all_admitted,*,annat,3,0,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT23,2023,urval2,HP,1.8,value,1.80,hogskoleprov,20,142,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT23,2023,urval2,MAFY,38.0,value,38,mafy,20,14,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT23,2023,urval2,ÖS,,none_admitted,-,annat,0,0,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT23,2023,urval2,T10,200.0,value,200,kth_lokal,6,12,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT23,2023,urval2,T20,,all_admitted,*,kth_lokal,1,0,Teknisk matematik
+KTH,CFATE,KTH-32105,HT24,2024,urval1,BF,,none_admitted,-,folkhogskola,0,2,Farkostteknik
+KTH,CFATE,KTH-32105,HT24,2024,urval1,BI,20.49,value,20.49,betyg_22_5,67,410,Farkostteknik
+KTH,CFATE,KTH-32105,HT24,2024,urval1,BII,19.72,value,19.72,betyg_22_5,9,92,Farkostteknik
+KTH,CFATE,KTH-32105,HT24,2024,urval1,DA,,all_admitted,*,annat,7,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT24,2024,urval1,HP,1.45,value,1.45,hogskoleprov,44,410,Farkostteknik
+KTH,CFATE,KTH-32105,HT24,2024,urval1,MAFY,,all_admitted,*,mafy,5,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT24,2024,urval1,T10,185.0,value,185,kth_lokal,11,29,Farkostteknik
+KTH,CFATE,KTH-32105,HT24,2024,urval1,T20,70.0,value,70,kth_lokal,2,2,Farkostteknik
+KTH,CFATE,KTH-32105,HT24,2024,urval2,BF,,none_admitted,-,folkhogskola,0,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT24,2024,urval2,BI,19.94,value,19.94,betyg_22_5,68,173,Farkostteknik
+KTH,CFATE,KTH-32105,HT24,2024,urval2,BII,19.58,value,19.58,betyg_22_5,9,54,Farkostteknik
+KTH,CFATE,KTH-32105,HT24,2024,urval2,DA,,all_admitted,*,annat,7,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT24,2024,urval2,HP,1.4,value,1.40,hogskoleprov,44,183,Farkostteknik
+KTH,CFATE,KTH-32105,HT24,2024,urval2,MAFY,,all_admitted,*,mafy,4,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT24,2024,urval2,T10,185.0,value,185,kth_lokal,11,19,Farkostteknik
+KTH,CFATE,KTH-32105,HT24,2024,urval2,T20,70.0,value,70,kth_lokal,2,2,Farkostteknik
+KTH,CTFYS,KTH-32114,HT24,2024,urval1,BF,,none_admitted,-,folkhogskola,0,5,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT24,2024,urval1,BI,22.3,value,22.30,betyg_22_5,43,493,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT24,2024,urval1,BII,21.63,value,21.63,betyg_22_5,5,77,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT24,2024,urval1,DA,,all_admitted,*,annat,6,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT24,2024,urval1,HP,1.7,value,1.70,hogskoleprov,47,459,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT24,2024,urval1,MAFY,31.0,value,31,mafy,47,11,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT24,2024,urval1,ÖS,,none_admitted,-,annat,0,3,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT24,2024,urval1,T10,205.0,value,205,kth_lokal,15,14,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT24,2024,urval1,T20,90.0,value,90,kth_lokal,2,6,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT24,2024,urval2,BF,,none_admitted,-,folkhogskola,0,2,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT24,2024,urval2,BI,22.19,value,22.19,betyg_22_5,44,232,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT24,2024,urval2,BII,21.63,value,21.63,betyg_22_5,4,48,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT24,2024,urval2,DA,,all_admitted,*,annat,6,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT24,2024,urval2,HP,1.7,value,1.70,hogskoleprov,47,225,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT24,2024,urval2,MAFY,31.0,value,31,mafy,47,7,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT24,2024,urval2,ÖS,,none_admitted,-,annat,0,2,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT24,2024,urval2,T10,205.0,value,205,kth_lokal,15,9,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT24,2024,urval2,T20,90.0,value,90,kth_lokal,2,3,Teknisk fysik
+KTH,COPEN,KTH-32115,HT24,2024,urval1,BF,4.0,value,4.00,folkhogskola,1,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT24,2024,urval1,BI,20.94,value,20.94,betyg_22_5,80,672,Öppen ingång
+KTH,COPEN,KTH-32115,HT24,2024,urval1,BII,20.78,value,20.78,betyg_22_5,13,162,Öppen ingång
+KTH,COPEN,KTH-32115,HT24,2024,urval1,DA,,all_admitted,*,annat,3,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT24,2024,urval1,HP,1.55,value,1.55,hogskoleprov,47,689,Öppen ingång
+KTH,COPEN,KTH-32115,HT24,2024,urval1,ÖS,,none_admitted,-,annat,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT24,2024,urval1,T10,180.0,value,180,kth_lokal,14,33,Öppen ingång
+KTH,COPEN,KTH-32115,HT24,2024,urval1,T20,70.0,value,70,kth_lokal,2,6,Öppen ingång
+KTH,COPEN,KTH-32115,HT24,2024,urval2,BF,,all_admitted,*,folkhogskola,1,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT24,2024,urval2,BI,20.63,value,20.63,betyg_22_5,82,332,Öppen ingång
+KTH,COPEN,KTH-32115,HT24,2024,urval2,BII,20.78,value,20.78,betyg_22_5,12,105,Öppen ingång
+KTH,COPEN,KTH-32115,HT24,2024,urval2,DA,,all_admitted,*,annat,2,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT24,2024,urval2,HP,1.55,value,1.55,hogskoleprov,47,358,Öppen ingång
+KTH,COPEN,KTH-32115,HT24,2024,urval2,ÖS,,none_admitted,-,annat,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT24,2024,urval2,T10,180.0,value,180,kth_lokal,14,20,Öppen ingång
+KTH,COPEN,KTH-32115,HT24,2024,urval2,T20,70.0,value,70,kth_lokal,2,4,Öppen ingång
+KTH,CTMAT,KTH-32116,HT24,2024,urval1,BF,,none_admitted,-,folkhogskola,0,5,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT24,2024,urval1,BI,22.4,value,22.40,betyg_22_5,22,318,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT24,2024,urval1,BII,22.22,value,22.22,betyg_22_5,3,55,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT24,2024,urval1,DA,,all_admitted,*,annat,2,0,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT24,2024,urval1,HP,1.75,value,1.75,hogskoleprov,25,292,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT24,2024,urval1,MAFY,33.0,value,33,mafy,25,16,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT24,2024,urval1,ÖS,,none_admitted,-,annat,0,1,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT24,2024,urval1,T10,205.0,value,205,kth_lokal,7,10,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT24,2024,urval1,T20,70.0,value,70,kth_lokal,1,4,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT24,2024,urval2,BF,,none_admitted,-,folkhogskola,0,3,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT24,2024,urval2,BI,22.08,value,22.08,betyg_22_5,22,155,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT24,2024,urval2,BII,22.22,value,22.22,betyg_22_5,3,39,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT24,2024,urval2,DA,,all_admitted,*,annat,2,0,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT24,2024,urval2,HP,1.75,value,1.75,hogskoleprov,25,146,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT24,2024,urval2,MAFY,33.0,value,33,mafy,25,10,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT24,2024,urval2,ÖS,,none_admitted,-,annat,0,1,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT24,2024,urval2,T10,205.0,value,205,kth_lokal,7,9,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT24,2024,urval2,T20,70.0,value,70,kth_lokal,1,2,Teknisk matematik
+KTH,CFATE,KTH-32105,HT25,2025,urval1,BF,,none_admitted,-,folkhogskola,0,2,Farkostteknik
+KTH,CFATE,KTH-32105,HT25,2025,urval1,BI,21.09,value,21.09,betyg_22_5,48,518,Farkostteknik
+KTH,CFATE,KTH-32105,HT25,2025,urval1,BII,19.95,value,19.95,betyg_22_5,7,126,Farkostteknik
+KTH,CFATE,KTH-32105,HT25,2025,urval1,DA,,all_admitted,*,annat,6,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT25,2025,urval1,HP,1.6,value,1.60,hogskoleprov,32,546,Farkostteknik
+KTH,CFATE,KTH-32105,HT25,2025,urval1,MAFY,,all_admitted,*,mafy,7,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT25,2025,urval1,ÖS,,none_admitted,-,annat,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT25,2025,urval1,T10,205.0,value,205,kth_lokal,12,45,Farkostteknik
+KTH,CFATE,KTH-32105,HT25,2025,urval1,T20,70.0,value,70,kth_lokal,3,5,Farkostteknik
+KTH,CFATE,KTH-32105,HT25,2025,urval2,BF,,none_admitted,-,folkhogskola,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT25,2025,urval2,BI,20.56,value,20.56,betyg_22_5,50,258,Farkostteknik
+KTH,CFATE,KTH-32105,HT25,2025,urval2,BII,19.92,value,19.92,betyg_22_5,8,74,Farkostteknik
+KTH,CFATE,KTH-32105,HT25,2025,urval2,DA,,all_admitted,*,annat,4,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT25,2025,urval2,HP,1.55,value,1.55,hogskoleprov,33,276,Farkostteknik
+KTH,CFATE,KTH-32105,HT25,2025,urval2,MAFY,,all_admitted,*,mafy,5,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT25,2025,urval2,ÖS,,none_admitted,-,annat,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT25,2025,urval2,T10,205.0,value,205,kth_lokal,12,35,Farkostteknik
+KTH,CFATE,KTH-32105,HT25,2025,urval2,T20,70.0,value,70,kth_lokal,3,3,Farkostteknik
+KTH,CTFYS,KTH-32114,HT25,2025,urval1,BF,,none_admitted,-,folkhogskola,0,2,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT25,2025,urval1,BI,22.4,value,22.40,betyg_22_5,35,697,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT25,2025,urval1,BII,22.06,value,22.06,betyg_22_5,4,127,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT25,2025,urval1,DA,,all_admitted,*,annat,6,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT25,2025,urval1,HP,1.75,value,1.75,hogskoleprov,37,660,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT25,2025,urval1,MAFY,36.0,value,36,mafy,38,37,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT25,2025,urval1,ÖS,,none_admitted,-,annat,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT25,2025,urval1,T10,215.0,value,215,kth_lokal,16,33,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT25,2025,urval1,T20,70.0,value,70,kth_lokal,4,2,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT25,2025,urval2,BF,,none_admitted,-,folkhogskola,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT25,2025,urval2,BI,22.4,value,22.40,betyg_22_5,36,349,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT25,2025,urval2,BII,21.98,value,21.98,betyg_22_5,4,77,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT25,2025,urval2,DA,,all_admitted,*,annat,4,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT25,2025,urval2,HP,1.75,value,1.75,hogskoleprov,38,337,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT25,2025,urval2,MAFY,36.0,value,36,mafy,38,28,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT25,2025,urval2,ÖS,,none_admitted,-,annat,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT25,2025,urval2,T10,215.0,value,215,kth_lokal,16,26,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT25,2025,urval2,T20,70.0,value,70,kth_lokal,4,2,Teknisk fysik
+KTH,COPEN,KTH-32115,HT25,2025,urval1,BF,,none_admitted,-,folkhogskola,0,7,Öppen ingång
+KTH,COPEN,KTH-32115,HT25,2025,urval1,BI,21.3,value,21.30,betyg_22_5,53,827,Öppen ingång
+KTH,COPEN,KTH-32115,HT25,2025,urval1,BII,21.1,value,21.10,betyg_22_5,9,223,Öppen ingång
+KTH,COPEN,KTH-32115,HT25,2025,urval1,DA,,all_admitted,*,annat,1,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT25,2025,urval1,HP,1.65,value,1.65,hogskoleprov,30,896,Öppen ingång
+KTH,COPEN,KTH-32115,HT25,2025,urval1,ÖS,,none_admitted,-,annat,0,2,Öppen ingång
+KTH,COPEN,KTH-32115,HT25,2025,urval1,T10,205.0,value,205,kth_lokal,12,52,Öppen ingång
+KTH,COPEN,KTH-32115,HT25,2025,urval1,T20,80.0,value,80,kth_lokal,3,20,Öppen ingång
+KTH,COPEN,KTH-32115,HT25,2025,urval2,BF,,none_admitted,-,folkhogskola,0,6,Öppen ingång
+KTH,COPEN,KTH-32115,HT25,2025,urval2,BI,21.0,value,21.00,betyg_22_5,53,408,Öppen ingång
+KTH,COPEN,KTH-32115,HT25,2025,urval2,BII,21.04,value,21.04,betyg_22_5,9,135,Öppen ingång
+KTH,COPEN,KTH-32115,HT25,2025,urval2,DA,,all_admitted,*,annat,1,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT25,2025,urval2,HP,1.65,value,1.65,hogskoleprov,30,468,Öppen ingång
+KTH,COPEN,KTH-32115,HT25,2025,urval2,ÖS,,none_admitted,-,annat,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT25,2025,urval2,T10,200.0,value,200,kth_lokal,12,38,Öppen ingång
+KTH,COPEN,KTH-32115,HT25,2025,urval2,T20,80.0,value,80,kth_lokal,3,9,Öppen ingång
+KTH,CTMAT,KTH-32116,HT25,2025,urval1,BF,,none_admitted,-,folkhogskola,0,2,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT25,2025,urval1,BI,22.4,value,22.40,betyg_22_5,19,434,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT25,2025,urval1,BII,22.41,value,22.41,betyg_22_5,3,96,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT25,2025,urval1,DA,,all_admitted,*,annat,2,0,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT25,2025,urval1,HP,1.8,value,1.80,hogskoleprov,21,416,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT25,2025,urval1,MAFY,40.0,value,40,mafy,21,32,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT25,2025,urval1,ÖS,,none_admitted,-,annat,0,1,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT25,2025,urval1,T10,215.0,value,215,kth_lokal,7,22,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT25,2025,urval1,T20,85.0,value,85,kth_lokal,2,4,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT25,2025,urval2,BF,,none_admitted,-,folkhogskola,0,1,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT25,2025,urval2,BI,22.31,value,22.31,betyg_22_5,19,220,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT25,2025,urval2,BII,22.41,value,22.41,betyg_22_5,3,55,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT25,2025,urval2,DA,,all_admitted,*,annat,1,0,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT25,2025,urval2,HP,1.7,value,1.70,hogskoleprov,21,208,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT25,2025,urval2,MAFY,39.0,value,39,mafy,22,24,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT25,2025,urval2,ÖS,,none_admitted,-,annat,0,1,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT25,2025,urval2,T10,215.0,value,215,kth_lokal,7,18,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT25,2025,urval2,T20,85.0,value,85,kth_lokal,2,4,Teknisk matematik
+KTH,CFATE,KTH-32105,HT26,2026,urval1,BF,,none_admitted,-,folkhogskola,0,3,Farkostteknik
+KTH,CFATE,KTH-32105,HT26,2026,urval1,BI,21.46,value,21.46,betyg_22_5,49,686,Farkostteknik
+KTH,CFATE,KTH-32105,HT26,2026,urval1,BII,20.53,value,20.53,betyg_22_5,8,147,Farkostteknik
+KTH,CFATE,KTH-32105,HT26,2026,urval1,DA,,all_admitted,*,annat,2,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT26,2026,urval1,HP,1.65,value,1.65,hogskoleprov,32,730,Farkostteknik
+KTH,CFATE,KTH-32105,HT26,2026,urval1,MAFY,34.0,value,34,mafy,9,10,Farkostteknik
+KTH,CFATE,KTH-32105,HT26,2026,urval1,ÖS,,none_admitted,-,annat,0,2,Farkostteknik
+KTH,CFATE,KTH-32105,HT26,2026,urval1,T10,190.0,value,190,kth_lokal,11,25,Farkostteknik
+KTH,CFATE,KTH-32105,HT26,2026,urval1,T20,70.0,value,70,kth_lokal,1,2,Farkostteknik
+KTH,CFATE,KTH-32105,HT26,2026,urval2,BF,,none_admitted,-,folkhogskola,0,1,Farkostteknik
+KTH,CFATE,KTH-32105,HT26,2026,urval2,BI,21.04,value,21.04,betyg_22_5,50,323,Farkostteknik
+KTH,CFATE,KTH-32105,HT26,2026,urval2,BII,20.48,value,20.48,betyg_22_5,7,94,Farkostteknik
+KTH,CFATE,KTH-32105,HT26,2026,urval2,DA,,all_admitted,*,annat,2,0,Farkostteknik
+KTH,CFATE,KTH-32105,HT26,2026,urval2,HP,1.6,value,1.60,hogskoleprov,32,358,Farkostteknik
+KTH,CFATE,KTH-32105,HT26,2026,urval2,MAFY,34.0,value,34,mafy,9,5,Farkostteknik
+KTH,CFATE,KTH-32105,HT26,2026,urval2,ÖS,,none_admitted,-,annat,0,2,Farkostteknik
+KTH,CFATE,KTH-32105,HT26,2026,urval2,T10,190.0,value,190,kth_lokal,11,14,Farkostteknik
+KTH,CFATE,KTH-32105,HT26,2026,urval2,T20,70.0,value,70,kth_lokal,1,2,Farkostteknik
+KTH,CTFYS,KTH-32114,HT26,2026,urval1,BF,,none_admitted,-,folkhogskola,0,8,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT26,2026,urval1,BI,22.4,value,22.40,betyg_22_5,37,814,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT26,2026,urval1,BII,22.28,value,22.28,betyg_22_5,5,181,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT26,2026,urval1,DA,,all_admitted,*,annat,5,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT26,2026,urval1,HP,1.85,value,1.85,hogskoleprov,40,847,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT26,2026,urval1,MAFY,41.0,value,41,mafy,40,86,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT26,2026,urval1,ÖS,,none_admitted,-,annat,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT26,2026,urval1,T10,220.0,value,220,kth_lokal,15,29,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT26,2026,urval1,T20,85.0,value,85,kth_lokal,1,4,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT26,2026,urval2,BF,,none_admitted,-,folkhogskola,0,6,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT26,2026,urval2,BI,22.4,value,22.40,betyg_22_5,36,375,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT26,2026,urval2,BII,22.19,value,22.19,betyg_22_5,5,100,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT26,2026,urval2,DA,,all_admitted,*,annat,6,0,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT26,2026,urval2,HP,1.8,value,1.80,hogskoleprov,39,409,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT26,2026,urval2,MAFY,41.0,value,41,mafy,40,70,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT26,2026,urval2,ÖS,,none_admitted,-,annat,0,1,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT26,2026,urval2,T10,220.0,value,220,kth_lokal,16,19,Teknisk fysik
+KTH,CTFYS,KTH-32114,HT26,2026,urval2,T20,85.0,value,85,kth_lokal,1,4,Teknisk fysik
+KTH,COPEN,KTH-32115,HT26,2026,urval1,BF,,none_admitted,-,folkhogskola,0,4,Öppen ingång
+KTH,COPEN,KTH-32115,HT26,2026,urval1,BI,21.61,value,21.61,betyg_22_5,44,876,Öppen ingång
+KTH,COPEN,KTH-32115,HT26,2026,urval1,BII,21.35,value,21.35,betyg_22_5,8,244,Öppen ingång
+KTH,COPEN,KTH-32115,HT26,2026,urval1,DA,,all_admitted,*,annat,1,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT26,2026,urval1,HP,1.75,value,1.75,hogskoleprov,25,994,Öppen ingång
+KTH,COPEN,KTH-32115,HT26,2026,urval1,ÖS,,none_admitted,-,annat,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT26,2026,urval1,T10,195.0,value,195,kth_lokal,11,33,Öppen ingång
+KTH,COPEN,KTH-32115,HT26,2026,urval1,T20,80.0,value,80,kth_lokal,1,3,Öppen ingång
+KTH,COPEN,KTH-32115,HT26,2026,urval2,BF,,none_admitted,-,folkhogskola,0,2,Öppen ingång
+KTH,COPEN,KTH-32115,HT26,2026,urval2,BI,21.41,value,21.41,betyg_22_5,44,403,Öppen ingång
+KTH,COPEN,KTH-32115,HT26,2026,urval2,BII,21.35,value,21.35,betyg_22_5,8,134,Öppen ingång
+KTH,COPEN,KTH-32115,HT26,2026,urval2,DA,,all_admitted,*,annat,1,0,Öppen ingång
+KTH,COPEN,KTH-32115,HT26,2026,urval2,HP,1.7,value,1.70,hogskoleprov,25,478,Öppen ingång
+KTH,COPEN,KTH-32115,HT26,2026,urval2,ÖS,,none_admitted,-,annat,0,1,Öppen ingång
+KTH,COPEN,KTH-32115,HT26,2026,urval2,T10,195.0,value,195,kth_lokal,11,22,Öppen ingång
+KTH,COPEN,KTH-32115,HT26,2026,urval2,T20,80.0,value,80,kth_lokal,1,2,Öppen ingång
+KTH,CTMAT,KTH-32116,HT26,2026,urval1,BF,,none_admitted,-,folkhogskola,0,4,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT26,2026,urval1,BI,22.4,value,22.40,betyg_22_5,19,487,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT26,2026,urval1,BII,22.31,value,22.31,betyg_22_5,3,126,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT26,2026,urval1,DA,,all_admitted,*,annat,1,0,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT26,2026,urval1,HP,1.8,value,1.80,hogskoleprov,21,518,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT26,2026,urval1,MAFY,41.0,value,41,mafy,22,58,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT26,2026,urval1,ÖS,,none_admitted,-,annat,0,1,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT26,2026,urval1,T10,210.0,value,210,kth_lokal,8,17,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT26,2026,urval1,T20,95.0,value,95,kth_lokal,1,4,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT26,2026,urval2,BF,,none_admitted,-,folkhogskola,0,3,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT26,2026,urval2,BI,22.29,value,22.29,betyg_22_5,18,234,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT26,2026,urval2,BII,22.31,value,22.31,betyg_22_5,4,69,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT26,2026,urval2,DA,,all_admitted,*,annat,1,0,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT26,2026,urval2,HP,1.8,value,1.80,hogskoleprov,21,259,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT26,2026,urval2,MAFY,41.0,value,41,mafy,22,47,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT26,2026,urval2,ÖS,,none_admitted,-,annat,0,0,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT26,2026,urval2,T10,210.0,value,210,kth_lokal,8,13,Teknisk matematik
+KTH,CTMAT,KTH-32116,HT26,2026,urval2,T20,95.0,value,95,kth_lokal,1,3,Teknisk matematik

@@ -1,0 +1,1892 @@
+larosate_id,program_id,anmalningskod,termin_id,ar,urval,urvalsgrupp,score,score_status,score_raw,score_scale,n_antagna_grupp,n_reserver_grupp,label
+CTH,TKTFY,CTH-57000,HT08,2008,urval1,APFM,,all_admitted,*,annat,38,0,Chalmers
+CTH,TKTFY,CTH-57000,HT08,2008,urval1,BF,,none_admitted,-,folkhogskola,0,0,Chalmers
+CTH,TKTFY,CTH-57000,HT08,2008,urval1,BG,19.1,value,19.10,betyg_20,79,99,Chalmers
+CTH,TKTFY,CTH-57000,HT08,2008,urval1,DA,,all_admitted,*,annat,2,0,Chalmers
+CTH,TKTFY,CTH-57000,HT08,2008,urval1,HP,1.4,value,1.40,hogskoleprov,37,61,Chalmers
+CTH,TKTFY,CTH-57000,HT08,2008,urval1,ZBGAR,,all_admitted,*,annat,4,0,Chalmers
+CTH,TKTFY,CTH-57000,HT08,2008,urval2,APFM,,all_admitted,*,annat,36,0,Chalmers
+CTH,TKTFY,CTH-57000,HT08,2008,urval2,BF,,none_admitted,-,folkhogskola,0,0,Chalmers
+CTH,TKTFY,CTH-57000,HT08,2008,urval2,BG,19.2,value,19.20,betyg_20,56,50,Chalmers
+CTH,TKTFY,CTH-57000,HT08,2008,urval2,DA,,all_admitted,*,annat,2,0,Chalmers
+CTH,TKTFY,CTH-57000,HT08,2008,urval2,HP,1.4,value,1.40,hogskoleprov,34,35,Chalmers
+CTH,TKTFY,CTH-57000,HT08,2008,urval2,ZBGAR,,all_admitted,*,annat,4,0,Chalmers
+KTH,CTFYS,KTH-32114,HT08,2008,urval1,BF,,none_admitted,-,folkhogskola,0,0,KTH
+KTH,CTFYS,KTH-32114,HT08,2008,urval1,BG,19.22,value,19.22,betyg_20,93,163,KTH
+KTH,CTFYS,KTH-32114,HT08,2008,urval1,HP,1.6,value,1.60,hogskoleprov,45,90,KTH
+KTH,CTFYS,KTH-32114,HT08,2008,urval1,ÖS,,none_admitted,-,annat,0,1,KTH
+KTH,CTFYS,KTH-32114,HT08,2008,urval1,T1,,all_admitted,*,kth_lokal,6,0,KTH
+KTH,CTFYS,KTH-32114,HT08,2008,urval1,T2,,all_admitted,*,kth_lokal,1,0,KTH
+KTH,CTFYS,KTH-32114,HT08,2008,urval2,BF,,none_admitted,-,folkhogskola,0,0,KTH
+KTH,CTFYS,KTH-32114,HT08,2008,urval2,BG,19.22,value,19.22,betyg_20,76,91,KTH
+KTH,CTFYS,KTH-32114,HT08,2008,urval2,HP,1.6,value,1.60,hogskoleprov,35,52,KTH
+KTH,CTFYS,KTH-32114,HT08,2008,urval2,ÖS,,none_admitted,-,annat,0,1,KTH
+KTH,CTFYS,KTH-32114,HT08,2008,urval2,T1,,all_admitted,*,kth_lokal,6,0,KTH
+KTH,CTFYS,KTH-32114,HT08,2008,urval2,T2,,all_admitted,*,kth_lokal,1,0,KTH
+LIU,6CYYY,LIU-50116,HT08,2008,urval1,BF,,none_admitted,-,folkhogskola,0,1,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT08,2008,urval1,BG,16.2,value,16.20,betyg_20,97,59,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT08,2008,urval1,DA,,all_admitted,*,annat,1,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT08,2008,urval1,HP,1.1,value,1.1,hogskoleprov,47,28,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT08,2008,urval1,SA,,none_admitted,-,annat,0,5,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT08,2008,urval2,BF,,none_admitted,-,folkhogskola,0,1,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT08,2008,urval2,BG,14.8,value,14.80,betyg_20,87,8,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT08,2008,urval2,DA,,all_admitted,*,annat,1,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT08,2008,urval2,HP,1.1,value,1.1,hogskoleprov,42,4,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT08,2008,urval2,SA,,none_admitted,-,annat,0,9,Linköping (F och EE)
+LTU,TCTEA,LTU-99102,HT08,2008,urval1,BF,,none_admitted,-,folkhogskola,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-99102,HT08,2008,urval1,BG,,all_admitted,*,betyg_20,14,0,Luleå (F och EE)
+LTU,TCTEA,LTU-99102,HT08,2008,urval1,HP,,all_admitted,*,hogskoleprov,8,0,Luleå (F och EE)
+LTU,TCTEA,LTU-99102,HT08,2008,urval1,ÖS,,none_admitted,-,annat,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-99102,HT08,2008,urval1,SA,,all_admitted,*,annat,1,0,Luleå (F och EE)
+LTU,TCTEA,LTU-99102,HT08,2008,urval2,BF,,none_admitted,-,folkhogskola,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-99102,HT08,2008,urval2,BG,,all_admitted,*,betyg_20,10,0,Luleå (F och EE)
+LTU,TCTEA,LTU-99102,HT08,2008,urval2,HP,,all_admitted,*,hogskoleprov,4,0,Luleå (F och EE)
+LTU,TCTEA,LTU-99102,HT08,2008,urval2,ÖS,,none_admitted,-,annat,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-99102,HT08,2008,urval2,SA,,all_admitted,*,annat,3,0,Luleå (F och EE)
+LU,TATFY,LU-80100,HT08,2008,urval1,BF,,none_admitted,-,folkhogskola,0,1,Lund
+LU,TATFY,LU-80100,HT08,2008,urval1,BG,17.2,value,17.20,betyg_20,82,52,Lund
+LU,TATFY,LU-80100,HT08,2008,urval1,DA,,none_admitted,-,annat,0,0,Lund
+LU,TATFY,LU-80100,HT08,2008,urval1,HP,1.0,value,1.00,hogskoleprov,42,27,Lund
+LU,TATFY,LU-80100,HT08,2008,urval1,SA,,none_admitted,-,annat,0,4,Lund
+LU,TATFY,LU-80100,HT08,2008,urval2,BF,,none_admitted,-,folkhogskola,0,1,Lund
+LU,TATFY,LU-80100,HT08,2008,urval2,BG,17.2,value,17.20,betyg_20,66,35,Lund
+LU,TATFY,LU-80100,HT08,2008,urval2,DA,,none_admitted,-,annat,0,0,Lund
+LU,TATFY,LU-80100,HT08,2008,urval2,HP,1.0,value,1.00,hogskoleprov,36,19,Lund
+LU,TATFY,LU-80100,HT08,2008,urval2,SA,,none_admitted,-,annat,0,2,Lund
+UMU,TYCFT,UMU-01534,HT08,2008,urval1,BF,,none_admitted,-,folkhogskola,0,0,Umeå
+UMU,TYCFT,UMU-01534,HT08,2008,urval1,BG,,all_admitted,*,betyg_20,32,0,Umeå
+UMU,TYCFT,UMU-01534,HT08,2008,urval1,DA,,all_admitted,*,annat,5,0,Umeå
+UMU,TYCFT,UMU-01534,HT08,2008,urval1,HP,,all_admitted,*,hogskoleprov,11,0,Umeå
+UMU,TYCFT,UMU-01534,HT08,2008,urval1,ÖS,,none_admitted,-,annat,0,0,Umeå
+UMU,TYCFT,UMU-01534,HT08,2008,urval1,PG,,all_admitted,*,annat,1,0,Umeå
+UMU,TYCFT,UMU-01534,HT08,2008,urval1,SA,,all_admitted,*,annat,2,0,Umeå
+UMU,TYCFT,UMU-01534,HT08,2008,urval2,BF,,none_admitted,-,folkhogskola,0,0,Umeå
+UMU,TYCFT,UMU-01534,HT08,2008,urval2,BG,,all_admitted,*,betyg_20,25,0,Umeå
+UMU,TYCFT,UMU-01534,HT08,2008,urval2,DA,,all_admitted,*,annat,4,0,Umeå
+UMU,TYCFT,UMU-01534,HT08,2008,urval2,HP,,all_admitted,*,hogskoleprov,8,0,Umeå
+UMU,TYCFT,UMU-01534,HT08,2008,urval2,ÖS,,none_admitted,-,annat,0,0,Umeå
+UMU,TYCFT,UMU-01534,HT08,2008,urval2,PG,,all_admitted,*,annat,1,0,Umeå
+UMU,TYCFT,UMU-01534,HT08,2008,urval2,SA,,all_admitted,*,annat,2,0,Umeå
+UU,TTF2Y,UU-P1507,HT08,2008,urval1,BF,,none_admitted,-,folkhogskola,0,0,Uppsala
+UU,TTF2Y,UU-P1507,HT08,2008,urval1,BG,15.28,value,15.28,betyg_20,78,25,Uppsala
+UU,TTF2Y,UU-P1507,HT08,2008,urval1,DA,,all_admitted,*,annat,9,0,Uppsala
+UU,TTF2Y,UU-P1507,HT08,2008,urval1,HP,0.8,value,0.8,hogskoleprov,38,9,Uppsala
+UU,TTF2Y,UU-P1507,HT08,2008,urval1,ÖS,,none_admitted,-,annat,0,0,Uppsala
+UU,TTF2Y,UU-P1507,HT08,2008,urval1,SA,,none_admitted,-,annat,0,4,Uppsala
+UU,TTF2Y,UU-P1507,HT08,2008,urval2,BF,,none_admitted,-,folkhogskola,0,0,Uppsala
+UU,TTF2Y,UU-P1507,HT08,2008,urval2,BG,15.28,value,15.28,betyg_20,66,12,Uppsala
+UU,TTF2Y,UU-P1507,HT08,2008,urval2,DA,,all_admitted,*,annat,8,0,Uppsala
+UU,TTF2Y,UU-P1507,HT08,2008,urval2,HP,0.8,value,0.8,hogskoleprov,33,5,Uppsala
+UU,TTF2Y,UU-P1507,HT08,2008,urval2,ÖS,,none_admitted,-,annat,0,0,Uppsala
+UU,TTF2Y,UU-P1507,HT08,2008,urval2,SA,,none_admitted,-,annat,0,3,Uppsala
+CTH,TKTFY,CTH-57000,HT09,2009,urval1,APFM,31.0,value,31,annat,45,3,Chalmers
+CTH,TKTFY,CTH-57000,HT09,2009,urval1,BF,,none_admitted,-,folkhogskola,0,5,Chalmers
+CTH,TKTFY,CTH-57000,HT09,2009,urval1,BG,19.51,value,19.51,betyg_20,70,195,Chalmers
+CTH,TKTFY,CTH-57000,HT09,2009,urval1,DA,,all_admitted,*,annat,2,0,Chalmers
+CTH,TKTFY,CTH-57000,HT09,2009,urval1,HP,1.6,value,1.60,hogskoleprov,33,131,Chalmers
+CTH,TKTFY,CTH-57000,HT09,2009,urval1,ZBGAR,,all_admitted,*,annat,5,0,Chalmers
+CTH,TKTFY,CTH-57000,HT09,2009,urval2,APFM,31.0,value,31,annat,45,3,Chalmers
+CTH,TKTFY,CTH-57000,HT09,2009,urval2,BF,,none_admitted,-,folkhogskola,0,2,Chalmers
+CTH,TKTFY,CTH-57000,HT09,2009,urval2,BG,19.51,value,19.51,betyg_20,52,97,Chalmers
+CTH,TKTFY,CTH-57000,HT09,2009,urval2,DA,,all_admitted,*,annat,2,0,Chalmers
+CTH,TKTFY,CTH-57000,HT09,2009,urval2,HP,1.6,value,1.60,hogskoleprov,30,65,Chalmers
+CTH,TKTFY,CTH-57000,HT09,2009,urval2,ZBGAR,,all_admitted,*,annat,5,0,Chalmers
+KTH,CTFYS,KTH-32114,HT09,2009,urval1,BF,,none_admitted,-,folkhogskola,0,2,KTH
+KTH,CTFYS,KTH-32114,HT09,2009,urval1,BG,19.38,value,19.38,betyg_20,89,234,KTH
+KTH,CTFYS,KTH-32114,HT09,2009,urval1,DA,,all_admitted,*,annat,4,0,KTH
+KTH,CTFYS,KTH-32114,HT09,2009,urval1,HP,1.6,value,1.60,hogskoleprov,44,147,KTH
+KTH,CTFYS,KTH-32114,HT09,2009,urval1,ÖS,,none_admitted,-,annat,0,1,KTH
+KTH,CTFYS,KTH-32114,HT09,2009,urval1,T1,,all_admitted,*,kth_lokal,14,0,KTH
+KTH,CTFYS,KTH-32114,HT09,2009,urval1,T2,65.0,value,65,kth_lokal,4,1,KTH
+KTH,CTFYS,KTH-32114,HT09,2009,urval2,BF,,none_admitted,-,folkhogskola,0,1,KTH
+KTH,CTFYS,KTH-32114,HT09,2009,urval2,BG,19.4,value,19.40,betyg_20,68,126,KTH
+KTH,CTFYS,KTH-32114,HT09,2009,urval2,DA,,all_admitted,*,annat,4,0,KTH
+KTH,CTFYS,KTH-32114,HT09,2009,urval2,HP,1.6,value,1.60,hogskoleprov,40,80,KTH
+KTH,CTFYS,KTH-32114,HT09,2009,urval2,ÖS,,none_admitted,-,annat,0,1,KTH
+KTH,CTFYS,KTH-32114,HT09,2009,urval2,T1,,all_admitted,*,kth_lokal,14,0,KTH
+KTH,CTFYS,KTH-32114,HT09,2009,urval2,T2,65.0,value,65,kth_lokal,4,1,KTH
+LIU,6CYYY,LIU-50116,HT09,2009,urval1,BF,,none_admitted,-,folkhogskola,0,2,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT09,2009,urval1,BG,17.7,value,17.70,betyg_20,96,136,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT09,2009,urval1,DA,,all_admitted,*,annat,2,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT09,2009,urval1,HP,1.2,value,1.2,hogskoleprov,47,71,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT09,2009,urval1,SA,,none_admitted,-,annat,0,9,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT09,2009,urval2,BF,4.0,value,4,folkhogskola,1,1,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT09,2009,urval2,BG,17.4,value,17.40,betyg_20,85,68,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT09,2009,urval2,DA,,all_admitted,*,annat,2,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT09,2009,urval2,HP,1.1,value,1.1,hogskoleprov,42,36,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT09,2009,urval2,SA,,none_admitted,-,annat,0,12,Linköping (F och EE)
+LTU,TCTEA,LTU-83402,HT09,2009,urval1,BG,,all_admitted,*,betyg_20,18,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83402,HT09,2009,urval1,DA,,all_admitted,*,annat,1,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83402,HT09,2009,urval1,HP,,all_admitted,*,hogskoleprov,9,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83402,HT09,2009,urval1,SA,,all_admitted,*,annat,3,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83402,HT09,2009,urval2,BG,,all_admitted,*,betyg_20,13,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83402,HT09,2009,urval2,DA,,all_admitted,*,annat,1,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83402,HT09,2009,urval2,HP,,all_admitted,*,hogskoleprov,6,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83402,HT09,2009,urval2,SA,,all_admitted,*,annat,5,0,Luleå (F och EE)
+LU,TATFY,LU-80100,HT09,2009,urval1,BF,,none_admitted,-,folkhogskola,0,1,Lund
+LU,TATFY,LU-80100,HT09,2009,urval1,BG,18.02,value,18.02,betyg_20,83,145,Lund
+LU,TATFY,LU-80100,HT09,2009,urval1,DA,,none_admitted,-,annat,0,0,Lund
+LU,TATFY,LU-80100,HT09,2009,urval1,HP,1.3,value,1.30,hogskoleprov,43,76,Lund
+LU,TATFY,LU-80100,HT09,2009,urval1,SA,,none_admitted,-,annat,0,11,Lund
+LU,TATFY,LU-80100,HT09,2009,urval2,BF,,none_admitted,-,folkhogskola,0,1,Lund
+LU,TATFY,LU-80100,HT09,2009,urval2,BG,18.02,value,18.02,betyg_20,69,90,Lund
+LU,TATFY,LU-80100,HT09,2009,urval2,DA,,none_admitted,-,annat,0,0,Lund
+LU,TATFY,LU-80100,HT09,2009,urval2,HP,1.3,value,1.30,hogskoleprov,39,51,Lund
+LU,TATFY,LU-80100,HT09,2009,urval2,SA,,none_admitted,-,annat,0,11,Lund
+UMU,TYCFT,UMU-01534,HT09,2009,urval1,BG,,all_admitted,*,betyg_20,31,0,Umeå
+UMU,TYCFT,UMU-01534,HT09,2009,urval1,DA,,all_admitted,*,annat,5,0,Umeå
+UMU,TYCFT,UMU-01534,HT09,2009,urval1,HP,,all_admitted,*,hogskoleprov,10,0,Umeå
+UMU,TYCFT,UMU-01534,HT09,2009,urval1,SA,,all_admitted,*,annat,3,0,Umeå
+UMU,TYCFT,UMU-01534,HT09,2009,urval2,BG,,all_admitted,*,betyg_20,20,0,Umeå
+UMU,TYCFT,UMU-01534,HT09,2009,urval2,DA,,all_admitted,*,annat,4,0,Umeå
+UMU,TYCFT,UMU-01534,HT09,2009,urval2,HP,,all_admitted,*,hogskoleprov,9,0,Umeå
+UMU,TYCFT,UMU-01534,HT09,2009,urval2,SA,,all_admitted,*,annat,4,0,Umeå
+UU,TTF2Y,UU-P1507,HT09,2009,urval1,BF,,none_admitted,-,folkhogskola,0,1,Uppsala
+UU,TTF2Y,UU-P1507,HT09,2009,urval1,BG,17.29,value,17.29,betyg_20,92,95,Uppsala
+UU,TTF2Y,UU-P1507,HT09,2009,urval1,DA,,all_admitted,*,annat,3,0,Uppsala
+UU,TTF2Y,UU-P1507,HT09,2009,urval1,HP,1.1,value,1.1,hogskoleprov,45,52,Uppsala
+UU,TTF2Y,UU-P1507,HT09,2009,urval1,SA,,none_admitted,-,annat,0,3,Uppsala
+UU,TTF2Y,UU-P1507,HT09,2009,urval2,BF,,none_admitted,-,folkhogskola,0,1,Uppsala
+UU,TTF2Y,UU-P1507,HT09,2009,urval2,BG,17.29,value,17.29,betyg_20,73,52,Uppsala
+UU,TTF2Y,UU-P1507,HT09,2009,urval2,DA,,all_admitted,*,annat,3,0,Uppsala
+UU,TTF2Y,UU-P1507,HT09,2009,urval2,HP,1.1,value,1.1,hogskoleprov,37,24,Uppsala
+UU,TTF2Y,UU-P1507,HT09,2009,urval2,SA,,none_admitted,-,annat,0,2,Uppsala
+CTH,TKTFY,CTH-57000,HT10,2010,urval1,APFM,,all_admitted,*,annat,26,0,Chalmers
+CTH,TKTFY,CTH-57000,HT10,2010,urval1,BI,21.2,value,21.20,betyg_22_5,69,185,Chalmers
+CTH,TKTFY,CTH-57000,HT10,2010,urval1,BII,20.52,value,20.52,betyg_22_5,7,31,Chalmers
+CTH,TKTFY,CTH-57000,HT10,2010,urval1,BIII,500.0,value,500,utlandska_betyg,1,4,Chalmers
+CTH,TKTFY,CTH-57000,HT10,2010,urval1,BIV,,none_admitted,-,utlandska_betyg,0,0,Chalmers
+CTH,TKTFY,CTH-57000,HT10,2010,urval1,DA,,all_admitted,*,annat,1,0,Chalmers
+CTH,TKTFY,CTH-57000,HT10,2010,urval1,HP,1.6,value,1.60,hogskoleprov,25,143,Chalmers
+CTH,TKTFY,CTH-57000,HT10,2010,urval1,ZBGAR,,all_admitted,*,annat,8,0,Chalmers
+CTH,TKTFY,CTH-57000,HT10,2010,urval2,APFM,,all_admitted,*,annat,24,0,Chalmers
+CTH,TKTFY,CTH-57000,HT10,2010,urval2,BI,20.8,value,20.80,betyg_22_5,54,71,Chalmers
+CTH,TKTFY,CTH-57000,HT10,2010,urval2,BII,20.17,value,20.17,betyg_22_5,6,17,Chalmers
+CTH,TKTFY,CTH-57000,HT10,2010,urval2,BIII,500.0,value,500,utlandska_betyg,1,2,Chalmers
+CTH,TKTFY,CTH-57000,HT10,2010,urval2,BIV,,none_admitted,-,utlandska_betyg,0,0,Chalmers
+CTH,TKTFY,CTH-57000,HT10,2010,urval2,DA,,all_admitted,*,annat,1,0,Chalmers
+CTH,TKTFY,CTH-57000,HT10,2010,urval2,HP,1.6,value,1.60,hogskoleprov,21,61,Chalmers
+CTH,TKTFY,CTH-57000,HT10,2010,urval2,ZBGAR,,all_admitted,*,annat,8,0,Chalmers
+KTH,CTFYS,KTH-32114,HT10,2010,urval1,BI,21.5,value,21.50,betyg_22_5,76,229,KTH
+KTH,CTFYS,KTH-32114,HT10,2010,urval1,BII,20.3,value,20.30,betyg_22_5,9,32,KTH
+KTH,CTFYS,KTH-32114,HT10,2010,urval1,BIII,480.0,value,480,utlandska_betyg,1,7,KTH
+KTH,CTFYS,KTH-32114,HT10,2010,urval1,BIV,,none_admitted,-,utlandska_betyg,0,1,KTH
+KTH,CTFYS,KTH-32114,HT10,2010,urval1,DA,,all_admitted,*,annat,2,0,KTH
+KTH,CTFYS,KTH-32114,HT10,2010,urval1,HP,1.7,value,1.70,hogskoleprov,42,183,KTH
+KTH,CTFYS,KTH-32114,HT10,2010,urval1,T10,245.0,value,245,kth_lokal,17,5,KTH
+KTH,CTFYS,KTH-32114,HT10,2010,urval1,T20,135.0,value,135,kth_lokal,3,3,KTH
+KTH,CTFYS,KTH-32114,HT10,2010,urval2,BI,21.5,value,21.50,betyg_22_5,56,115,KTH
+KTH,CTFYS,KTH-32114,HT10,2010,urval2,BII,20.72,value,20.72,betyg_22_5,8,20,KTH
+KTH,CTFYS,KTH-32114,HT10,2010,urval2,BIII,480.0,value,480,utlandska_betyg,1,5,KTH
+KTH,CTFYS,KTH-32114,HT10,2010,urval2,BIV,,none_admitted,-,utlandska_betyg,0,1,KTH
+KTH,CTFYS,KTH-32114,HT10,2010,urval2,DA,,all_admitted,*,annat,2,0,KTH
+KTH,CTFYS,KTH-32114,HT10,2010,urval2,HP,1.7,value,1.70,hogskoleprov,37,96,KTH
+KTH,CTFYS,KTH-32114,HT10,2010,urval2,T10,245.0,value,245,kth_lokal,18,4,KTH
+KTH,CTFYS,KTH-32114,HT10,2010,urval2,T20,135.0,value,135,kth_lokal,3,3,KTH
+LIU,6CYYY,LIU-50116,HT10,2010,urval1,BI,19.0,value,19.00,betyg_22_5,66,93,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT10,2010,urval1,BII,18.44,value,18.44,betyg_22_5,5,12,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT10,2010,urval1,BIII,,none_admitted,-,utlandska_betyg,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT10,2010,urval1,BIV,,none_admitted,-,utlandska_betyg,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT10,2010,urval1,DA,,all_admitted,*,annat,5,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT10,2010,urval1,HP,1.3,value,1.3,hogskoleprov,34,73,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT10,2010,urval1,SA,,none_admitted,-,annat,0,9,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT10,2010,urval2,BI,18.75,value,18.75,betyg_22_5,62,39,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT10,2010,urval2,BII,18.44,value,18.44,betyg_22_5,5,10,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT10,2010,urval2,BIII,,none_admitted,-,utlandska_betyg,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT10,2010,urval2,BIV,,none_admitted,-,utlandska_betyg,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT10,2010,urval2,DA,,all_admitted,*,annat,5,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT10,2010,urval2,HP,1.3,value,1.3,hogskoleprov,33,40,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT10,2010,urval2,SA,,none_admitted,-,annat,0,16,Linköping (F och EE)
+LTU,TCTEA,LTU-83502,HT10,2010,urval1,BI,,all_admitted,*,betyg_22_5,13,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83502,HT10,2010,urval1,BII,,all_admitted,*,betyg_22_5,1,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83502,HT10,2010,urval1,DA,,all_admitted,*,annat,3,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83502,HT10,2010,urval1,HP,,all_admitted,*,hogskoleprov,6,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83502,HT10,2010,urval1,SA,,all_admitted,*,annat,2,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83502,HT10,2010,urval2,BI,,all_admitted,*,betyg_22_5,9,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83502,HT10,2010,urval2,BII,,all_admitted,*,betyg_22_5,1,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83502,HT10,2010,urval2,DA,,all_admitted,*,annat,2,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83502,HT10,2010,urval2,HP,,all_admitted,*,hogskoleprov,4,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83502,HT10,2010,urval2,SA,,all_admitted,*,annat,2,0,Luleå (F och EE)
+LU,TATFY,LU-80100,HT10,2010,urval1,BI,20.4,value,20.40,betyg_22_5,76,140,Lund
+LU,TATFY,LU-80100,HT10,2010,urval1,BII,20.8,value,20.80,betyg_22_5,6,27,Lund
+LU,TATFY,LU-80100,HT10,2010,urval1,BIII,500.0,value,500,utlandska_betyg,1,4,Lund
+LU,TATFY,LU-80100,HT10,2010,urval1,BIV,,none_admitted,-,utlandska_betyg,0,1,Lund
+LU,TATFY,LU-80100,HT10,2010,urval1,DA,,all_admitted,*,annat,1,0,Lund
+LU,TATFY,LU-80100,HT10,2010,urval1,HP,1.4,value,1.40,hogskoleprov,42,112,Lund
+LU,TATFY,LU-80100,HT10,2010,urval1,SA,,none_admitted,-,annat,0,7,Lund
+LU,TATFY,LU-80100,HT10,2010,urval2,BI,20.4,value,20.40,betyg_22_5,63,72,Lund
+LU,TATFY,LU-80100,HT10,2010,urval2,BII,20.8,value,20.80,betyg_22_5,5,16,Lund
+LU,TATFY,LU-80100,HT10,2010,urval2,BIII,,none_admitted,-,utlandska_betyg,0,1,Lund
+LU,TATFY,LU-80100,HT10,2010,urval2,BIV,,none_admitted,-,utlandska_betyg,0,1,Lund
+LU,TATFY,LU-80100,HT10,2010,urval2,DA,,all_admitted,*,annat,2,0,Lund
+LU,TATFY,LU-80100,HT10,2010,urval2,HP,1.4,value,1.40,hogskoleprov,34,62,Lund
+LU,TATFY,LU-80100,HT10,2010,urval2,SA,,none_admitted,-,annat,0,12,Lund
+UMU,TYCFT,UMU-01534,HT10,2010,urval1,BI,,all_admitted,*,betyg_22_5,25,0,Umeå
+UMU,TYCFT,UMU-01534,HT10,2010,urval1,BII,,all_admitted,*,betyg_22_5,8,0,Umeå
+UMU,TYCFT,UMU-01534,HT10,2010,urval1,BIII,,none_admitted,-,utlandska_betyg,0,0,Umeå
+UMU,TYCFT,UMU-01534,HT10,2010,urval1,BIV,,none_admitted,-,utlandska_betyg,0,0,Umeå
+UMU,TYCFT,UMU-01534,HT10,2010,urval1,DA,,all_admitted,*,annat,1,0,Umeå
+UMU,TYCFT,UMU-01534,HT10,2010,urval1,HP,,all_admitted,*,hogskoleprov,10,0,Umeå
+UMU,TYCFT,UMU-01534,HT10,2010,urval1,SA,,all_admitted,*,annat,1,0,Umeå
+UMU,TYCFT,UMU-01534,HT10,2010,urval2,BI,,all_admitted,*,betyg_22_5,15,0,Umeå
+UMU,TYCFT,UMU-01534,HT10,2010,urval2,BII,,all_admitted,*,betyg_22_5,6,0,Umeå
+UMU,TYCFT,UMU-01534,HT10,2010,urval2,BIII,,none_admitted,-,utlandska_betyg,0,0,Umeå
+UMU,TYCFT,UMU-01534,HT10,2010,urval2,BIV,,none_admitted,-,utlandska_betyg,0,0,Umeå
+UMU,TYCFT,UMU-01534,HT10,2010,urval2,DA,,all_admitted,*,annat,1,0,Umeå
+UMU,TYCFT,UMU-01534,HT10,2010,urval2,HP,,all_admitted,*,hogskoleprov,8,0,Umeå
+UMU,TYCFT,UMU-01534,HT10,2010,urval2,SA,,all_admitted,*,annat,4,0,Umeå
+UU,TTF2Y,UU-P1507,HT10,2010,urval1,BI,18.7,value,18.70,betyg_22_5,86,64,Uppsala
+UU,TTF2Y,UU-P1507,HT10,2010,urval1,BII,19.3,value,19.30,betyg_22_5,5,13,Uppsala
+UU,TTF2Y,UU-P1507,HT10,2010,urval1,BIII,487.0,value,487,utlandska_betyg,1,1,Uppsala
+UU,TTF2Y,UU-P1507,HT10,2010,urval1,BIV,,none_admitted,-,utlandska_betyg,0,0,Uppsala
+UU,TTF2Y,UU-P1507,HT10,2010,urval1,DA,,all_admitted,*,annat,8,0,Uppsala
+UU,TTF2Y,UU-P1507,HT10,2010,urval1,HP,1.3,value,1.3,hogskoleprov,45,58,Uppsala
+UU,TTF2Y,UU-P1507,HT10,2010,urval1,ÖS,,none_admitted,-,annat,0,0,Uppsala
+UU,TTF2Y,UU-P1507,HT10,2010,urval1,SA,,none_admitted,-,annat,0,3,Uppsala
+UU,TTF2Y,UU-P1507,HT10,2010,urval2,BI,18.7,value,18.70,betyg_22_5,71,35,Uppsala
+UU,TTF2Y,UU-P1507,HT10,2010,urval2,BII,19.3,value,19.30,betyg_22_5,4,8,Uppsala
+UU,TTF2Y,UU-P1507,HT10,2010,urval2,BIII,,all_admitted,*,utlandska_betyg,1,0,Uppsala
+UU,TTF2Y,UU-P1507,HT10,2010,urval2,BIV,,none_admitted,-,utlandska_betyg,0,0,Uppsala
+UU,TTF2Y,UU-P1507,HT10,2010,urval2,DA,,all_admitted,*,annat,7,0,Uppsala
+UU,TTF2Y,UU-P1507,HT10,2010,urval2,HP,1.3,value,1.3,hogskoleprov,37,37,Uppsala
+UU,TTF2Y,UU-P1507,HT10,2010,urval2,ÖS,,none_admitted,-,annat,0,0,Uppsala
+UU,TTF2Y,UU-P1507,HT10,2010,urval2,SA,,none_admitted,-,annat,0,2,Uppsala
+CTH,TKTFY,CTH-57000,HT11,2011,urval1,APFM,,all_admitted,*,annat,38,0,Chalmers
+CTH,TKTFY,CTH-57000,HT11,2011,urval1,BI,21.0,value,21.00,betyg_22_5,83,205,Chalmers
+CTH,TKTFY,CTH-57000,HT11,2011,urval1,BII,20.04,value,20.04,betyg_22_5,6,14,Chalmers
+CTH,TKTFY,CTH-57000,HT11,2011,urval1,BIII,490.0,value,490,utlandska_betyg,1,7,Chalmers
+CTH,TKTFY,CTH-57000,HT11,2011,urval1,BIV,,none_admitted,-,utlandska_betyg,0,0,Chalmers
+CTH,TKTFY,CTH-57000,HT11,2011,urval1,HP,1.5,value,1.50,hogskoleprov,29,149,Chalmers
+CTH,TKTFY,CTH-57000,HT11,2011,urval1,ZBGAR,,all_admitted,*,annat,3,0,Chalmers
+CTH,TKTFY,CTH-57000,HT11,2011,urval2,APFM,,all_admitted,*,annat,36,0,Chalmers
+CTH,TKTFY,CTH-57000,HT11,2011,urval2,BI,20.9,value,20.90,betyg_22_5,59,87,Chalmers
+CTH,TKTFY,CTH-57000,HT11,2011,urval2,BII,20.04,value,20.04,betyg_22_5,4,10,Chalmers
+CTH,TKTFY,CTH-57000,HT11,2011,urval2,BIII,480.0,value,480,utlandska_betyg,2,4,Chalmers
+CTH,TKTFY,CTH-57000,HT11,2011,urval2,BIV,,none_admitted,-,utlandska_betyg,0,0,Chalmers
+CTH,TKTFY,CTH-57000,HT11,2011,urval2,HP,1.5,value,1.50,hogskoleprov,24,69,Chalmers
+CTH,TKTFY,CTH-57000,HT11,2011,urval2,ZBGAR,,all_admitted,*,annat,2,0,Chalmers
+KTH,CTFYS,KTH-32114,HT11,2011,urval1,BI,21.9,value,21.90,betyg_22_5,39,264,KTH
+KTH,CTFYS,KTH-32114,HT11,2011,urval1,BII,21.6,value,21.60,betyg_22_5,4,54,KTH
+KTH,CTFYS,KTH-32114,HT11,2011,urval1,BIII,490.0,value,490,utlandska_betyg,1,11,KTH
+KTH,CTFYS,KTH-32114,HT11,2011,urval1,BIV,,none_admitted,-,utlandska_betyg,0,2,KTH
+KTH,CTFYS,KTH-32114,HT11,2011,urval1,HP,1.6,value,1.60,hogskoleprov,43,219,KTH
+KTH,CTFYS,KTH-32114,HT11,2011,urval1,MAFY,,all_admitted,*,mafy,43,0,KTH
+KTH,CTFYS,KTH-32114,HT11,2011,urval1,ÖS,,none_admitted,-,annat,0,2,KTH
+KTH,CTFYS,KTH-32114,HT11,2011,urval1,T10,270.0,value,270,kth_lokal,16,14,KTH
+KTH,CTFYS,KTH-32114,HT11,2011,urval1,T20,140.0,value,140,kth_lokal,4,10,KTH
+KTH,CTFYS,KTH-32114,HT11,2011,urval2,BI,21.9,value,21.90,betyg_22_5,32,130,KTH
+KTH,CTFYS,KTH-32114,HT11,2011,urval2,BII,21.6,value,21.60,betyg_22_5,3,39,KTH
+KTH,CTFYS,KTH-32114,HT11,2011,urval2,BIII,490.0,value,490,utlandska_betyg,1,8,KTH
+KTH,CTFYS,KTH-32114,HT11,2011,urval2,BIV,,none_admitted,-,utlandska_betyg,0,2,KTH
+KTH,CTFYS,KTH-32114,HT11,2011,urval2,HP,1.6,value,1.60,hogskoleprov,38,116,KTH
+KTH,CTFYS,KTH-32114,HT11,2011,urval2,MAFY,,all_admitted,*,mafy,41,0,KTH
+KTH,CTFYS,KTH-32114,HT11,2011,urval2,ÖS,,none_admitted,-,annat,0,0,KTH
+KTH,CTFYS,KTH-32114,HT11,2011,urval2,T10,270.0,value,270,kth_lokal,16,12,KTH
+KTH,CTFYS,KTH-32114,HT11,2011,urval2,T20,140.0,value,140,kth_lokal,4,7,KTH
+LIU,6CYYY,LIU-50116,HT11,2011,urval1,BI,19.7,value,19.70,betyg_22_5,63,86,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT11,2011,urval1,BII,17.11,value,17.11,betyg_22_5,4,7,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT11,2011,urval1,BIII,,none_admitted,-,utlandska_betyg,0,1,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT11,2011,urval1,BIV,,none_admitted,-,utlandska_betyg,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT11,2011,urval1,DA,,all_admitted,*,annat,10,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT11,2011,urval1,HP,1.3,value,1.3,hogskoleprov,33,67,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT11,2011,urval1,SA,,none_admitted,-,annat,0,10,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT11,2011,urval2,BI,18.7,value,18.70,betyg_22_5,62,31,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT11,2011,urval2,BII,19.3,value,19.30,betyg_22_5,3,3,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT11,2011,urval2,BIII,,none_admitted,-,utlandska_betyg,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT11,2011,urval2,BIV,,none_admitted,-,utlandska_betyg,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT11,2011,urval2,DA,,all_admitted,*,annat,9,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT11,2011,urval2,HP,1.3,value,1.3,hogskoleprov,31,28,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT11,2011,urval2,SA,,none_admitted,-,annat,0,17,Linköping (F och EE)
+LTU,TCTEA,LTU-83507,HT11,2011,urval1,BI,,all_admitted,*,betyg_22_5,17,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83507,HT11,2011,urval1,BII,,all_admitted,*,betyg_22_5,1,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83507,HT11,2011,urval1,BIII,,none_admitted,-,utlandska_betyg,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83507,HT11,2011,urval1,BIV,,none_admitted,-,utlandska_betyg,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83507,HT11,2011,urval1,DA,,all_admitted,*,annat,1,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83507,HT11,2011,urval1,HP,,all_admitted,*,hogskoleprov,10,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83507,HT11,2011,urval1,SA,,all_admitted,*,annat,3,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83507,HT11,2011,urval2,BI,,all_admitted,*,betyg_22_5,10,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83507,HT11,2011,urval2,BII,,none_admitted,-,betyg_22_5,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83507,HT11,2011,urval2,BIII,,none_admitted,-,utlandska_betyg,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83507,HT11,2011,urval2,BIV,,none_admitted,-,utlandska_betyg,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83507,HT11,2011,urval2,DA,,none_admitted,-,annat,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83507,HT11,2011,urval2,HP,,all_admitted,*,hogskoleprov,9,0,Luleå (F och EE)
+LTU,TCTEA,LTU-83507,HT11,2011,urval2,SA,,all_admitted,*,annat,5,0,Luleå (F och EE)
+LU,TATFY,LU-80100,HT11,2011,urval1,BI,20.9,value,20.90,betyg_22_5,71,137,Lund
+LU,TATFY,LU-80100,HT11,2011,urval1,BII,20.7,value,20.70,betyg_22_5,5,21,Lund
+LU,TATFY,LU-80100,HT11,2011,urval1,BIII,465.0,value,465,utlandska_betyg,1,6,Lund
+LU,TATFY,LU-80100,HT11,2011,urval1,BIV,4.0,value,4,utlandska_betyg,1,3,Lund
+LU,TATFY,LU-80100,HT11,2011,urval1,HP,1.4,value,1.40,hogskoleprov,40,116,Lund
+LU,TATFY,LU-80100,HT11,2011,urval1,SA,,none_admitted,-,annat,0,11,Lund
+LU,TATFY,LU-80100,HT11,2011,urval2,BI,20.9,value,20.90,betyg_22_5,55,69,Lund
+LU,TATFY,LU-80100,HT11,2011,urval2,BII,20.7,value,20.70,betyg_22_5,5,15,Lund
+LU,TATFY,LU-80100,HT11,2011,urval2,BIII,465.0,value,465,utlandska_betyg,1,4,Lund
+LU,TATFY,LU-80100,HT11,2011,urval2,BIV,4.0,value,4,utlandska_betyg,1,2,Lund
+LU,TATFY,LU-80100,HT11,2011,urval2,HP,1.4,value,1.40,hogskoleprov,36,64,Lund
+LU,TATFY,LU-80100,HT11,2011,urval2,SA,,none_admitted,-,annat,0,7,Lund
+UMU,TYCFT,UMU-01534,HT11,2011,urval1,BI,,all_admitted,*,betyg_22_5,32,0,Umeå
+UMU,TYCFT,UMU-01534,HT11,2011,urval1,BII,,all_admitted,*,betyg_22_5,7,0,Umeå
+UMU,TYCFT,UMU-01534,HT11,2011,urval1,BIII,,all_admitted,*,utlandska_betyg,2,0,Umeå
+UMU,TYCFT,UMU-01534,HT11,2011,urval1,BIV,,none_admitted,-,utlandska_betyg,0,0,Umeå
+UMU,TYCFT,UMU-01534,HT11,2011,urval1,DA,,all_admitted,*,annat,4,0,Umeå
+UMU,TYCFT,UMU-01534,HT11,2011,urval1,HP,,all_admitted,*,hogskoleprov,19,0,Umeå
+UMU,TYCFT,UMU-01534,HT11,2011,urval1,ÖS,,none_admitted,-,annat,0,0,Umeå
+UMU,TYCFT,UMU-01534,HT11,2011,urval1,SA,979.0,value,979,annat,1,3,Umeå
+UMU,TYCFT,UMU-01534,HT11,2011,urval2,BI,,all_admitted,*,betyg_22_5,26,0,Umeå
+UMU,TYCFT,UMU-01534,HT11,2011,urval2,BII,,all_admitted,*,betyg_22_5,5,0,Umeå
+UMU,TYCFT,UMU-01534,HT11,2011,urval2,BIII,,all_admitted,*,utlandska_betyg,1,0,Umeå
+UMU,TYCFT,UMU-01534,HT11,2011,urval2,BIV,,none_admitted,-,utlandska_betyg,0,0,Umeå
+UMU,TYCFT,UMU-01534,HT11,2011,urval2,DA,,all_admitted,*,annat,4,0,Umeå
+UMU,TYCFT,UMU-01534,HT11,2011,urval2,HP,,all_admitted,*,hogskoleprov,13,0,Umeå
+UMU,TYCFT,UMU-01534,HT11,2011,urval2,ÖS,,none_admitted,-,annat,0,0,Umeå
+UMU,TYCFT,UMU-01534,HT11,2011,urval2,SA,,all_admitted,*,annat,5,0,Umeå
+UU,TTF2Y,UU-P1507,HT11,2011,urval1,BI,18.8,value,18.80,betyg_22_5,89,74,Uppsala
+UU,TTF2Y,UU-P1507,HT11,2011,urval1,BII,18.95,value,18.95,betyg_22_5,7,18,Uppsala
+UU,TTF2Y,UU-P1507,HT11,2011,urval1,BIII,500.0,value,500,utlandska_betyg,1,4,Uppsala
+UU,TTF2Y,UU-P1507,HT11,2011,urval1,BIV,,none_admitted,-,utlandska_betyg,0,0,Uppsala
+UU,TTF2Y,UU-P1507,HT11,2011,urval1,DA,,all_admitted,*,annat,1,0,Uppsala
+UU,TTF2Y,UU-P1507,HT11,2011,urval1,HP,1.2,value,1.2,hogskoleprov,47,59,Uppsala
+UU,TTF2Y,UU-P1507,HT11,2011,urval1,ÖS,,none_admitted,-,annat,0,1,Uppsala
+UU,TTF2Y,UU-P1507,HT11,2011,urval1,SA,,none_admitted,-,annat,0,4,Uppsala
+UU,TTF2Y,UU-P1507,HT11,2011,urval2,BI,18.8,value,18.80,betyg_22_5,60,42,Uppsala
+UU,TTF2Y,UU-P1507,HT11,2011,urval2,BII,18.95,value,18.95,betyg_22_5,7,13,Uppsala
+UU,TTF2Y,UU-P1507,HT11,2011,urval2,BIII,500.0,value,500,utlandska_betyg,1,3,Uppsala
+UU,TTF2Y,UU-P1507,HT11,2011,urval2,BIV,,none_admitted,-,utlandska_betyg,0,0,Uppsala
+UU,TTF2Y,UU-P1507,HT11,2011,urval2,DA,,all_admitted,*,annat,1,0,Uppsala
+UU,TTF2Y,UU-P1507,HT11,2011,urval2,HP,1.3,value,1.3,hogskoleprov,39,35,Uppsala
+UU,TTF2Y,UU-P1507,HT11,2011,urval2,ÖS,,none_admitted,-,annat,0,0,Uppsala
+UU,TTF2Y,UU-P1507,HT11,2011,urval2,SA,,none_admitted,-,annat,0,9,Uppsala
+CTH,TKTFY,CTH-57000,HT12,2012,urval1,APFM,,all_admitted,*,annat,15,0,Chalmers
+CTH,TKTFY,CTH-57000,HT12,2012,urval1,BF,4.0,value,4.00,folkhogskola,1,3,Chalmers
+CTH,TKTFY,CTH-57000,HT12,2012,urval1,BI,20.74,value,20.74,betyg_22_5,113,174,Chalmers
+CTH,TKTFY,CTH-57000,HT12,2012,urval1,BII,18.35,value,18.35,betyg_22_5,12,25,Chalmers
+CTH,TKTFY,CTH-57000,HT12,2012,urval1,HP,1.6,value,1.60,hogskoleprov,42,157,Chalmers
+CTH,TKTFY,CTH-57000,HT12,2012,urval1,ZBGAR,,all_admitted,*,annat,6,0,Chalmers
+CTH,TKTFY,CTH-57000,HT12,2012,urval2,APFM,,all_admitted,*,annat,15,0,Chalmers
+CTH,TKTFY,CTH-57000,HT12,2012,urval2,BF,4.0,value,4.00,folkhogskola,1,2,Chalmers
+CTH,TKTFY,CTH-57000,HT12,2012,urval2,BI,20.74,value,20.74,betyg_22_5,82,77,Chalmers
+CTH,TKTFY,CTH-57000,HT12,2012,urval2,BII,19.0,value,19.00,betyg_22_5,10,17,Chalmers
+CTH,TKTFY,CTH-57000,HT12,2012,urval2,HP,1.6,value,1.60,hogskoleprov,34,74,Chalmers
+CTH,TKTFY,CTH-57000,HT12,2012,urval2,ZBGAR,,all_admitted,*,annat,6,0,Chalmers
+KTH,CTFYS,KTH-32114,HT12,2012,urval1,BF,,none_admitted,-,folkhogskola,0,4,KTH
+KTH,CTFYS,KTH-32114,HT12,2012,urval1,BI,22.1,value,22.10,betyg_22_5,50,341,KTH
+KTH,CTFYS,KTH-32114,HT12,2012,urval1,BII,21.7,value,21.70,betyg_22_5,5,49,KTH
+KTH,CTFYS,KTH-32114,HT12,2012,urval1,HP,1.7,value,1.70,hogskoleprov,54,296,KTH
+KTH,CTFYS,KTH-32114,HT12,2012,urval1,MAFY,,all_admitted,*,mafy,21,0,KTH
+KTH,CTFYS,KTH-32114,HT12,2012,urval1,T10,,all_admitted,*,kth_lokal,19,0,KTH
+KTH,CTFYS,KTH-32114,HT12,2012,urval1,T20,125.0,value,125,kth_lokal,6,2,KTH
+KTH,CTFYS,KTH-32114,HT12,2012,urval2,BF,,none_admitted,-,folkhogskola,0,3,KTH
+KTH,CTFYS,KTH-32114,HT12,2012,urval2,BI,22.1,value,22.10,betyg_22_5,41,163,KTH
+KTH,CTFYS,KTH-32114,HT12,2012,urval2,BII,22.11,value,22.11,betyg_22_5,2,29,KTH
+KTH,CTFYS,KTH-32114,HT12,2012,urval2,HP,1.7,value,1.70,hogskoleprov,48,143,KTH
+KTH,CTFYS,KTH-32114,HT12,2012,urval2,MAFY,,all_admitted,*,mafy,20,0,KTH
+KTH,CTFYS,KTH-32114,HT12,2012,urval2,T10,,all_admitted,*,kth_lokal,19,0,KTH
+KTH,CTFYS,KTH-32114,HT12,2012,urval2,T20,125.0,value,125,kth_lokal,6,2,KTH
+LIU,6CYYY,LIU-50116,HT12,2012,urval1,BF,,none_admitted,-,folkhogskola,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT12,2012,urval1,BI,20.2,value,20.20,betyg_22_5,62,127,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT12,2012,urval1,BII,16.67,value,16.67,betyg_22_5,5,8,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT12,2012,urval1,DA,,all_admitted,*,annat,11,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT12,2012,urval1,HP,1.4,value,1.4,hogskoleprov,32,100,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT12,2012,urval1,ÖS,,none_admitted,-,annat,0,1,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT12,2012,urval1,SA,,none_admitted,-,annat,0,9,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT12,2012,urval2,BI,19.4,value,19.40,betyg_22_5,58,47,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT12,2012,urval2,BII,16.67,value,16.67,betyg_22_5,5,3,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT12,2012,urval2,DA,,all_admitted,*,annat,11,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT12,2012,urval2,HP,1.3,value,1.3,hogskoleprov,31,37,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT12,2012,urval2,ÖS,,none_admitted,-,annat,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT12,2012,urval2,SA,,none_admitted,-,annat,0,18,Linköping (F och EE)
+LTU,TCTEA,LTU-87343,HT12,2012,urval1,BI,,all_admitted,*,betyg_22_5,27,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87343,HT12,2012,urval1,BII,,all_admitted,*,betyg_22_5,1,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87343,HT12,2012,urval1,DA,,all_admitted,*,annat,4,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87343,HT12,2012,urval1,HP,,all_admitted,*,hogskoleprov,12,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87343,HT12,2012,urval1,SA,,all_admitted,*,annat,4,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87343,HT12,2012,urval2,BI,,all_admitted,*,betyg_22_5,18,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87343,HT12,2012,urval2,BII,,none_admitted,-,betyg_22_5,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87343,HT12,2012,urval2,DA,,all_admitted,*,annat,4,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87343,HT12,2012,urval2,HP,,all_admitted,*,hogskoleprov,9,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87343,HT12,2012,urval2,SA,,all_admitted,*,annat,6,0,Luleå (F och EE)
+LU,TATFY,LU-80100,HT12,2012,urval1,BF,,none_admitted,-,folkhogskola,0,2,Lund
+LU,TATFY,LU-80100,HT12,2012,urval1,BI,21.6,value,21.60,betyg_22_5,64,194,Lund
+LU,TATFY,LU-80100,HT12,2012,urval1,BII,18.2,value,18.20,betyg_22_5,5,25,Lund
+LU,TATFY,LU-80100,HT12,2012,urval1,HP,1.6,value,1.60,hogskoleprov,36,183,Lund
+LU,TATFY,LU-80100,HT12,2012,urval1,ÖS,,none_admitted,-,annat,0,1,Lund
+LU,TATFY,LU-80100,HT12,2012,urval1,SA,,none_admitted,-,annat,0,9,Lund
+LU,TATFY,LU-80100,HT12,2012,urval2,BF,,none_admitted,-,folkhogskola,0,1,Lund
+LU,TATFY,LU-80100,HT12,2012,urval2,BI,21.52,value,21.52,betyg_22_5,53,97,Lund
+LU,TATFY,LU-80100,HT12,2012,urval2,BII,16.66,value,16.66,betyg_22_5,5,18,Lund
+LU,TATFY,LU-80100,HT12,2012,urval2,HP,1.6,value,1.60,hogskoleprov,32,97,Lund
+LU,TATFY,LU-80100,HT12,2012,urval2,ÖS,,none_admitted,-,annat,0,1,Lund
+LU,TATFY,LU-80100,HT12,2012,urval2,SA,,none_admitted,-,annat,0,4,Lund
+UMU,TYCFT,UMU-01534,HT12,2012,urval1,BI,15.4,value,15.40,betyg_22_5,38,5,Umeå
+UMU,TYCFT,UMU-01534,HT12,2012,urval1,BII,15.19,value,15.19,betyg_22_5,4,4,Umeå
+UMU,TYCFT,UMU-01534,HT12,2012,urval1,DA,,all_admitted,*,annat,3,0,Umeå
+UMU,TYCFT,UMU-01534,HT12,2012,urval1,HP,1.0,value,1.0,hogskoleprov,20,3,Umeå
+UMU,TYCFT,UMU-01534,HT12,2012,urval1,SA,,none_admitted,-,annat,0,12,Umeå
+UMU,TYCFT,UMU-01534,HT12,2012,urval2,BI,,all_admitted,*,betyg_22_5,28,0,Umeå
+UMU,TYCFT,UMU-01534,HT12,2012,urval2,BII,,all_admitted,*,betyg_22_5,5,0,Umeå
+UMU,TYCFT,UMU-01534,HT12,2012,urval2,DA,,all_admitted,*,annat,4,0,Umeå
+UMU,TYCFT,UMU-01534,HT12,2012,urval2,HP,,all_admitted,*,hogskoleprov,17,0,Umeå
+UMU,TYCFT,UMU-01534,HT12,2012,urval2,SA,913.0,value,913,annat,6,1,Umeå
+UU,TTF2Y,UU-P1507,HT12,2012,urval1,BF,,none_admitted,-,folkhogskola,0,1,Uppsala
+UU,TTF2Y,UU-P1507,HT12,2012,urval1,BI,19.4,value,19.40,betyg_22_5,86,79,Uppsala
+UU,TTF2Y,UU-P1507,HT12,2012,urval1,BII,16.05,value,16.05,betyg_22_5,7,9,Uppsala
+UU,TTF2Y,UU-P1507,HT12,2012,urval1,DA,,all_admitted,*,annat,2,0,Uppsala
+UU,TTF2Y,UU-P1507,HT12,2012,urval1,HP,1.3,value,1.3,hogskoleprov,45,72,Uppsala
+UU,TTF2Y,UU-P1507,HT12,2012,urval1,SA,,none_admitted,-,annat,0,14,Uppsala
+UU,TTF2Y,UU-P1507,HT12,2012,urval2,BF,,none_admitted,-,folkhogskola,0,1,Uppsala
+UU,TTF2Y,UU-P1507,HT12,2012,urval2,BI,19.45,value,19.45,betyg_22_5,69,40,Uppsala
+UU,TTF2Y,UU-P1507,HT12,2012,urval2,BII,16.05,value,16.05,betyg_22_5,6,4,Uppsala
+UU,TTF2Y,UU-P1507,HT12,2012,urval2,DA,,all_admitted,*,annat,1,0,Uppsala
+UU,TTF2Y,UU-P1507,HT12,2012,urval2,HP,1.3,value,1.3,hogskoleprov,38,35,Uppsala
+UU,TTF2Y,UU-P1507,HT12,2012,urval2,SA,,none_admitted,-,annat,0,11,Uppsala
+CTH,TKTFY,CTH-57000,HT13,2013,urval1,APFM,,all_admitted,*,annat,21,0,Chalmers
+CTH,TKTFY,CTH-57000,HT13,2013,urval1,BF,,none_admitted,-,folkhogskola,0,3,Chalmers
+CTH,TKTFY,CTH-57000,HT13,2013,urval1,BI,20.8,value,20.80,betyg_22_5,109,190,Chalmers
+CTH,TKTFY,CTH-57000,HT13,2013,urval1,BII,19.5,value,19.50,betyg_22_5,12,39,Chalmers
+CTH,TKTFY,CTH-57000,HT13,2013,urval1,DA,,all_admitted,*,annat,1,0,Chalmers
+CTH,TKTFY,CTH-57000,HT13,2013,urval1,HP,1.55,value,1.55,hogskoleprov,40,177,Chalmers
+CTH,TKTFY,CTH-57000,HT13,2013,urval1,ZBGAR,,all_admitted,*,annat,6,0,Chalmers
+CTH,TKTFY,CTH-57000,HT13,2013,urval2,APFM,,all_admitted,*,annat,20,0,Chalmers
+CTH,TKTFY,CTH-57000,HT13,2013,urval2,BF,,none_admitted,-,folkhogskola,0,2,Chalmers
+CTH,TKTFY,CTH-57000,HT13,2013,urval2,BI,20.5,value,20.50,betyg_22_5,81,68,Chalmers
+CTH,TKTFY,CTH-57000,HT13,2013,urval2,BII,19.07,value,19.07,betyg_22_5,10,19,Chalmers
+CTH,TKTFY,CTH-57000,HT13,2013,urval2,DA,,none_admitted,-,annat,0,0,Chalmers
+CTH,TKTFY,CTH-57000,HT13,2013,urval2,HP,1.55,value,1.55,hogskoleprov,34,66,Chalmers
+CTH,TKTFY,CTH-57000,HT13,2013,urval2,ZBGAR,,all_admitted,*,annat,6,0,Chalmers
+KTH,CTFYS,KTH-32114,HT13,2013,urval1,BF,,none_admitted,-,folkhogskola,0,1,KTH
+KTH,CTFYS,KTH-32114,HT13,2013,urval1,BI,22.1,value,22.10,betyg_22_5,49,266,KTH
+KTH,CTFYS,KTH-32114,HT13,2013,urval1,BII,21.71,value,21.71,betyg_22_5,7,53,KTH
+KTH,CTFYS,KTH-32114,HT13,2013,urval1,HP,1.65,value,1.65,hogskoleprov,54,249,KTH
+KTH,CTFYS,KTH-32114,HT13,2013,urval1,MAFY,,all_admitted,*,mafy,35,0,KTH
+KTH,CTFYS,KTH-32114,HT13,2013,urval1,ÖS,,none_admitted,-,annat,0,1,KTH
+KTH,CTFYS,KTH-32114,HT13,2013,urval1,T10,220.0,value,220,kth_lokal,19,3,KTH
+KTH,CTFYS,KTH-32114,HT13,2013,urval1,T20,110.0,value,110,kth_lokal,6,2,KTH
+KTH,CTFYS,KTH-32114,HT13,2013,urval2,BF,,none_admitted,-,folkhogskola,0,0,KTH
+KTH,CTFYS,KTH-32114,HT13,2013,urval2,BI,22.1,value,22.10,betyg_22_5,44,119,KTH
+KTH,CTFYS,KTH-32114,HT13,2013,urval2,BII,21.71,value,21.71,betyg_22_5,6,28,KTH
+KTH,CTFYS,KTH-32114,HT13,2013,urval2,HP,1.65,value,1.65,hogskoleprov,46,112,KTH
+KTH,CTFYS,KTH-32114,HT13,2013,urval2,MAFY,,all_admitted,*,mafy,34,0,KTH
+KTH,CTFYS,KTH-32114,HT13,2013,urval2,ÖS,,none_admitted,-,annat,0,0,KTH
+KTH,CTFYS,KTH-32114,HT13,2013,urval2,T10,220.0,value,220,kth_lokal,19,3,KTH
+KTH,CTFYS,KTH-32114,HT13,2013,urval2,T20,120.0,value,120,kth_lokal,5,1,KTH
+LIU,6CYYY,LIU-50116,HT13,2013,urval1,BF,,none_admitted,-,folkhogskola,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT13,2013,urval1,BI,19.5,value,19.50,betyg_22_5,62,106,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT13,2013,urval1,BII,17.9,value,17.90,betyg_22_5,7,15,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT13,2013,urval1,DA,,all_admitted,*,annat,8,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT13,2013,urval1,HP,1.3,value,1.30,hogskoleprov,33,100,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT13,2013,urval2,BF,,none_admitted,-,folkhogskola,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT13,2013,urval2,BI,18.97,value,18.97,betyg_22_5,58,54,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT13,2013,urval2,BII,17.9,value,17.90,betyg_22_5,7,9,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT13,2013,urval2,DA,,all_admitted,*,annat,8,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT13,2013,urval2,HP,1.25,value,1.25,hogskoleprov,32,51,Linköping (F och EE)
+LTU,TCTEA,LTU-87353,HT13,2013,urval1,BI,13.75,value,13.75,betyg_22_5,24,2,Luleå (F och EE)
+LTU,TCTEA,LTU-87353,HT13,2013,urval1,BII,15.65,value,15.65,betyg_22_5,4,7,Luleå (F och EE)
+LTU,TCTEA,LTU-87353,HT13,2013,urval1,DA,,all_admitted,*,annat,8,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87353,HT13,2013,urval1,HP,0.9,value,0.90,hogskoleprov,14,7,Luleå (F och EE)
+LTU,TCTEA,LTU-87353,HT13,2013,urval1,SA,,none_admitted,-,annat,0,4,Luleå (F och EE)
+LTU,TCTEA,LTU-87353,HT13,2013,urval2,BI,,all_admitted,*,betyg_22_5,17,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87353,HT13,2013,urval2,BII,,all_admitted,*,betyg_22_5,2,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87353,HT13,2013,urval2,DA,,all_admitted,*,annat,8,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87353,HT13,2013,urval2,HP,,all_admitted,*,hogskoleprov,9,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87353,HT13,2013,urval2,SA,,all_admitted,*,annat,3,0,Luleå (F och EE)
+LU,TATFY,LU-80100,HT13,2013,urval1,BF,,none_admitted,-,folkhogskola,0,3,Lund
+LU,TATFY,LU-80100,HT13,2013,urval1,BI,21.6,value,21.60,betyg_22_5,62,224,Lund
+LU,TATFY,LU-80100,HT13,2013,urval1,BII,21.28,value,21.28,betyg_22_5,7,55,Lund
+LU,TATFY,LU-80100,HT13,2013,urval1,HP,1.6,value,1.60,hogskoleprov,36,222,Lund
+LU,TATFY,LU-80100,HT13,2013,urval1,SA,,none_admitted,-,annat,0,7,Lund
+LU,TATFY,LU-80100,HT13,2013,urval2,BF,,none_admitted,-,folkhogskola,0,2,Lund
+LU,TATFY,LU-80100,HT13,2013,urval2,BI,21.4,value,21.40,betyg_22_5,51,83,Lund
+LU,TATFY,LU-80100,HT13,2013,urval2,BII,20.9,value,20.90,betyg_22_5,8,28,Lund
+LU,TATFY,LU-80100,HT13,2013,urval2,HP,1.6,value,1.60,hogskoleprov,31,93,Lund
+LU,TATFY,LU-80100,HT13,2013,urval2,SA,,none_admitted,-,annat,0,3,Lund
+UMU,TYCFT,UMU-01534,HT13,2013,urval1,BI,17.0,value,17.00,betyg_22_5,32,18,Umeå
+UMU,TYCFT,UMU-01534,HT13,2013,urval1,BII,17.17,value,17.17,betyg_22_5,6,16,Umeå
+UMU,TYCFT,UMU-01534,HT13,2013,urval1,DA,,all_admitted,*,annat,9,0,Umeå
+UMU,TYCFT,UMU-01534,HT13,2013,urval1,HP,1.05,value,1.05,hogskoleprov,18,16,Umeå
+UMU,TYCFT,UMU-01534,HT13,2013,urval1,ÖS,,none_admitted,-,annat,0,0,Umeå
+UMU,TYCFT,UMU-01534,HT13,2013,urval1,SA,,none_admitted,-,annat,0,5,Umeå
+UMU,TYCFT,UMU-01534,HT13,2013,urval2,BI,,all_admitted,*,betyg_22_5,29,0,Umeå
+UMU,TYCFT,UMU-01534,HT13,2013,urval2,BII,,all_admitted,*,betyg_22_5,6,0,Umeå
+UMU,TYCFT,UMU-01534,HT13,2013,urval2,DA,,all_admitted,*,annat,9,0,Umeå
+UMU,TYCFT,UMU-01534,HT13,2013,urval2,HP,,all_admitted,*,hogskoleprov,16,0,Umeå
+UMU,TYCFT,UMU-01534,HT13,2013,urval2,ÖS,,none_admitted,-,annat,0,0,Umeå
+UMU,TYCFT,UMU-01534,HT13,2013,urval2,SA,,none_admitted,-,annat,0,4,Umeå
+UU,TTF2Y,UU-P1507,HT13,2013,urval1,BF,,none_admitted,-,folkhogskola,0,2,Uppsala
+UU,TTF2Y,UU-P1507,HT13,2013,urval1,BI,19.35,value,19.35,betyg_22_5,82,79,Uppsala
+UU,TTF2Y,UU-P1507,HT13,2013,urval1,BII,17.14,value,17.14,betyg_22_5,9,21,Uppsala
+UU,TTF2Y,UU-P1507,HT13,2013,urval1,DA,,all_admitted,*,annat,5,0,Uppsala
+UU,TTF2Y,UU-P1507,HT13,2013,urval1,HP,1.35,value,1.35,hogskoleprov,44,80,Uppsala
+UU,TTF2Y,UU-P1507,HT13,2013,urval1,SA,,none_admitted,-,annat,0,12,Uppsala
+UU,TTF2Y,UU-P1507,HT13,2013,urval2,BF,,none_admitted,-,folkhogskola,0,1,Uppsala
+UU,TTF2Y,UU-P1507,HT13,2013,urval2,BI,19.4,value,19.40,betyg_22_5,57,41,Uppsala
+UU,TTF2Y,UU-P1507,HT13,2013,urval2,BII,17.14,value,17.14,betyg_22_5,7,12,Uppsala
+UU,TTF2Y,UU-P1507,HT13,2013,urval2,DA,,all_admitted,*,annat,5,0,Uppsala
+UU,TTF2Y,UU-P1507,HT13,2013,urval2,HP,1.35,value,1.35,hogskoleprov,38,40,Uppsala
+UU,TTF2Y,UU-P1507,HT13,2013,urval2,SA,,none_admitted,-,annat,0,10,Uppsala
+CTH,TKTFY,CTH-57000,HT14,2014,urval1,APFM,,all_admitted,*,annat,32,0,Chalmers
+CTH,TKTFY,CTH-57000,HT14,2014,urval1,BF,4.0,value,4.00,folkhogskola,1,4,Chalmers
+CTH,TKTFY,CTH-57000,HT14,2014,urval1,BI,21.3,value,21.30,betyg_22_5,35,222,Chalmers
+CTH,TKTFY,CTH-57000,HT14,2014,urval1,BIEX,20.49,value,20.49,betyg_22_5,55,129,Chalmers
+CTH,TKTFY,CTH-57000,HT14,2014,urval1,BII,19.1,value,19.10,betyg_22_5,12,61,Chalmers
+CTH,TKTFY,CTH-57000,HT14,2014,urval1,DA,,all_admitted,*,annat,2,0,Chalmers
+CTH,TKTFY,CTH-57000,HT14,2014,urval1,HP,1.7,value,1.70,hogskoleprov,34,246,Chalmers
+CTH,TKTFY,CTH-57000,HT14,2014,urval1,ZBGAR,,all_admitted,*,annat,13,0,Chalmers
+CTH,TKTFY,CTH-57000,HT14,2014,urval2,APFM,,all_admitted,*,annat,31,0,Chalmers
+CTH,TKTFY,CTH-57000,HT14,2014,urval2,BF,4.0,value,4.00,folkhogskola,1,3,Chalmers
+CTH,TKTFY,CTH-57000,HT14,2014,urval2,BI,21.3,value,21.30,betyg_22_5,27,101,Chalmers
+CTH,TKTFY,CTH-57000,HT14,2014,urval2,BIEX,20.49,value,20.49,betyg_22_5,39,64,Chalmers
+CTH,TKTFY,CTH-57000,HT14,2014,urval2,BII,19.1,value,19.10,betyg_22_5,9,32,Chalmers
+CTH,TKTFY,CTH-57000,HT14,2014,urval2,DA,,all_admitted,*,annat,1,0,Chalmers
+CTH,TKTFY,CTH-57000,HT14,2014,urval2,HP,1.7,value,1.70,hogskoleprov,30,118,Chalmers
+CTH,TKTFY,CTH-57000,HT14,2014,urval2,ZBGAR,,all_admitted,*,annat,12,0,Chalmers
+KTH,CTFYS,KTH-32114,HT14,2014,urval1,BF,,none_admitted,-,folkhogskola,0,3,KTH
+KTH,CTFYS,KTH-32114,HT14,2014,urval1,BI,22.3,value,22.30,betyg_22_5,16,306,KTH
+KTH,CTFYS,KTH-32114,HT14,2014,urval1,BIEX,21.98,value,21.98,betyg_22_5,25,182,KTH
+KTH,CTFYS,KTH-32114,HT14,2014,urval1,BII,21.77,value,21.77,betyg_22_5,5,70,KTH
+KTH,CTFYS,KTH-32114,HT14,2014,urval1,HP,1.75,value,1.75,hogskoleprov,44,325,KTH
+KTH,CTFYS,KTH-32114,HT14,2014,urval1,MAFY,32.0,value,32,mafy,44,7,KTH
+KTH,CTFYS,KTH-32114,HT14,2014,urval1,ÖS,,none_admitted,-,annat,0,1,KTH
+KTH,CTFYS,KTH-32114,HT14,2014,urval1,T10,220.0,value,220,kth_lokal,18,5,KTH
+KTH,CTFYS,KTH-32114,HT14,2014,urval1,T20,,all_admitted,*,kth_lokal,8,0,KTH
+KTH,CTFYS,KTH-32114,HT14,2014,urval2,BF,,none_admitted,-,folkhogskola,0,2,KTH
+KTH,CTFYS,KTH-32114,HT14,2014,urval2,BI,22.3,value,22.30,betyg_22_5,11,141,KTH
+KTH,CTFYS,KTH-32114,HT14,2014,urval2,BIEX,22.08,value,22.08,betyg_22_5,18,90,KTH
+KTH,CTFYS,KTH-32114,HT14,2014,urval2,BII,22.0,value,22.00,betyg_22_5,2,38,KTH
+KTH,CTFYS,KTH-32114,HT14,2014,urval2,HP,1.75,value,1.75,hogskoleprov,40,149,KTH
+KTH,CTFYS,KTH-32114,HT14,2014,urval2,MAFY,32.0,value,32,mafy,43,6,KTH
+KTH,CTFYS,KTH-32114,HT14,2014,urval2,ÖS,,none_admitted,-,annat,0,1,KTH
+KTH,CTFYS,KTH-32114,HT14,2014,urval2,T10,220.0,value,220,kth_lokal,18,2,KTH
+KTH,CTFYS,KTH-32114,HT14,2014,urval2,T20,,all_admitted,*,kth_lokal,8,0,KTH
+LIU,6CYYY,LIU-50116,HT14,2014,urval1,BF,,none_admitted,-,folkhogskola,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT14,2014,urval1,BI,19.2,value,19.20,betyg_22_5,30,88,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT14,2014,urval1,BIEX,18.33,value,18.33,betyg_22_5,38,42,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT14,2014,urval1,BII,18.5,value,18.50,betyg_22_5,7,19,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT14,2014,urval1,DA,,all_admitted,*,annat,8,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT14,2014,urval1,HP,1.4,value,1.40,hogskoleprov,37,90,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT14,2014,urval2,BF,,none_admitted,-,folkhogskola,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT14,2014,urval2,BI,19.2,value,19.20,betyg_22_5,24,46,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT14,2014,urval2,BIEX,18.33,value,18.33,betyg_22_5,36,26,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT14,2014,urval2,BII,18.5,value,18.50,betyg_22_5,7,10,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT14,2014,urval2,DA,,all_admitted,*,annat,8,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT14,2014,urval2,HP,1.4,value,1.40,hogskoleprov,33,48,Linköping (F och EE)
+LTU,TCTEA,LTU-87004,HT14,2014,urval1,BF,,none_admitted,-,folkhogskola,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87004,HT14,2014,urval1,BI,16.9,value,16.90,betyg_22_5,8,18,Luleå (F och EE)
+LTU,TCTEA,LTU-87004,HT14,2014,urval1,BIEX,16.1,value,16.10,betyg_22_5,16,11,Luleå (F och EE)
+LTU,TCTEA,LTU-87004,HT14,2014,urval1,BII,16.85,value,16.85,betyg_22_5,4,11,Luleå (F och EE)
+LTU,TCTEA,LTU-87004,HT14,2014,urval1,DA,,all_admitted,*,annat,4,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87004,HT14,2014,urval1,HP,1.15,value,1.15,hogskoleprov,13,18,Luleå (F och EE)
+LTU,TCTEA,LTU-87004,HT14,2014,urval1,SA,,none_admitted,-,annat,0,7,Luleå (F och EE)
+LTU,TCTEA,LTU-87004,HT14,2014,urval2,BF,,none_admitted,-,folkhogskola,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87004,HT14,2014,urval2,BI,16.9,value,16.90,betyg_22_5,5,5,Luleå (F och EE)
+LTU,TCTEA,LTU-87004,HT14,2014,urval2,BIEX,,all_admitted,*,betyg_22_5,12,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87004,HT14,2014,urval2,BII,,all_admitted,*,betyg_22_5,7,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87004,HT14,2014,urval2,DA,,all_admitted,*,annat,3,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87004,HT14,2014,urval2,HP,1.15,value,1.15,hogskoleprov,11,3,Luleå (F och EE)
+LTU,TCTEA,LTU-87004,HT14,2014,urval2,SA,,none_admitted,-,annat,0,11,Luleå (F och EE)
+LU,TATFY,LU-80100,HT14,2014,urval1,BF,,none_admitted,-,folkhogskola,0,3,Lund
+LU,TATFY,LU-80100,HT14,2014,urval1,BI,21.56,value,21.56,betyg_22_5,28,176,Lund
+LU,TATFY,LU-80100,HT14,2014,urval1,BIEX,20.83,value,20.83,betyg_22_5,34,96,Lund
+LU,TATFY,LU-80100,HT14,2014,urval1,BII,21.1,value,21.10,betyg_22_5,6,43,Lund
+LU,TATFY,LU-80100,HT14,2014,urval1,HP,1.6,value,1.60,hogskoleprov,35,189,Lund
+LU,TATFY,LU-80100,HT14,2014,urval1,SA,,none_admitted,-,annat,0,12,Lund
+LU,TATFY,LU-80100,HT14,2014,urval2,BF,,none_admitted,-,folkhogskola,0,1,Lund
+LU,TATFY,LU-80100,HT14,2014,urval2,BI,21.56,value,21.56,betyg_22_5,21,71,Lund
+LU,TATFY,LU-80100,HT14,2014,urval2,BIEX,20.39,value,20.39,betyg_22_5,29,34,Lund
+LU,TATFY,LU-80100,HT14,2014,urval2,BII,20.7,value,20.70,betyg_22_5,8,22,Lund
+LU,TATFY,LU-80100,HT14,2014,urval2,HP,1.6,value,1.60,hogskoleprov,30,74,Lund
+LU,TATFY,LU-80100,HT14,2014,urval2,SA,,none_admitted,-,annat,0,12,Lund
+UMU,TYCFT,UMU-01534,HT14,2014,urval1,BF,,none_admitted,-,folkhogskola,0,0,Umeå
+UMU,TYCFT,UMU-01534,HT14,2014,urval1,BI,17.29,value,17.29,betyg_22_5,12,15,Umeå
+UMU,TYCFT,UMU-01534,HT14,2014,urval1,BIEX,16.38,value,16.38,betyg_22_5,19,9,Umeå
+UMU,TYCFT,UMU-01534,HT14,2014,urval1,BII,17.2,value,17.20,betyg_22_5,6,14,Umeå
+UMU,TYCFT,UMU-01534,HT14,2014,urval1,DA,,all_admitted,*,annat,10,0,Umeå
+UMU,TYCFT,UMU-01534,HT14,2014,urval1,HP,1.2,value,1.20,hogskoleprov,18,20,Umeå
+UMU,TYCFT,UMU-01534,HT14,2014,urval1,SA,,none_admitted,-,annat,0,3,Umeå
+UMU,TYCFT,UMU-01534,HT14,2014,urval2,BF,,none_admitted,-,folkhogskola,0,0,Umeå
+UMU,TYCFT,UMU-01534,HT14,2014,urval2,BI,,all_admitted,*,betyg_22_5,12,0,Umeå
+UMU,TYCFT,UMU-01534,HT14,2014,urval2,BIEX,,all_admitted,*,betyg_22_5,14,0,Umeå
+UMU,TYCFT,UMU-01534,HT14,2014,urval2,BII,,all_admitted,*,betyg_22_5,8,0,Umeå
+UMU,TYCFT,UMU-01534,HT14,2014,urval2,DA,,all_admitted,*,annat,10,0,Umeå
+UMU,TYCFT,UMU-01534,HT14,2014,urval2,HP,,all_admitted,*,hogskoleprov,16,0,Umeå
+UMU,TYCFT,UMU-01534,HT14,2014,urval2,SA,,none_admitted,-,annat,0,6,Umeå
+UU,TTF2Y,UU-P1507,HT14,2014,urval1,BF,,none_admitted,-,folkhogskola,0,1,Uppsala
+UU,TTF2Y,UU-P1507,HT14,2014,urval1,BI,19.1,value,19.10,betyg_22_5,34,66,Uppsala
+UU,TTF2Y,UU-P1507,HT14,2014,urval1,BIEX,18.46,value,18.46,betyg_22_5,42,40,Uppsala
+UU,TTF2Y,UU-P1507,HT14,2014,urval1,BII,17.7,value,17.70,betyg_22_5,9,18,Uppsala
+UU,TTF2Y,UU-P1507,HT14,2014,urval1,DA,,all_admitted,*,annat,4,0,Uppsala
+UU,TTF2Y,UU-P1507,HT14,2014,urval1,HP,1.3,value,1.30,hogskoleprov,41,68,Uppsala
+UU,TTF2Y,UU-P1507,HT14,2014,urval1,ÖS,,none_admitted,-,annat,0,2,Uppsala
+UU,TTF2Y,UU-P1507,HT14,2014,urval2,BF,,none_admitted,-,folkhogskola,0,0,Uppsala
+UU,TTF2Y,UU-P1507,HT14,2014,urval2,BI,19.1,value,19.10,betyg_22_5,26,39,Uppsala
+UU,TTF2Y,UU-P1507,HT14,2014,urval2,BIEX,18.47,value,18.47,betyg_22_5,33,21,Uppsala
+UU,TTF2Y,UU-P1507,HT14,2014,urval2,BII,17.7,value,17.70,betyg_22_5,9,12,Uppsala
+UU,TTF2Y,UU-P1507,HT14,2014,urval2,DA,,all_admitted,*,annat,4,0,Uppsala
+UU,TTF2Y,UU-P1507,HT14,2014,urval2,HP,1.35,value,1.35,hogskoleprov,33,39,Uppsala
+UU,TTF2Y,UU-P1507,HT14,2014,urval2,ÖS,,none_admitted,-,annat,0,1,Uppsala
+CTH,TKTFY,CTH-57000,HT15,2015,urval1,APFM,,all_admitted,*,annat,31,0,Chalmers
+CTH,TKTFY,CTH-57000,HT15,2015,urval1,BF,3.5,value,3.50,folkhogskola,2,3,Chalmers
+CTH,TKTFY,CTH-57000,HT15,2015,urval1,BI,21.4,value,21.40,betyg_22_5,15,252,Chalmers
+CTH,TKTFY,CTH-57000,HT15,2015,urval1,BIEX,21.02,value,21.02,betyg_22_5,65,211,Chalmers
+CTH,TKTFY,CTH-57000,HT15,2015,urval1,BII,19.6,value,19.60,betyg_22_5,13,58,Chalmers
+CTH,TKTFY,CTH-57000,HT15,2015,urval1,DA,,all_admitted,*,annat,1,0,Chalmers
+CTH,TKTFY,CTH-57000,HT15,2015,urval1,HP,1.7,value,1.70,hogskoleprov,32,272,Chalmers
+CTH,TKTFY,CTH-57000,HT15,2015,urval1,ZBGAR,,all_admitted,*,annat,11,0,Chalmers
+CTH,TKTFY,CTH-57000,HT15,2015,urval2,APFM,,all_admitted,*,annat,30,0,Chalmers
+CTH,TKTFY,CTH-57000,HT15,2015,urval2,BF,,none_admitted,-,folkhogskola,0,3,Chalmers
+CTH,TKTFY,CTH-57000,HT15,2015,urval2,BI,21.51,value,21.51,betyg_22_5,10,111,Chalmers
+CTH,TKTFY,CTH-57000,HT15,2015,urval2,BIEX,21.02,value,21.02,betyg_22_5,51,90,Chalmers
+CTH,TKTFY,CTH-57000,HT15,2015,urval2,BII,19.6,value,19.60,betyg_22_5,11,34,Chalmers
+CTH,TKTFY,CTH-57000,HT15,2015,urval2,DA,,all_admitted,*,annat,1,0,Chalmers
+CTH,TKTFY,CTH-57000,HT15,2015,urval2,HP,1.7,value,1.70,hogskoleprov,25,126,Chalmers
+CTH,TKTFY,CTH-57000,HT15,2015,urval2,ZBGAR,,all_admitted,*,annat,11,0,Chalmers
+KTH,CTFYS,KTH-32114,HT15,2015,urval1,BF,,none_admitted,-,folkhogskola,0,1,KTH
+KTH,CTFYS,KTH-32114,HT15,2015,urval1,BI,22.05,value,22.05,betyg_22_5,10,343,KTH
+KTH,CTFYS,KTH-32114,HT15,2015,urval1,BIEX,21.82,value,21.82,betyg_22_5,33,267,KTH
+KTH,CTFYS,KTH-32114,HT15,2015,urval1,BII,20.64,value,20.64,betyg_22_5,7,76,KTH
+KTH,CTFYS,KTH-32114,HT15,2015,urval1,HP,1.75,value,1.75,hogskoleprov,49,357,KTH
+KTH,CTFYS,KTH-32114,HT15,2015,urval1,MAFY,,all_admitted,*,mafy,45,0,KTH
+KTH,CTFYS,KTH-32114,HT15,2015,urval1,T10,205.0,value,205,kth_lokal,18,13,KTH
+KTH,CTFYS,KTH-32114,HT15,2015,urval1,T20,,all_admitted,*,kth_lokal,8,0,KTH
+KTH,CTFYS,KTH-32114,HT15,2015,urval2,BF,,none_admitted,-,folkhogskola,0,0,KTH
+KTH,CTFYS,KTH-32114,HT15,2015,urval2,BI,22.05,value,22.05,betyg_22_5,7,167,KTH
+KTH,CTFYS,KTH-32114,HT15,2015,urval2,BIEX,21.9,value,21.90,betyg_22_5,26,125,KTH
+KTH,CTFYS,KTH-32114,HT15,2015,urval2,BII,20.64,value,20.64,betyg_22_5,7,39,KTH
+KTH,CTFYS,KTH-32114,HT15,2015,urval2,HP,1.75,value,1.75,hogskoleprov,39,177,KTH
+KTH,CTFYS,KTH-32114,HT15,2015,urval2,MAFY,,all_admitted,*,mafy,42,0,KTH
+KTH,CTFYS,KTH-32114,HT15,2015,urval2,T10,205.0,value,205,kth_lokal,18,10,KTH
+KTH,CTFYS,KTH-32114,HT15,2015,urval2,T20,,all_admitted,*,kth_lokal,8,0,KTH
+LIU,6CYYY,LIU-50116,HT15,2015,urval1,BF,,none_admitted,-,folkhogskola,0,2,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT15,2015,urval1,BI,18.7,value,18.70,betyg_22_5,14,91,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT15,2015,urval1,BIEX,18.41,value,18.41,betyg_22_5,56,71,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT15,2015,urval1,BII,18.14,value,18.14,betyg_22_5,8,21,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT15,2015,urval1,DA,,all_admitted,*,annat,4,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT15,2015,urval1,HP,1.45,value,1.45,hogskoleprov,38,100,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT15,2015,urval2,BF,,none_admitted,-,folkhogskola,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT15,2015,urval2,BI,17.85,value,17.85,betyg_22_5,17,31,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT15,2015,urval2,BIEX,18.59,value,18.59,betyg_22_5,45,25,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT15,2015,urval2,BII,18.92,value,18.92,betyg_22_5,6,13,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT15,2015,urval2,DA,,all_admitted,*,annat,4,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT15,2015,urval2,HP,1.45,value,1.45,hogskoleprov,35,40,Linköping (F och EE)
+LTU,TCTEA,LTU-87378,HT15,2015,urval1,BF,,none_admitted,-,folkhogskola,0,1,Luleå (F och EE)
+LTU,TCTEA,LTU-87378,HT15,2015,urval1,BI,17.07,value,17.07,betyg_22_5,4,30,Luleå (F och EE)
+LTU,TCTEA,LTU-87378,HT15,2015,urval1,BIEX,16.01,value,16.01,betyg_22_5,18,23,Luleå (F och EE)
+LTU,TCTEA,LTU-87378,HT15,2015,urval1,BII,16.57,value,16.57,betyg_22_5,3,7,Luleå (F och EE)
+LTU,TCTEA,LTU-87378,HT15,2015,urval1,DA,,all_admitted,*,annat,7,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87378,HT15,2015,urval1,HP,1.1,value,1.10,hogskoleprov,13,26,Luleå (F och EE)
+LTU,TCTEA,LTU-87378,HT15,2015,urval2,BF,,none_admitted,-,folkhogskola,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87378,HT15,2015,urval2,BI,14.95,value,14.95,betyg_22_5,8,6,Luleå (F och EE)
+LTU,TCTEA,LTU-87378,HT15,2015,urval2,BIEX,16.5,value,16.50,betyg_22_5,12,5,Luleå (F och EE)
+LTU,TCTEA,LTU-87378,HT15,2015,urval2,BII,16.57,value,16.57,betyg_22_5,1,1,Luleå (F och EE)
+LTU,TCTEA,LTU-87378,HT15,2015,urval2,DA,,all_admitted,*,annat,7,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87378,HT15,2015,urval2,HP,1.0,value,1.00,hogskoleprov,10,6,Luleå (F och EE)
+LU,TATFY,LU-80100,HT15,2015,urval1,BF,4.0,value,4.00,folkhogskola,1,4,Lund
+LU,TATFY,LU-80100,HT15,2015,urval1,BI,21.55,value,21.55,betyg_22_5,14,179,Lund
+LU,TATFY,LU-80100,HT15,2015,urval1,BIEX,21.09,value,21.09,betyg_22_5,46,139,Lund
+LU,TATFY,LU-80100,HT15,2015,urval1,BII,19.9,value,19.90,betyg_22_5,7,42,Lund
+LU,TATFY,LU-80100,HT15,2015,urval1,HP,1.65,value,1.65,hogskoleprov,35,190,Lund
+LU,TATFY,LU-80100,HT15,2015,urval2,BF,4.0,value,4.00,folkhogskola,1,4,Lund
+LU,TATFY,LU-80100,HT15,2015,urval2,BI,20.83,value,20.83,betyg_22_5,18,84,Lund
+LU,TATFY,LU-80100,HT15,2015,urval2,BIEX,21.09,value,21.09,betyg_22_5,32,67,Lund
+LU,TATFY,LU-80100,HT15,2015,urval2,BII,19.9,value,19.90,betyg_22_5,6,21,Lund
+LU,TATFY,LU-80100,HT15,2015,urval2,HP,1.65,value,1.65,hogskoleprov,31,91,Lund
+UMU,TYCFT,UMU-01534,HT15,2015,urval1,BF,,none_admitted,-,folkhogskola,0,3,Umeå
+UMU,TYCFT,UMU-01534,HT15,2015,urval1,BI,18.97,value,18.97,betyg_22_5,6,32,Umeå
+UMU,TYCFT,UMU-01534,HT15,2015,urval1,BIEX,17.65,value,17.65,betyg_22_5,26,24,Umeå
+UMU,TYCFT,UMU-01534,HT15,2015,urval1,BII,15.65,value,15.65,betyg_22_5,6,9,Umeå
+UMU,TYCFT,UMU-01534,HT15,2015,urval1,DA,,all_admitted,*,annat,9,0,Umeå
+UMU,TYCFT,UMU-01534,HT15,2015,urval1,HP,1.3,value,1.30,hogskoleprov,18,32,Umeå
+UMU,TYCFT,UMU-01534,HT15,2015,urval1,SA,,none_admitted,-,annat,0,11,Umeå
+UMU,TYCFT,UMU-01534,HT15,2015,urval2,BF,,none_admitted,-,folkhogskola,0,2,Umeå
+UMU,TYCFT,UMU-01534,HT15,2015,urval2,BI,16.69,value,16.69,betyg_22_5,9,9,Umeå
+UMU,TYCFT,UMU-01534,HT15,2015,urval2,BIEX,17.65,value,17.65,betyg_22_5,20,7,Umeå
+UMU,TYCFT,UMU-01534,HT15,2015,urval2,BII,15.65,value,15.65,betyg_22_5,5,3,Umeå
+UMU,TYCFT,UMU-01534,HT15,2015,urval2,DA,,all_admitted,*,annat,9,0,Umeå
+UMU,TYCFT,UMU-01534,HT15,2015,urval2,HP,1.3,value,1.30,hogskoleprov,17,10,Umeå
+UMU,TYCFT,UMU-01534,HT15,2015,urval2,SA,,none_admitted,-,annat,0,4,Umeå
+UU,TTF2Y,UU-P1507,HT15,2015,urval1,BF,,none_admitted,-,folkhogskola,0,1,Uppsala
+UU,TTF2Y,UU-P1507,HT15,2015,urval1,BI,18.7,value,18.70,betyg_22_5,19,98,Uppsala
+UU,TTF2Y,UU-P1507,HT15,2015,urval1,BIEX,18.65,value,18.65,betyg_22_5,64,72,Uppsala
+UU,TTF2Y,UU-P1507,HT15,2015,urval1,BII,17.15,value,17.15,betyg_22_5,11,23,Uppsala
+UU,TTF2Y,UU-P1507,HT15,2015,urval1,DA,,all_admitted,*,annat,4,0,Uppsala
+UU,TTF2Y,UU-P1507,HT15,2015,urval1,HP,1.45,value,1.45,hogskoleprov,47,96,Uppsala
+UU,TTF2Y,UU-P1507,HT15,2015,urval2,BF,,none_admitted,-,folkhogskola,0,1,Uppsala
+UU,TTF2Y,UU-P1507,HT15,2015,urval2,BI,18.7,value,18.70,betyg_22_5,15,55,Uppsala
+UU,TTF2Y,UU-P1507,HT15,2015,urval2,BIEX,18.65,value,18.65,betyg_22_5,52,40,Uppsala
+UU,TTF2Y,UU-P1507,HT15,2015,urval2,BII,17.15,value,17.15,betyg_22_5,8,16,Uppsala
+UU,TTF2Y,UU-P1507,HT15,2015,urval2,DA,,all_admitted,*,annat,4,0,Uppsala
+UU,TTF2Y,UU-P1507,HT15,2015,urval2,HP,1.45,value,1.45,hogskoleprov,36,59,Uppsala
+CTH,TKTFY,CTH-57000,HT16,2016,urval1,APFM,,all_admitted,*,annat,32,0,Chalmers
+CTH,TKTFY,CTH-57000,HT16,2016,urval1,BF,4.0,value,4.00,folkhogskola,1,3,Chalmers
+CTH,TKTFY,CTH-57000,HT16,2016,urval1,BI,21.25,value,21.25,betyg_22_5,8,274,Chalmers
+CTH,TKTFY,CTH-57000,HT16,2016,urval1,BIEX,21.2,value,21.20,betyg_22_5,66,240,Chalmers
+CTH,TKTFY,CTH-57000,HT16,2016,urval1,BII,19.45,value,19.45,betyg_22_5,9,34,Chalmers
+CTH,TKTFY,CTH-57000,HT16,2016,urval1,HP,1.75,value,1.75,hogskoleprov,28,271,Chalmers
+CTH,TKTFY,CTH-57000,HT16,2016,urval1,ZBGAR,,all_admitted,*,annat,15,0,Chalmers
+CTH,TKTFY,CTH-57000,HT16,2016,urval2,APFM,,all_admitted,*,annat,32,0,Chalmers
+CTH,TKTFY,CTH-57000,HT16,2016,urval2,BF,3.5,value,3.50,folkhogskola,1,1,Chalmers
+CTH,TKTFY,CTH-57000,HT16,2016,urval2,BI,21.41,value,21.41,betyg_22_5,6,110,Chalmers
+CTH,TKTFY,CTH-57000,HT16,2016,urval2,BIEX,20.99,value,20.99,betyg_22_5,49,100,Chalmers
+CTH,TKTFY,CTH-57000,HT16,2016,urval2,BII,19.45,value,19.45,betyg_22_5,9,18,Chalmers
+CTH,TKTFY,CTH-57000,HT16,2016,urval2,HP,1.75,value,1.75,hogskoleprov,21,112,Chalmers
+CTH,TKTFY,CTH-57000,HT16,2016,urval2,ZBGAR,,all_admitted,*,annat,15,0,Chalmers
+KTH,CTFYS,KTH-32114,HT16,2016,urval1,BF,,none_admitted,-,folkhogskola,0,3,KTH
+KTH,CTFYS,KTH-32114,HT16,2016,urval1,BI,22.5,value,22.50,betyg_22_5,6,378,KTH
+KTH,CTFYS,KTH-32114,HT16,2016,urval1,BIEX,21.88,value,21.88,betyg_22_5,36,318,KTH
+KTH,CTFYS,KTH-32114,HT16,2016,urval1,BII,21.91,value,21.91,betyg_22_5,6,88,KTH
+KTH,CTFYS,KTH-32114,HT16,2016,urval1,HP,1.75,value,1.75,hogskoleprov,46,399,KTH
+KTH,CTFYS,KTH-32114,HT16,2016,urval1,MAFY,35.0,value,35,mafy,46,30,KTH
+KTH,CTFYS,KTH-32114,HT16,2016,urval1,ÖS,,none_admitted,-,annat,0,1,KTH
+KTH,CTFYS,KTH-32114,HT16,2016,urval1,T10,175.0,value,175,kth_lokal,19,3,KTH
+KTH,CTFYS,KTH-32114,HT16,2016,urval1,T20,80.0,value,80,kth_lokal,6,3,KTH
+KTH,CTFYS,KTH-32114,HT16,2016,urval2,BF,,none_admitted,-,folkhogskola,0,1,KTH
+KTH,CTFYS,KTH-32114,HT16,2016,urval2,BI,22.5,value,22.50,betyg_22_5,2,163,KTH
+KTH,CTFYS,KTH-32114,HT16,2016,urval2,BIEX,21.88,value,21.88,betyg_22_5,21,133,KTH
+KTH,CTFYS,KTH-32114,HT16,2016,urval2,BII,21.91,value,21.91,betyg_22_5,6,51,KTH
+KTH,CTFYS,KTH-32114,HT16,2016,urval2,HP,1.75,value,1.75,hogskoleprov,40,179,KTH
+KTH,CTFYS,KTH-32114,HT16,2016,urval2,MAFY,35.0,value,35,mafy,47,24,KTH
+KTH,CTFYS,KTH-32114,HT16,2016,urval2,ÖS,,none_admitted,-,annat,0,1,KTH
+KTH,CTFYS,KTH-32114,HT16,2016,urval2,T10,175.0,value,175,kth_lokal,19,1,KTH
+KTH,CTFYS,KTH-32114,HT16,2016,urval2,T20,80.0,value,80,kth_lokal,6,1,KTH
+LIU,6CYYY,LIU-50116,HT16,2016,urval1,BF,,none_admitted,-,folkhogskola,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT16,2016,urval1,BI,19.0,value,19.00,betyg_22_5,8,54,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT16,2016,urval1,BIEX,17.6,value,17.60,betyg_22_5,66,40,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT16,2016,urval1,BII,18.12,value,18.12,betyg_22_5,8,22,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT16,2016,urval1,DA,,all_admitted,*,annat,2,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT16,2016,urval1,HP,1.35,value,1.35,hogskoleprov,41,70,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT16,2016,urval2,BF,,none_admitted,-,folkhogskola,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT16,2016,urval2,BI,18.0,value,18.00,betyg_22_5,8,23,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT16,2016,urval2,BIEX,16.9,value,16.90,betyg_22_5,53,16,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT16,2016,urval2,BII,17.26,value,17.26,betyg_22_5,9,11,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT16,2016,urval2,DA,,all_admitted,*,annat,2,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT16,2016,urval2,HP,1.3,value,1.30,hogskoleprov,35,32,Linköping (F och EE)
+LTU,TCTEA,LTU-87384,HT16,2016,urval1,BI,15.42,value,15.42,betyg_22_5,3,8,Luleå (F och EE)
+LTU,TCTEA,LTU-87384,HT16,2016,urval1,BIEX,14.86,value,14.86,betyg_22_5,24,6,Luleå (F och EE)
+LTU,TCTEA,LTU-87384,HT16,2016,urval1,BII,15.7,value,15.70,betyg_22_5,4,11,Luleå (F och EE)
+LTU,TCTEA,LTU-87384,HT16,2016,urval1,DA,,all_admitted,*,annat,3,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87384,HT16,2016,urval1,HP,1.1,value,1.10,hogskoleprov,16,15,Luleå (F och EE)
+LTU,TCTEA,LTU-87384,HT16,2016,urval1,SA,,none_admitted,-,annat,0,6,Luleå (F och EE)
+LTU,TCTEA,LTU-87384,HT16,2016,urval2,BI,,all_admitted,*,betyg_22_5,4,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87384,HT16,2016,urval2,BIEX,,all_admitted,*,betyg_22_5,16,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87384,HT16,2016,urval2,BII,,all_admitted,*,betyg_22_5,6,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87384,HT16,2016,urval2,DA,,all_admitted,*,annat,3,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87384,HT16,2016,urval2,HP,,all_admitted,*,hogskoleprov,13,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87384,HT16,2016,urval2,SA,,none_admitted,-,annat,0,1,Luleå (F och EE)
+LU,TATFY,LU-80100,HT16,2016,urval1,BF,,all_admitted,*,folkhogskola,1,0,Lund
+LU,TATFY,LU-80100,HT16,2016,urval1,BI,21.65,value,21.65,betyg_22_5,8,256,Lund
+LU,TATFY,LU-80100,HT16,2016,urval1,BIEX,21.65,value,21.65,betyg_22_5,55,224,Lund
+LU,TATFY,LU-80100,HT16,2016,urval1,BII,20.25,value,20.25,betyg_22_5,6,39,Lund
+LU,TATFY,LU-80100,HT16,2016,urval1,DA,,all_admitted,*,annat,1,0,Lund
+LU,TATFY,LU-80100,HT16,2016,urval1,HP,1.7,value,1.70,hogskoleprov,36,253,Lund
+LU,TATFY,LU-80100,HT16,2016,urval1,ÖS,,none_admitted,-,annat,0,1,Lund
+LU,TATFY,LU-80100,HT16,2016,urval2,BF,,all_admitted,*,folkhogskola,1,0,Lund
+LU,TATFY,LU-80100,HT16,2016,urval2,BI,21.65,value,21.65,betyg_22_5,7,117,Lund
+LU,TATFY,LU-80100,HT16,2016,urval2,BIEX,21.65,value,21.65,betyg_22_5,45,100,Lund
+LU,TATFY,LU-80100,HT16,2016,urval2,BII,20.25,value,20.25,betyg_22_5,4,17,Lund
+LU,TATFY,LU-80100,HT16,2016,urval2,DA,,all_admitted,*,annat,1,0,Lund
+LU,TATFY,LU-80100,HT16,2016,urval2,HP,1.7,value,1.70,hogskoleprov,31,118,Lund
+LU,TATFY,LU-80100,HT16,2016,urval2,ÖS,,none_admitted,-,annat,0,1,Lund
+UMU,TYCFT,UMU-01534,HT16,2016,urval1,BF,,none_admitted,-,folkhogskola,0,0,Umeå
+UMU,TYCFT,UMU-01534,HT16,2016,urval1,BI,18.4,value,18.40,betyg_22_5,4,38,Umeå
+UMU,TYCFT,UMU-01534,HT16,2016,urval1,BIEX,18.28,value,18.28,betyg_22_5,27,33,Umeå
+UMU,TYCFT,UMU-01534,HT16,2016,urval1,BII,17.07,value,17.07,betyg_22_5,5,17,Umeå
+UMU,TYCFT,UMU-01534,HT16,2016,urval1,DA,,all_admitted,*,annat,11,0,Umeå
+UMU,TYCFT,UMU-01534,HT16,2016,urval1,HP,1.4,value,1.40,hogskoleprov,18,48,Umeå
+UMU,TYCFT,UMU-01534,HT16,2016,urval1,SA,,none_admitted,-,annat,0,10,Umeå
+UMU,TYCFT,UMU-01534,HT16,2016,urval2,BF,,none_admitted,-,folkhogskola,0,0,Umeå
+UMU,TYCFT,UMU-01534,HT16,2016,urval2,BI,18.22,value,18.22,betyg_22_5,5,14,Umeå
+UMU,TYCFT,UMU-01534,HT16,2016,urval2,BIEX,17.56,value,17.56,betyg_22_5,23,13,Umeå
+UMU,TYCFT,UMU-01534,HT16,2016,urval2,BII,16.35,value,16.35,betyg_22_5,5,6,Umeå
+UMU,TYCFT,UMU-01534,HT16,2016,urval2,DA,,all_admitted,*,annat,11,0,Umeå
+UMU,TYCFT,UMU-01534,HT16,2016,urval2,HP,1.35,value,1.35,hogskoleprov,16,17,Umeå
+UMU,TYCFT,UMU-01534,HT16,2016,urval2,SA,,none_admitted,-,annat,0,4,Umeå
+UU,TTF2Y,UU-P1507,HT16,2016,urval1,BF,,none_admitted,-,folkhogskola,0,2,Uppsala
+UU,TTF2Y,UU-P1507,HT16,2016,urval1,BI,20.49,value,20.49,betyg_22_5,7,154,Uppsala
+UU,TTF2Y,UU-P1507,HT16,2016,urval1,BIEX,19.7,value,19.70,betyg_22_5,63,136,Uppsala
+UU,TTF2Y,UU-P1507,HT16,2016,urval1,BII,17.77,value,17.77,betyg_22_5,8,43,Uppsala
+UU,TTF2Y,UU-P1507,HT16,2016,urval1,DA,,all_admitted,*,annat,3,0,Uppsala
+UU,TTF2Y,UU-P1507,HT16,2016,urval1,HP,1.45,value,1.45,hogskoleprov,39,171,Uppsala
+UU,TTF2Y,UU-P1507,HT16,2016,urval1,ÖS,,none_admitted,-,annat,0,1,Uppsala
+UU,TTF2Y,UU-P1507,HT16,2016,urval2,BF,,none_admitted,-,folkhogskola,0,0,Uppsala
+UU,TTF2Y,UU-P1507,HT16,2016,urval2,BI,20.49,value,20.49,betyg_22_5,4,80,Uppsala
+UU,TTF2Y,UU-P1507,HT16,2016,urval2,BIEX,19.7,value,19.70,betyg_22_5,52,70,Uppsala
+UU,TTF2Y,UU-P1507,HT16,2016,urval2,BII,17.77,value,17.77,betyg_22_5,7,23,Uppsala
+UU,TTF2Y,UU-P1507,HT16,2016,urval2,DA,,all_admitted,*,annat,3,0,Uppsala
+UU,TTF2Y,UU-P1507,HT16,2016,urval2,HP,1.45,value,1.45,hogskoleprov,34,86,Uppsala
+UU,TTF2Y,UU-P1507,HT16,2016,urval2,ÖS,,none_admitted,-,annat,0,0,Uppsala
+CTH,TKTFY,CTH-57000,HT17,2017,urval1,APFM,,all_admitted,*,annat,40,0,Chalmers
+CTH,TKTFY,CTH-57000,HT17,2017,urval1,BF,4.0,value,4.00,folkhogskola,1,2,Chalmers
+CTH,TKTFY,CTH-57000,HT17,2017,urval1,BI,21.2,value,21.20,betyg_22_5,70,257,Chalmers
+CTH,TKTFY,CTH-57000,HT17,2017,urval1,BII,20.35,value,20.35,betyg_22_5,8,44,Chalmers
+CTH,TKTFY,CTH-57000,HT17,2017,urval1,HP,1.65,value,1.65,hogskoleprov,26,268,Chalmers
+CTH,TKTFY,CTH-57000,HT17,2017,urval1,ZBGAR,,all_admitted,*,annat,13,0,Chalmers
+CTH,TKTFY,CTH-57000,HT17,2017,urval2,APFM,,all_admitted,*,annat,40,0,Chalmers
+CTH,TKTFY,CTH-57000,HT17,2017,urval2,BF,4.0,value,4.00,folkhogskola,2,2,Chalmers
+CTH,TKTFY,CTH-57000,HT17,2017,urval2,BI,21.2,value,21.20,betyg_22_5,49,95,Chalmers
+CTH,TKTFY,CTH-57000,HT17,2017,urval2,BII,20.35,value,20.35,betyg_22_5,8,24,Chalmers
+CTH,TKTFY,CTH-57000,HT17,2017,urval2,HP,1.65,value,1.65,hogskoleprov,21,104,Chalmers
+CTH,TKTFY,CTH-57000,HT17,2017,urval2,ZBGAR,,all_admitted,*,annat,13,0,Chalmers
+KAU,TACTF,KAU-69620,HT17,2017,urval1,BF,,none_admitted,-,folkhogskola,0,0,Karlstad
+KAU,TACTF,KAU-69620,HT17,2017,urval1,BI,,all_admitted,*,betyg_22_5,13,0,Karlstad
+KAU,TACTF,KAU-69620,HT17,2017,urval1,BII,,all_admitted,*,betyg_22_5,3,0,Karlstad
+KAU,TACTF,KAU-69620,HT17,2017,urval1,DA,,all_admitted,*,annat,2,0,Karlstad
+KAU,TACTF,KAU-69620,HT17,2017,urval1,HP,,all_admitted,*,hogskoleprov,11,0,Karlstad
+KAU,TACTF,KAU-69620,HT17,2017,urval1,SA,,all_admitted,*,annat,2,0,Karlstad
+KAU,TACTF,KAU-69620,HT17,2017,urval2,BF,,none_admitted,-,folkhogskola,0,0,Karlstad
+KAU,TACTF,KAU-69620,HT17,2017,urval2,BI,,all_admitted,*,betyg_22_5,7,0,Karlstad
+KAU,TACTF,KAU-69620,HT17,2017,urval2,BII,,all_admitted,*,betyg_22_5,2,0,Karlstad
+KAU,TACTF,KAU-69620,HT17,2017,urval2,DA,,all_admitted,*,annat,2,0,Karlstad
+KAU,TACTF,KAU-69620,HT17,2017,urval2,HP,,all_admitted,*,hogskoleprov,9,0,Karlstad
+KAU,TACTF,KAU-69620,HT17,2017,urval2,SA,,all_admitted,*,annat,2,0,Karlstad
+KTH,CTFYS,KTH-32114,HT17,2017,urval1,BF,,none_admitted,-,folkhogskola,0,3,KTH
+KTH,CTFYS,KTH-32114,HT17,2017,urval1,BI,21.98,value,21.98,betyg_22_5,40,360,KTH
+KTH,CTFYS,KTH-32114,HT17,2017,urval1,BII,21.77,value,21.77,betyg_22_5,6,103,KTH
+KTH,CTFYS,KTH-32114,HT17,2017,urval1,HP,1.65,value,1.65,hogskoleprov,45,396,KTH
+KTH,CTFYS,KTH-32114,HT17,2017,urval1,MAFY,36.0,value,36,mafy,45,26,KTH
+KTH,CTFYS,KTH-32114,HT17,2017,urval1,ÖS,,none_admitted,-,annat,0,2,KTH
+KTH,CTFYS,KTH-32114,HT17,2017,urval1,T10,210.0,value,210,kth_lokal,15,21,KTH
+KTH,CTFYS,KTH-32114,HT17,2017,urval1,T20,80.0,value,80,kth_lokal,4,5,KTH
+KTH,CTFYS,KTH-32114,HT17,2017,urval2,BF,,none_admitted,-,folkhogskola,0,1,KTH
+KTH,CTFYS,KTH-32114,HT17,2017,urval2,BI,21.98,value,21.98,betyg_22_5,24,147,KTH
+KTH,CTFYS,KTH-32114,HT17,2017,urval2,BII,21.77,value,21.77,betyg_22_5,4,52,KTH
+KTH,CTFYS,KTH-32114,HT17,2017,urval2,HP,1.65,value,1.65,hogskoleprov,41,171,KTH
+KTH,CTFYS,KTH-32114,HT17,2017,urval2,MAFY,36.0,value,36,mafy,43,21,KTH
+KTH,CTFYS,KTH-32114,HT17,2017,urval2,ÖS,,none_admitted,-,annat,0,2,KTH
+KTH,CTFYS,KTH-32114,HT17,2017,urval2,T10,210.0,value,210,kth_lokal,15,16,KTH
+KTH,CTFYS,KTH-32114,HT17,2017,urval2,T20,80.0,value,80,kth_lokal,4,4,KTH
+LIU,6CYYY,LIU-50116,HT17,2017,urval1,BF,,all_admitted,*,folkhogskola,1,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT17,2017,urval1,BI,17.92,value,17.92,betyg_22_5,78,75,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT17,2017,urval1,BII,17.03,value,17.03,betyg_22_5,9,12,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT17,2017,urval1,DA,,all_admitted,*,annat,4,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT17,2017,urval1,HP,1.35,value,1.35,hogskoleprov,43,79,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT17,2017,urval2,BF,,all_admitted,*,folkhogskola,1,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT17,2017,urval2,BI,17.76,value,17.76,betyg_22_5,60,36,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT17,2017,urval2,BII,17.7,value,17.70,betyg_22_5,8,4,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT17,2017,urval2,DA,,all_admitted,*,annat,4,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT17,2017,urval2,HP,1.3,value,1.30,hogskoleprov,34,39,Linköping (F och EE)
+LTU,TCTEA,LTU-87392,HT17,2017,urval1,BF,,none_admitted,-,folkhogskola,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87392,HT17,2017,urval1,BI,14.85,value,14.85,betyg_22_5,33,8,Luleå (F och EE)
+LTU,TCTEA,LTU-87392,HT17,2017,urval1,BII,14.65,value,14.65,betyg_22_5,4,7,Luleå (F och EE)
+LTU,TCTEA,LTU-87392,HT17,2017,urval1,HP,1.05,value,1.05,hogskoleprov,18,12,Luleå (F och EE)
+LTU,TCTEA,LTU-87392,HT17,2017,urval1,SA,,none_admitted,-,annat,0,5,Luleå (F och EE)
+LTU,TCTEA,LTU-87392,HT17,2017,urval2,BF,,none_admitted,-,folkhogskola,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87392,HT17,2017,urval2,BI,,all_admitted,*,betyg_22_5,21,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87392,HT17,2017,urval2,BII,,all_admitted,*,betyg_22_5,7,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87392,HT17,2017,urval2,HP,,all_admitted,*,hogskoleprov,14,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87392,HT17,2017,urval2,SA,,none_admitted,-,annat,0,4,Luleå (F och EE)
+LU,TATFY,LU-80100,HT17,2017,urval1,BF,,all_admitted,*,folkhogskola,1,0,Lund
+LU,TATFY,LU-80100,HT17,2017,urval1,BI,21.51,value,21.51,betyg_22_5,63,205,Lund
+LU,TATFY,LU-80100,HT17,2017,urval1,BII,20.89,value,20.89,betyg_22_5,7,34,Lund
+LU,TATFY,LU-80100,HT17,2017,urval1,HP,1.7,value,1.70,hogskoleprov,36,202,Lund
+LU,TATFY,LU-80100,HT17,2017,urval2,BF,,all_admitted,*,folkhogskola,1,0,Lund
+LU,TATFY,LU-80100,HT17,2017,urval2,BI,21.46,value,21.46,betyg_22_5,51,87,Lund
+LU,TATFY,LU-80100,HT17,2017,urval2,BII,20.89,value,20.89,betyg_22_5,6,18,Lund
+LU,TATFY,LU-80100,HT17,2017,urval2,HP,1.65,value,1.65,hogskoleprov,30,85,Lund
+UMU,TYCFT,UMU-01534,HT17,2017,urval1,BF,,none_admitted,-,folkhogskola,0,0,Umeå
+UMU,TYCFT,UMU-01534,HT17,2017,urval1,BI,17.5,value,17.50,betyg_22_5,48,37,Umeå
+UMU,TYCFT,UMU-01534,HT17,2017,urval1,BII,16.25,value,16.25,betyg_22_5,6,5,Umeå
+UMU,TYCFT,UMU-01534,HT17,2017,urval1,DA,,all_admitted,*,annat,4,0,Umeå
+UMU,TYCFT,UMU-01534,HT17,2017,urval1,HP,1.25,value,1.25,hogskoleprov,27,32,Umeå
+UMU,TYCFT,UMU-01534,HT17,2017,urval1,SA,,none_admitted,-,annat,0,7,Umeå
+UMU,TYCFT,UMU-01534,HT17,2017,urval2,BF,,none_admitted,-,folkhogskola,0,0,Umeå
+UMU,TYCFT,UMU-01534,HT17,2017,urval2,BI,17.1,value,17.10,betyg_22_5,38,15,Umeå
+UMU,TYCFT,UMU-01534,HT17,2017,urval2,BII,16.25,value,16.25,betyg_22_5,6,2,Umeå
+UMU,TYCFT,UMU-01534,HT17,2017,urval2,DA,,all_admitted,*,annat,4,0,Umeå
+UMU,TYCFT,UMU-01534,HT17,2017,urval2,HP,1.25,value,1.25,hogskoleprov,22,14,Umeå
+UMU,TYCFT,UMU-01534,HT17,2017,urval2,SA,,none_admitted,-,annat,0,5,Umeå
+UU,TTF2Y,UU-P1507,HT17,2017,urval1,BF,4.0,value,4.0,folkhogskola,1,1,Uppsala
+UU,TTF2Y,UU-P1507,HT17,2017,urval1,BI,19.69,value,19.69,betyg_22_5,71,144,Uppsala
+UU,TTF2Y,UU-P1507,HT17,2017,urval1,BII,19.75,value,19.75,betyg_22_5,7,37,Uppsala
+UU,TTF2Y,UU-P1507,HT17,2017,urval1,DA,,all_admitted,*,annat,2,0,Uppsala
+UU,TTF2Y,UU-P1507,HT17,2017,urval1,HP,1.5,value,1.50,hogskoleprov,39,160,Uppsala
+UU,TTF2Y,UU-P1507,HT17,2017,urval2,BF,,none_admitted,-,folkhogskola,0,0,Uppsala
+UU,TTF2Y,UU-P1507,HT17,2017,urval2,BI,19.48,value,19.48,betyg_22_5,57,62,Uppsala
+UU,TTF2Y,UU-P1507,HT17,2017,urval2,BII,18.48,value,18.48,betyg_22_5,7,15,Uppsala
+UU,TTF2Y,UU-P1507,HT17,2017,urval2,DA,,all_admitted,*,annat,2,0,Uppsala
+UU,TTF2Y,UU-P1507,HT17,2017,urval2,HP,1.45,value,1.45,hogskoleprov,31,70,Uppsala
+CTH,TKTFY,CTH-57000,HT18,2018,urval1,APFM,,all_admitted,*,annat,49,0,Chalmers
+CTH,TKTFY,CTH-57000,HT18,2018,urval1,BF,4.0,value,4.00,folkhogskola,1,1,Chalmers
+CTH,TKTFY,CTH-57000,HT18,2018,urval1,BI,21.35,value,21.35,betyg_22_5,68,238,Chalmers
+CTH,TKTFY,CTH-57000,HT18,2018,urval1,BII,19.54,value,19.54,betyg_22_5,8,37,Chalmers
+CTH,TKTFY,CTH-57000,HT18,2018,urval1,HP,1.65,value,1.65,hogskoleprov,26,236,Chalmers
+CTH,TKTFY,CTH-57000,HT18,2018,urval1,ZBGAR,,all_admitted,*,annat,11,0,Chalmers
+CTH,TKTFY,CTH-57000,HT18,2018,urval2,APFM,,all_admitted,*,annat,48,0,Chalmers
+CTH,TKTFY,CTH-57000,HT18,2018,urval2,BF,,all_admitted,*,folkhogskola,1,0,Chalmers
+CTH,TKTFY,CTH-57000,HT18,2018,urval2,BI,21.25,value,21.25,betyg_22_5,53,97,Chalmers
+CTH,TKTFY,CTH-57000,HT18,2018,urval2,BII,19.68,value,19.68,betyg_22_5,6,12,Chalmers
+CTH,TKTFY,CTH-57000,HT18,2018,urval2,HP,1.65,value,1.65,hogskoleprov,23,89,Chalmers
+CTH,TKTFY,CTH-57000,HT18,2018,urval2,ZBGAR,,all_admitted,*,annat,11,0,Chalmers
+KAU,TACTF,KAU-69701,HT18,2018,urval1,BF,,none_admitted,-,folkhogskola,0,0,Karlstad
+KAU,TACTF,KAU-69701,HT18,2018,urval1,BI,,all_admitted,*,betyg_22_5,16,0,Karlstad
+KAU,TACTF,KAU-69701,HT18,2018,urval1,BII,,all_admitted,*,betyg_22_5,2,0,Karlstad
+KAU,TACTF,KAU-69701,HT18,2018,urval1,DA,,all_admitted,*,annat,6,0,Karlstad
+KAU,TACTF,KAU-69701,HT18,2018,urval1,HP,,all_admitted,*,hogskoleprov,10,0,Karlstad
+KAU,TACTF,KAU-69701,HT18,2018,urval1,SA,,all_admitted,*,annat,1,0,Karlstad
+KAU,TACTF,KAU-69701,HT18,2018,urval2,BF,,none_admitted,-,folkhogskola,0,0,Karlstad
+KAU,TACTF,KAU-69701,HT18,2018,urval2,BI,,all_admitted,*,betyg_22_5,9,0,Karlstad
+KAU,TACTF,KAU-69701,HT18,2018,urval2,BII,,none_admitted,-,betyg_22_5,0,0,Karlstad
+KAU,TACTF,KAU-69701,HT18,2018,urval2,DA,,all_admitted,*,annat,6,0,Karlstad
+KAU,TACTF,KAU-69701,HT18,2018,urval2,HP,,all_admitted,*,hogskoleprov,8,0,Karlstad
+KAU,TACTF,KAU-69701,HT18,2018,urval2,SA,,all_admitted,*,annat,3,0,Karlstad
+KTH,CTFYS,KTH-32114,HT18,2018,urval1,BF,,none_admitted,-,folkhogskola,0,3,KTH
+KTH,CTFYS,KTH-32114,HT18,2018,urval1,BI,21.98,value,21.98,betyg_22_5,49,323,KTH
+KTH,CTFYS,KTH-32114,HT18,2018,urval1,BII,21.32,value,21.32,betyg_22_5,7,70,KTH
+KTH,CTFYS,KTH-32114,HT18,2018,urval1,DA,,all_admitted,*,annat,1,0,KTH
+KTH,CTFYS,KTH-32114,HT18,2018,urval1,HP,1.65,value,1.65,hogskoleprov,54,332,KTH
+KTH,CTFYS,KTH-32114,HT18,2018,urval1,MAFY,33.0,value,33,mafy,54,14,KTH
+KTH,CTFYS,KTH-32114,HT18,2018,urval1,ÖS,,none_admitted,-,annat,0,1,KTH
+KTH,CTFYS,KTH-32114,HT18,2018,urval1,T10,205.0,value,205,kth_lokal,15,12,KTH
+KTH,CTFYS,KTH-32114,HT18,2018,urval1,T20,80.0,value,80,kth_lokal,3,2,KTH
+KTH,CTFYS,KTH-32114,HT18,2018,urval2,BF,,none_admitted,-,folkhogskola,0,2,KTH
+KTH,CTFYS,KTH-32114,HT18,2018,urval2,BI,21.98,value,21.98,betyg_22_5,36,164,KTH
+KTH,CTFYS,KTH-32114,HT18,2018,urval2,BII,21.32,value,21.32,betyg_22_5,7,36,KTH
+KTH,CTFYS,KTH-32114,HT18,2018,urval2,DA,,all_admitted,*,annat,1,0,KTH
+KTH,CTFYS,KTH-32114,HT18,2018,urval2,HP,1.65,value,1.65,hogskoleprov,42,167,KTH
+KTH,CTFYS,KTH-32114,HT18,2018,urval2,MAFY,33.0,value,33,mafy,54,11,KTH
+KTH,CTFYS,KTH-32114,HT18,2018,urval2,ÖS,,none_admitted,-,annat,0,1,KTH
+KTH,CTFYS,KTH-32114,HT18,2018,urval2,T10,205.0,value,205,kth_lokal,16,8,KTH
+KTH,CTFYS,KTH-32114,HT18,2018,urval2,T20,80.0,value,80,kth_lokal,3,2,KTH
+LIU,6CYYY,LIU-50116,HT18,2018,urval1,BF,,none_admitted,-,folkhogskola,0,2,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT18,2018,urval1,BI,18.45,value,18.45,betyg_22_5,78,92,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT18,2018,urval1,BII,19.48,value,19.48,betyg_22_5,8,27,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT18,2018,urval1,DA,,all_admitted,*,annat,7,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT18,2018,urval1,HP,1.35,value,1.35,hogskoleprov,42,102,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT18,2018,urval2,BF,,none_admitted,-,folkhogskola,0,1,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT18,2018,urval2,BI,18.59,value,18.59,betyg_22_5,62,50,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT18,2018,urval2,BII,19.48,value,19.48,betyg_22_5,8,16,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT18,2018,urval2,DA,,all_admitted,*,annat,6,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT18,2018,urval2,HP,1.35,value,1.35,hogskoleprov,31,54,Linköping (F och EE)
+LTU,TCTEA,LTU-87404,HT18,2018,urval1,BF,,none_admitted,-,folkhogskola,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87404,HT18,2018,urval1,BI,,all_admitted,*,betyg_22_5,29,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87404,HT18,2018,urval1,BII,,all_admitted,*,betyg_22_5,6,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87404,HT18,2018,urval1,DA,,all_admitted,*,annat,1,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87404,HT18,2018,urval1,HP,,all_admitted,*,hogskoleprov,15,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87404,HT18,2018,urval1,SA,993.0,value,993,annat,4,10,Luleå (F och EE)
+LTU,TCTEA,LTU-87404,HT18,2018,urval2,BF,,none_admitted,-,folkhogskola,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87404,HT18,2018,urval2,BI,,all_admitted,*,betyg_22_5,17,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87404,HT18,2018,urval2,BII,,all_admitted,*,betyg_22_5,5,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87404,HT18,2018,urval2,DA,,none_admitted,-,annat,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87404,HT18,2018,urval2,HP,,all_admitted,*,hogskoleprov,10,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87404,HT18,2018,urval2,SA,,all_admitted,*,annat,11,0,Luleå (F och EE)
+LU,TATFY,LU-80100,HT18,2018,urval1,BF,,all_admitted,*,folkhogskola,1,0,Lund
+LU,TATFY,LU-80100,HT18,2018,urval1,BI,21.35,value,21.35,betyg_22_5,69,175,Lund
+LU,TATFY,LU-80100,HT18,2018,urval1,BII,19.94,value,19.94,betyg_22_5,7,31,Lund
+LU,TATFY,LU-80100,HT18,2018,urval1,DA,,all_admitted,*,annat,1,0,Lund
+LU,TATFY,LU-80100,HT18,2018,urval1,HP,1.6,value,1.60,hogskoleprov,39,177,Lund
+LU,TATFY,LU-80100,HT18,2018,urval1,ÖS,,none_admitted,-,annat,0,1,Lund
+LU,TATFY,LU-80100,HT18,2018,urval2,BF,,all_admitted,*,folkhogskola,1,0,Lund
+LU,TATFY,LU-80100,HT18,2018,urval2,BI,21.35,value,21.35,betyg_22_5,59,77,Lund
+LU,TATFY,LU-80100,HT18,2018,urval2,BII,19.94,value,19.94,betyg_22_5,7,13,Lund
+LU,TATFY,LU-80100,HT18,2018,urval2,DA,,all_admitted,*,annat,1,0,Lund
+LU,TATFY,LU-80100,HT18,2018,urval2,HP,1.6,value,1.60,hogskoleprov,29,79,Lund
+LU,TATFY,LU-80100,HT18,2018,urval2,ÖS,,none_admitted,-,annat,0,1,Lund
+UMU,TYCFT,UMU-01534,HT18,2018,urval1,BF,,none_admitted,-,folkhogskola,0,0,Umeå
+UMU,TYCFT,UMU-01534,HT18,2018,urval1,BI,17.03,value,17.03,betyg_22_5,50,20,Umeå
+UMU,TYCFT,UMU-01534,HT18,2018,urval1,BII,18.28,value,18.28,betyg_22_5,7,8,Umeå
+UMU,TYCFT,UMU-01534,HT18,2018,urval1,HP,1.05,value,1.05,hogskoleprov,28,18,Umeå
+UMU,TYCFT,UMU-01534,HT18,2018,urval1,SA,,none_admitted,-,annat,0,8,Umeå
+UMU,TYCFT,UMU-01534,HT18,2018,urval2,BF,,none_admitted,-,folkhogskola,0,0,Umeå
+UMU,TYCFT,UMU-01534,HT18,2018,urval2,BI,17.21,value,17.21,betyg_22_5,41,12,Umeå
+UMU,TYCFT,UMU-01534,HT18,2018,urval2,BII,18.28,value,18.28,betyg_22_5,7,3,Umeå
+UMU,TYCFT,UMU-01534,HT18,2018,urval2,HP,1.0,value,1.00,hogskoleprov,22,7,Umeå
+UMU,TYCFT,UMU-01534,HT18,2018,urval2,SA,,none_admitted,-,annat,0,4,Umeå
+UU,TTF2Y,UU-P1507,HT18,2018,urval1,BF,,none_admitted,-,folkhogskola,0,1,Uppsala
+UU,TTF2Y,UU-P1507,HT18,2018,urval1,BI,19.45,value,19.45,betyg_22_5,86,119,Uppsala
+UU,TTF2Y,UU-P1507,HT18,2018,urval1,BII,18.15,value,18.15,betyg_22_5,8,22,Uppsala
+UU,TTF2Y,UU-P1507,HT18,2018,urval1,DA,,all_admitted,*,annat,4,0,Uppsala
+UU,TTF2Y,UU-P1507,HT18,2018,urval1,HP,1.35,value,1.35,hogskoleprov,46,118,Uppsala
+UU,TTF2Y,UU-P1507,HT18,2018,urval2,BF,,none_admitted,-,folkhogskola,0,0,Uppsala
+UU,TTF2Y,UU-P1507,HT18,2018,urval2,BI,19.27,value,19.27,betyg_22_5,68,54,Uppsala
+UU,TTF2Y,UU-P1507,HT18,2018,urval2,BII,18.15,value,18.15,betyg_22_5,8,13,Uppsala
+UU,TTF2Y,UU-P1507,HT18,2018,urval2,DA,,all_admitted,*,annat,3,0,Uppsala
+UU,TTF2Y,UU-P1507,HT18,2018,urval2,HP,1.35,value,1.35,hogskoleprov,38,56,Uppsala
+CTH,TKTFY,CTH-57000,HT19,2019,urval1,APFM,,all_admitted,*,annat,47,0,Chalmers
+CTH,TKTFY,CTH-57000,HT19,2019,urval1,BF,4.0,value,4.00,folkhogskola,1,5,Chalmers
+CTH,TKTFY,CTH-57000,HT19,2019,urval1,BI,21.46,value,21.46,betyg_22_5,69,204,Chalmers
+CTH,TKTFY,CTH-57000,HT19,2019,urval1,BII,20.0,value,20.00,betyg_22_5,10,39,Chalmers
+CTH,TKTFY,CTH-57000,HT19,2019,urval1,DA,,all_admitted,*,annat,2,0,Chalmers
+CTH,TKTFY,CTH-57000,HT19,2019,urval1,HPK75,1.8,value,1.80,annat,27,192,Chalmers
+CTH,TKTFY,CTH-57000,HT19,2019,urval1,ZBGAR,,all_admitted,*,annat,14,0,Chalmers
+CTH,TKTFY,CTH-57000,HT19,2019,urval2,APFM,,all_admitted,*,annat,46,0,Chalmers
+CTH,TKTFY,CTH-57000,HT19,2019,urval2,BF,4.0,value,4.00,folkhogskola,1,4,Chalmers
+CTH,TKTFY,CTH-57000,HT19,2019,urval2,BI,21.35,value,21.35,betyg_22_5,46,87,Chalmers
+CTH,TKTFY,CTH-57000,HT19,2019,urval2,BII,20.0,value,20.00,betyg_22_5,7,23,Chalmers
+CTH,TKTFY,CTH-57000,HT19,2019,urval2,DA,,all_admitted,*,annat,2,0,Chalmers
+CTH,TKTFY,CTH-57000,HT19,2019,urval2,HPK75,1.8,value,1.80,annat,24,89,Chalmers
+CTH,TKTFY,CTH-57000,HT19,2019,urval2,ZBGAR,,all_admitted,*,annat,14,0,Chalmers
+KAU,TACTF,KAU-69971,HT19,2019,urval1,BI,,all_admitted,*,betyg_22_5,18,0,Karlstad
+KAU,TACTF,KAU-69971,HT19,2019,urval1,BII,,all_admitted,*,betyg_22_5,4,0,Karlstad
+KAU,TACTF,KAU-69971,HT19,2019,urval1,DA,,all_admitted,*,annat,3,0,Karlstad
+KAU,TACTF,KAU-69971,HT19,2019,urval1,HPK75,,all_admitted,*,annat,11,0,Karlstad
+KAU,TACTF,KAU-69971,HT19,2019,urval1,SA,,all_admitted,*,annat,3,0,Karlstad
+KAU,TACTF,KAU-69971,HT19,2019,urval2,BI,,all_admitted,*,betyg_22_5,16,0,Karlstad
+KAU,TACTF,KAU-69971,HT19,2019,urval2,BII,,all_admitted,*,betyg_22_5,4,0,Karlstad
+KAU,TACTF,KAU-69971,HT19,2019,urval2,DA,,all_admitted,*,annat,3,0,Karlstad
+KAU,TACTF,KAU-69971,HT19,2019,urval2,HPK75,,all_admitted,*,annat,9,0,Karlstad
+KAU,TACTF,KAU-69971,HT19,2019,urval2,SA,,all_admitted,*,annat,2,0,Karlstad
+KTH,CTFYS,KTH-32114,HT19,2019,urval1,BF,,none_admitted,-,folkhogskola,0,3,KTH
+KTH,CTFYS,KTH-32114,HT19,2019,urval1,BI,22.19,value,22.19,betyg_22_5,41,376,KTH
+KTH,CTFYS,KTH-32114,HT19,2019,urval1,BII,22.27,value,22.27,betyg_22_5,6,88,KTH
+KTH,CTFYS,KTH-32114,HT19,2019,urval1,DA,,all_admitted,*,annat,3,0,KTH
+KTH,CTFYS,KTH-32114,HT19,2019,urval1,HP,1.75,value,1.75,hogskoleprov,46,381,KTH
+KTH,CTFYS,KTH-32114,HT19,2019,urval1,MAFY,43.0,value,43,mafy,46,58,KTH
+KTH,CTFYS,KTH-32114,HT19,2019,urval1,ÖS,,none_admitted,-,annat,0,1,KTH
+KTH,CTFYS,KTH-32114,HT19,2019,urval1,T10,210.0,value,210,kth_lokal,14,19,KTH
+KTH,CTFYS,KTH-32114,HT19,2019,urval1,T20,80.0,value,80,kth_lokal,4,6,KTH
+KTH,CTFYS,KTH-32114,HT19,2019,urval2,BF,,none_admitted,-,folkhogskola,0,1,KTH
+KTH,CTFYS,KTH-32114,HT19,2019,urval2,BI,22.19,value,22.19,betyg_22_5,30,166,KTH
+KTH,CTFYS,KTH-32114,HT19,2019,urval2,BII,22.27,value,22.27,betyg_22_5,5,54,KTH
+KTH,CTFYS,KTH-32114,HT19,2019,urval2,DA,,all_admitted,*,annat,2,0,KTH
+KTH,CTFYS,KTH-32114,HT19,2019,urval2,HP,1.75,value,1.75,hogskoleprov,39,188,KTH
+KTH,CTFYS,KTH-32114,HT19,2019,urval2,MAFY,43.0,value,43,mafy,45,42,KTH
+KTH,CTFYS,KTH-32114,HT19,2019,urval2,ÖS,,none_admitted,-,annat,0,1,KTH
+KTH,CTFYS,KTH-32114,HT19,2019,urval2,T10,210.0,value,210,kth_lokal,14,15,KTH
+KTH,CTFYS,KTH-32114,HT19,2019,urval2,T20,80.0,value,80,kth_lokal,4,5,KTH
+LIU,6CYYY,LIU-50116,HT19,2019,urval1,BF,4.0,value,4.0,folkhogskola,1,1,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT19,2019,urval1,BI,18.65,value,18.65,betyg_22_5,72,67,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT19,2019,urval1,BII,17.55,value,17.55,betyg_22_5,10,17,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT19,2019,urval1,DA,,all_admitted,*,annat,11,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT19,2019,urval1,HP,1.25,value,1.25,hogskoleprov,41,70,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT19,2019,urval2,BF,4.0,value,4.0,folkhogskola,1,1,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT19,2019,urval2,BI,18.65,value,18.65,betyg_22_5,54,37,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT19,2019,urval2,BII,17.55,value,17.55,betyg_22_5,8,13,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT19,2019,urval2,DA,,all_admitted,*,annat,10,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT19,2019,urval2,HP,1.25,value,1.25,hogskoleprov,39,41,Linköping (F och EE)
+LTU,TCTEA,LTU-87005,HT19,2019,urval1,BF,,none_admitted,-,folkhogskola,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87005,HT19,2019,urval1,BI,,all_admitted,*,betyg_22_5,24,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87005,HT19,2019,urval1,BII,,all_admitted,*,betyg_22_5,5,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87005,HT19,2019,urval1,DA,,all_admitted,*,annat,2,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87005,HT19,2019,urval1,HPK75,,all_admitted,*,annat,11,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87005,HT19,2019,urval1,SA,,all_admitted,*,annat,4,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87005,HT19,2019,urval2,BF,,none_admitted,-,folkhogskola,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87005,HT19,2019,urval2,BI,,all_admitted,*,betyg_22_5,9,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87005,HT19,2019,urval2,BII,,all_admitted,*,betyg_22_5,3,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87005,HT19,2019,urval2,DA,,all_admitted,*,annat,2,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87005,HT19,2019,urval2,HPK75,,all_admitted,*,annat,6,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87005,HT19,2019,urval2,SA,,all_admitted,*,annat,3,0,Luleå (F och EE)
+LU,TATFY,LU-80100,HT19,2019,urval1,BF,,none_admitted,-,folkhogskola,0,2,Lund
+LU,TATFY,LU-80100,HT19,2019,urval1,BI,21.72,value,21.72,betyg_22_5,75,172,Lund
+LU,TATFY,LU-80100,HT19,2019,urval1,BII,21.25,value,21.25,betyg_22_5,7,40,Lund
+LU,TATFY,LU-80100,HT19,2019,urval1,DA,,all_admitted,*,annat,1,0,Lund
+LU,TATFY,LU-80100,HT19,2019,urval1,HPK75,1.75,value,1.75,annat,42,173,Lund
+LU,TATFY,LU-80100,HT19,2019,urval2,BF,,none_admitted,-,folkhogskola,0,0,Lund
+LU,TATFY,LU-80100,HT19,2019,urval2,BI,21.72,value,21.72,betyg_22_5,61,90,Lund
+LU,TATFY,LU-80100,HT19,2019,urval2,BII,21.25,value,21.25,betyg_22_5,6,25,Lund
+LU,TATFY,LU-80100,HT19,2019,urval2,DA,,all_admitted,*,annat,1,0,Lund
+LU,TATFY,LU-80100,HT19,2019,urval2,HPK75,1.75,value,1.75,annat,34,94,Lund
+MIU,TFYSA,MIU-J2261,HT19,2019,urval1,BI,,all_admitted,*,betyg_22_5,5,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2261,HT19,2019,urval1,BII,,none_admitted,-,betyg_22_5,0,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2261,HT19,2019,urval1,HP,,all_admitted,*,hogskoleprov,7,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2261,HT19,2019,urval1,SA,,all_admitted,*,annat,2,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2261,HT19,2019,urval2,BI,,all_admitted,*,betyg_22_5,2,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2261,HT19,2019,urval2,BII,,none_admitted,-,betyg_22_5,0,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2261,HT19,2019,urval2,HP,,all_admitted,*,hogskoleprov,6,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2261,HT19,2019,urval2,SA,,all_admitted,*,annat,3,0,Mittuniversitetet
+UMU,TYCFT,UMU-P1534,HT19,2019,urval1,BF,,none_admitted,-,folkhogskola,0,0,Umeå
+UMU,TYCFT,UMU-P1534,HT19,2019,urval1,BI,14.71,value,14.71,betyg_22_5,52,2,Umeå
+UMU,TYCFT,UMU-P1534,HT19,2019,urval1,BII,16.08,value,16.08,betyg_22_5,8,3,Umeå
+UMU,TYCFT,UMU-P1534,HT19,2019,urval1,HPK75,0.85,value,0.85,annat,30,3,Umeå
+UMU,TYCFT,UMU-P1534,HT19,2019,urval1,SA,,none_admitted,-,annat,0,3,Umeå
+UMU,TYCFT,UMU-P1534,HT19,2019,urval2,BF,,none_admitted,-,folkhogskola,0,0,Umeå
+UMU,TYCFT,UMU-P1534,HT19,2019,urval2,BI,,all_admitted,*,betyg_22_5,29,0,Umeå
+UMU,TYCFT,UMU-P1534,HT19,2019,urval2,BII,,all_admitted,*,betyg_22_5,10,0,Umeå
+UMU,TYCFT,UMU-P1534,HT19,2019,urval2,HPK75,,all_admitted,*,annat,24,0,Umeå
+UMU,TYCFT,UMU-P1534,HT19,2019,urval2,SA,,all_admitted,*,annat,2,0,Umeå
+UU,TTF2Y,UU-P1507,HT19,2019,urval1,BF,,none_admitted,-,folkhogskola,0,0,Uppsala
+UU,TTF2Y,UU-P1507,HT19,2019,urval1,BI,19.79,value,19.79,betyg_22_5,89,118,Uppsala
+UU,TTF2Y,UU-P1507,HT19,2019,urval1,BII,18.6,value,18.60,betyg_22_5,8,23,Uppsala
+UU,TTF2Y,UU-P1507,HT19,2019,urval1,DA,,all_admitted,*,annat,4,0,Uppsala
+UU,TTF2Y,UU-P1507,HT19,2019,urval1,HPK75,1.55,value,1.55,annat,48,117,Uppsala
+UU,TTF2Y,UU-P1507,HT19,2019,urval1,ÖS,,none_admitted,-,annat,0,1,Uppsala
+UU,TTF2Y,UU-P1507,HT19,2019,urval2,BF,,none_admitted,-,folkhogskola,0,0,Uppsala
+UU,TTF2Y,UU-P1507,HT19,2019,urval2,BI,19.79,value,19.79,betyg_22_5,64,61,Uppsala
+UU,TTF2Y,UU-P1507,HT19,2019,urval2,BII,18.6,value,18.60,betyg_22_5,7,14,Uppsala
+UU,TTF2Y,UU-P1507,HT19,2019,urval2,DA,,all_admitted,*,annat,4,0,Uppsala
+UU,TTF2Y,UU-P1507,HT19,2019,urval2,HPK75,1.55,value,1.55,annat,44,63,Uppsala
+UU,TTF2Y,UU-P1507,HT19,2019,urval2,ÖS,,none_admitted,-,annat,0,1,Uppsala
+CTH,TKTFY,CTH-57000,HT20,2020,urval1,BF,4.0,value,4.00,folkhogskola,1,4,Chalmers
+CTH,TKTFY,CTH-57000,HT20,2020,urval1,BI,21.5,value,21.50,betyg_22_5,99,266,Chalmers
+CTH,TKTFY,CTH-57000,HT20,2020,urval1,BII,20.63,value,20.63,betyg_22_5,10,39,Chalmers
+CTH,TKTFY,CTH-57000,HT20,2020,urval1,DA,,all_admitted,*,annat,2,0,Chalmers
+CTH,TKTFY,CTH-57000,HT20,2020,urval1,HPK75,1.7,value,1.70,annat,36,216,Chalmers
+CTH,TKTFY,CTH-57000,HT20,2020,urval1,ZBGAR,,all_admitted,*,annat,18,0,Chalmers
+CTH,TKTFY,CTH-57000,HT20,2020,urval2,BF,4.0,value,4.00,folkhogskola,1,4,Chalmers
+CTH,TKTFY,CTH-57000,HT20,2020,urval2,BI,21.54,value,21.54,betyg_22_5,79,115,Chalmers
+CTH,TKTFY,CTH-57000,HT20,2020,urval2,BII,20.63,value,20.63,betyg_22_5,9,28,Chalmers
+CTH,TKTFY,CTH-57000,HT20,2020,urval2,DA,,all_admitted,*,annat,2,0,Chalmers
+CTH,TKTFY,CTH-57000,HT20,2020,urval2,HPK75,1.7,value,1.70,annat,34,106,Chalmers
+CTH,TKTFY,CTH-57000,HT20,2020,urval2,ZBGAR,,all_admitted,*,annat,17,0,Chalmers
+KAU,TACTF,KAU-70145,HT20,2020,urval1,BF,,none_admitted,-,folkhogskola,0,0,Karlstad
+KAU,TACTF,KAU-70145,HT20,2020,urval1,BI,,all_admitted,*,betyg_22_5,18,0,Karlstad
+KAU,TACTF,KAU-70145,HT20,2020,urval1,BII,,all_admitted,*,betyg_22_5,3,0,Karlstad
+KAU,TACTF,KAU-70145,HT20,2020,urval1,DA,,all_admitted,*,annat,3,0,Karlstad
+KAU,TACTF,KAU-70145,HT20,2020,urval1,HP,,all_admitted,*,hogskoleprov,16,0,Karlstad
+KAU,TACTF,KAU-70145,HT20,2020,urval1,SA,,all_admitted,*,annat,8,0,Karlstad
+KAU,TACTF,KAU-70145,HT20,2020,urval2,BF,,none_admitted,-,folkhogskola,0,0,Karlstad
+KAU,TACTF,KAU-70145,HT20,2020,urval2,BI,,all_admitted,*,betyg_22_5,11,0,Karlstad
+KAU,TACTF,KAU-70145,HT20,2020,urval2,BII,,all_admitted,*,betyg_22_5,2,0,Karlstad
+KAU,TACTF,KAU-70145,HT20,2020,urval2,DA,,all_admitted,*,annat,2,0,Karlstad
+KAU,TACTF,KAU-70145,HT20,2020,urval2,HP,,all_admitted,*,hogskoleprov,9,0,Karlstad
+KAU,TACTF,KAU-70145,HT20,2020,urval2,SA,,all_admitted,*,annat,2,0,Karlstad
+KTH,CTFYS,KTH-32114,HT20,2020,urval1,BF,4.0,value,4.00,folkhogskola,1,3,KTH
+KTH,CTFYS,KTH-32114,HT20,2020,urval1,BI,22.0,value,22.00,betyg_22_5,89,450,KTH
+KTH,CTFYS,KTH-32114,HT20,2020,urval1,BII,21.11,value,21.11,betyg_22_5,10,79,KTH
+KTH,CTFYS,KTH-32114,HT20,2020,urval1,DA,,all_admitted,*,annat,7,0,KTH
+KTH,CTFYS,KTH-32114,HT20,2020,urval1,HP,1.65,value,1.65,hogskoleprov,49,368,KTH
+KTH,CTFYS,KTH-32114,HT20,2020,urval1,ÖS,,none_admitted,-,annat,0,0,KTH
+KTH,CTFYS,KTH-32114,HT20,2020,urval1,T10,200.0,value,200,kth_lokal,11,14,KTH
+KTH,CTFYS,KTH-32114,HT20,2020,urval1,T20,85.0,value,85,kth_lokal,3,6,KTH
+KTH,CTFYS,KTH-32114,HT20,2020,urval2,BF,4.0,value,4.00,folkhogskola,1,2,KTH
+KTH,CTFYS,KTH-32114,HT20,2020,urval2,BI,22.0,value,22.00,betyg_22_5,72,231,KTH
+KTH,CTFYS,KTH-32114,HT20,2020,urval2,BII,21.11,value,21.11,betyg_22_5,8,56,KTH
+KTH,CTFYS,KTH-32114,HT20,2020,urval2,DA,,all_admitted,*,annat,7,0,KTH
+KTH,CTFYS,KTH-32114,HT20,2020,urval2,HP,1.65,value,1.65,hogskoleprov,38,199,KTH
+KTH,CTFYS,KTH-32114,HT20,2020,urval2,ÖS,,none_admitted,-,annat,0,0,KTH
+KTH,CTFYS,KTH-32114,HT20,2020,urval2,T10,200.0,value,200,kth_lokal,11,12,KTH
+KTH,CTFYS,KTH-32114,HT20,2020,urval2,T20,85.0,value,85,kth_lokal,3,4,KTH
+LIU,6CYYY,LIU-50116,HT20,2020,urval1,BF,,none_admitted,-,folkhogskola,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT20,2020,urval1,BI,18.9,value,18.90,betyg_22_5,79,70,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT20,2020,urval1,BII,17.76,value,17.76,betyg_22_5,7,16,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT20,2020,urval1,DA,,all_admitted,*,annat,5,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT20,2020,urval1,HP,1.2,value,1.20,hogskoleprov,43,57,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT20,2020,urval2,BF,,none_admitted,-,folkhogskola,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT20,2020,urval2,BI,18.91,value,18.91,betyg_22_5,60,41,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT20,2020,urval2,BII,17.8,value,17.80,betyg_22_5,4,14,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT20,2020,urval2,DA,,all_admitted,*,annat,5,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT20,2020,urval2,HP,1.25,value,1.25,hogskoleprov,36,33,Linköping (F och EE)
+LTU,TCTEA,LTU-87417,HT20,2020,urval1,BF,,none_admitted,-,folkhogskola,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87417,HT20,2020,urval1,BI,16.48,value,16.48,betyg_22_5,28,6,Luleå (F och EE)
+LTU,TCTEA,LTU-87417,HT20,2020,urval1,BII,13.6,value,13.60,betyg_22_5,3,3,Luleå (F och EE)
+LTU,TCTEA,LTU-87417,HT20,2020,urval1,DA,,all_admitted,*,annat,3,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87417,HT20,2020,urval1,HPK75,1.0,value,1.00,annat,16,4,Luleå (F och EE)
+LTU,TCTEA,LTU-87417,HT20,2020,urval1,SA,,none_admitted,-,annat,0,14,Luleå (F och EE)
+LTU,TCTEA,LTU-87417,HT20,2020,urval2,BF,,none_admitted,-,folkhogskola,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87417,HT20,2020,urval2,BI,,all_admitted,*,betyg_22_5,18,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87417,HT20,2020,urval2,BII,,all_admitted,*,betyg_22_5,4,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87417,HT20,2020,urval2,DA,,all_admitted,*,annat,3,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87417,HT20,2020,urval2,HPK75,,all_admitted,*,annat,13,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87417,HT20,2020,urval2,SA,908.0,value,908,annat,12,1,Luleå (F och EE)
+LU,TATFY,LU-80100,HT20,2020,urval1,BF,,all_admitted,*,folkhogskola,1,0,Lund
+LU,TATFY,LU-80100,HT20,2020,urval1,BI,21.88,value,21.88,betyg_22_5,82,247,Lund
+LU,TATFY,LU-80100,HT20,2020,urval1,BII,21.46,value,21.46,betyg_22_5,5,34,Lund
+LU,TATFY,LU-80100,HT20,2020,urval1,HPK75,1.75,value,1.75,annat,45,205,Lund
+LU,TATFY,LU-80100,HT20,2020,urval2,BF,,all_admitted,*,folkhogskola,1,0,Lund
+LU,TATFY,LU-80100,HT20,2020,urval2,BI,21.92,value,21.92,betyg_22_5,65,121,Lund
+LU,TATFY,LU-80100,HT20,2020,urval2,BII,21.46,value,21.46,betyg_22_5,3,22,Lund
+LU,TATFY,LU-80100,HT20,2020,urval2,HPK75,1.75,value,1.75,annat,41,112,Lund
+MIU,TFYSA,MIU-J2371,HT20,2020,urval1,BI,,all_admitted,*,betyg_22_5,13,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2371,HT20,2020,urval1,BII,,all_admitted,*,betyg_22_5,3,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2371,HT20,2020,urval1,DA,,all_admitted,*,annat,2,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2371,HT20,2020,urval1,HP,,all_admitted,*,hogskoleprov,4,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2371,HT20,2020,urval1,ÖS,,none_admitted,-,annat,0,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2371,HT20,2020,urval1,SA,,none_admitted,-,annat,0,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2371,HT20,2020,urval2,BI,,all_admitted,*,betyg_22_5,9,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2371,HT20,2020,urval2,BII,,all_admitted,*,betyg_22_5,3,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2371,HT20,2020,urval2,DA,,all_admitted,*,annat,2,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2371,HT20,2020,urval2,HP,,all_admitted,*,hogskoleprov,3,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2371,HT20,2020,urval2,ÖS,,none_admitted,-,annat,0,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2371,HT20,2020,urval2,SA,,all_admitted,*,annat,1,0,Mittuniversitetet
+UMU,TYCFT,UMU-P1534,HT20,2020,urval1,B-BF,,none_admitted,-,annat,0,0,Umeå
+UMU,TYCFT,UMU-P1534,HT20,2020,urval1,B-BI,,none_admitted,-,annat,0,0,Umeå
+UMU,TYCFT,UMU-P1534,HT20,2020,urval1,B-BII,,all_admitted,*,annat,4,0,Umeå
+UMU,TYCFT,UMU-P1534,HT20,2020,urval1,BF,,all_admitted,*,folkhogskola,1,0,Umeå
+UMU,TYCFT,UMU-P1534,HT20,2020,urval1,BI,18.41,value,18.41,betyg_22_5,46,42,Umeå
+UMU,TYCFT,UMU-P1534,HT20,2020,urval1,BII,17.11,value,17.11,betyg_22_5,5,5,Umeå
+UMU,TYCFT,UMU-P1534,HT20,2020,urval1,BPK75,,all_admitted,*,annat,3,0,Umeå
+UMU,TYCFT,UMU-P1534,HT20,2020,urval1,HPK75,1.2,value,1.20,annat,26,23,Umeå
+UMU,TYCFT,UMU-P1534,HT20,2020,urval1,SA,,none_admitted,-,annat,0,5,Umeå
+UMU,TYCFT,UMU-P1534,HT20,2020,urval2,B-BF,,none_admitted,-,annat,0,0,Umeå
+UMU,TYCFT,UMU-P1534,HT20,2020,urval2,B-BI,,none_admitted,-,annat,0,0,Umeå
+UMU,TYCFT,UMU-P1534,HT20,2020,urval2,B-BII,,all_admitted,*,annat,4,0,Umeå
+UMU,TYCFT,UMU-P1534,HT20,2020,urval2,BF,,all_admitted,*,folkhogskola,1,0,Umeå
+UMU,TYCFT,UMU-P1534,HT20,2020,urval2,BI,17.9,value,17.90,betyg_22_5,39,15,Umeå
+UMU,TYCFT,UMU-P1534,HT20,2020,urval2,BII,,all_admitted,*,betyg_22_5,4,0,Umeå
+UMU,TYCFT,UMU-P1534,HT20,2020,urval2,BPK75,,all_admitted,*,annat,3,0,Umeå
+UMU,TYCFT,UMU-P1534,HT20,2020,urval2,HPK75,1.2,value,1.20,annat,24,8,Umeå
+UMU,TYCFT,UMU-P1534,HT20,2020,urval2,SA,,none_admitted,-,annat,0,2,Umeå
+UU,TTF2Y,UU-P1507,HT20,2020,urval1,BF,,none_admitted,-,folkhogskola,0,0,Uppsala
+UU,TTF2Y,UU-P1507,HT20,2020,urval1,BI,19.95,value,19.95,betyg_22_5,106,147,Uppsala
+UU,TTF2Y,UU-P1507,HT20,2020,urval1,BII,19.43,value,19.43,betyg_22_5,9,28,Uppsala
+UU,TTF2Y,UU-P1507,HT20,2020,urval1,HPK75,1.4,value,1.40,annat,56,113,Uppsala
+UU,TTF2Y,UU-P1507,HT20,2020,urval2,BF,,none_admitted,-,folkhogskola,0,0,Uppsala
+UU,TTF2Y,UU-P1507,HT20,2020,urval2,BI,19.95,value,19.95,betyg_22_5,84,77,Uppsala
+UU,TTF2Y,UU-P1507,HT20,2020,urval2,BII,19.43,value,19.43,betyg_22_5,8,14,Uppsala
+UU,TTF2Y,UU-P1507,HT20,2020,urval2,HPK75,1.35,value,1.35,annat,45,64,Uppsala
+CTH,TKTFY,CTH-57000,HT21,2021,urval1,APFM,,all_admitted,*,annat,31,0,Chalmers
+CTH,TKTFY,CTH-57000,HT21,2021,urval1,BF,4.0,value,4.00,folkhogskola,1,2,Chalmers
+CTH,TKTFY,CTH-57000,HT21,2021,urval1,BI,21.5,value,21.50,betyg_22_5,72,229,Chalmers
+CTH,TKTFY,CTH-57000,HT21,2021,urval1,BII,21.35,value,21.35,betyg_22_5,8,49,Chalmers
+CTH,TKTFY,CTH-57000,HT21,2021,urval1,DA,,all_admitted,*,annat,3,0,Chalmers
+CTH,TKTFY,CTH-57000,HT21,2021,urval1,HP,1.65,value,1.65,hogskoleprov,27,207,Chalmers
+CTH,TKTFY,CTH-57000,HT21,2021,urval1,ZBGAR,,all_admitted,*,annat,18,0,Chalmers
+CTH,TKTFY,CTH-57000,HT21,2021,urval2,APFM,,all_admitted,*,annat,30,0,Chalmers
+CTH,TKTFY,CTH-57000,HT21,2021,urval2,BF,4.0,value,4.00,folkhogskola,1,2,Chalmers
+CTH,TKTFY,CTH-57000,HT21,2021,urval2,BI,21.51,value,21.51,betyg_22_5,56,114,Chalmers
+CTH,TKTFY,CTH-57000,HT21,2021,urval2,BII,21.35,value,21.35,betyg_22_5,4,32,Chalmers
+CTH,TKTFY,CTH-57000,HT21,2021,urval2,DA,,all_admitted,*,annat,3,0,Chalmers
+CTH,TKTFY,CTH-57000,HT21,2021,urval2,HP,1.65,value,1.65,hogskoleprov,25,107,Chalmers
+CTH,TKTFY,CTH-57000,HT21,2021,urval2,ZBGAR,,all_admitted,*,annat,17,0,Chalmers
+KAU,TACTF,KAU-70304,HT21,2021,urval1,BF,,none_admitted,-,folkhogskola,0,0,Karlstad
+KAU,TACTF,KAU-70304,HT21,2021,urval1,BI,17.08,value,17.08,betyg_22_5,18,10,Karlstad
+KAU,TACTF,KAU-70304,HT21,2021,urval1,BII,17.88,value,17.88,betyg_22_5,3,5,Karlstad
+KAU,TACTF,KAU-70304,HT21,2021,urval1,DA,,all_admitted,*,annat,8,0,Karlstad
+KAU,TACTF,KAU-70304,HT21,2021,urval1,HP,0.95,value,0.95,hogskoleprov,11,5,Karlstad
+KAU,TACTF,KAU-70304,HT21,2021,urval1,SA,,none_admitted,-,annat,0,3,Karlstad
+KAU,TACTF,KAU-70304,HT21,2021,urval2,BF,,none_admitted,-,folkhogskola,0,0,Karlstad
+KAU,TACTF,KAU-70304,HT21,2021,urval2,BI,,all_admitted,*,betyg_22_5,13,0,Karlstad
+KAU,TACTF,KAU-70304,HT21,2021,urval2,BII,,all_admitted,*,betyg_22_5,4,0,Karlstad
+KAU,TACTF,KAU-70304,HT21,2021,urval2,DA,,all_admitted,*,annat,8,0,Karlstad
+KAU,TACTF,KAU-70304,HT21,2021,urval2,HP,,all_admitted,*,hogskoleprov,8,0,Karlstad
+KAU,TACTF,KAU-70304,HT21,2021,urval2,SA,,all_admitted,*,annat,4,0,Karlstad
+KTH,CTFYS,KTH-32114,HT21,2021,urval1,BF,,none_admitted,-,folkhogskola,0,5,KTH
+KTH,CTFYS,KTH-32114,HT21,2021,urval1,BI,22.29,value,22.29,betyg_22_5,44,413,KTH
+KTH,CTFYS,KTH-32114,HT21,2021,urval1,BII,21.4,value,21.40,betyg_22_5,6,93,KTH
+KTH,CTFYS,KTH-32114,HT21,2021,urval1,DA,,all_admitted,*,annat,7,0,KTH
+KTH,CTFYS,KTH-32114,HT21,2021,urval1,HP,1.7,value,1.70,hogskoleprov,49,378,KTH
+KTH,CTFYS,KTH-32114,HT21,2021,urval1,MAFY,33.0,value,33,mafy,49,8,KTH
+KTH,CTFYS,KTH-32114,HT21,2021,urval1,ÖS,,none_admitted,-,annat,0,2,KTH
+KTH,CTFYS,KTH-32114,HT21,2021,urval1,T10,200.0,value,200,kth_lokal,17,24,KTH
+KTH,CTFYS,KTH-32114,HT21,2021,urval1,T20,85.0,value,85,kth_lokal,3,6,KTH
+KTH,CTFYS,KTH-32114,HT21,2021,urval2,BF,,none_admitted,-,folkhogskola,0,4,KTH
+KTH,CTFYS,KTH-32114,HT21,2021,urval2,BI,22.29,value,22.29,betyg_22_5,33,201,KTH
+KTH,CTFYS,KTH-32114,HT21,2021,urval2,BII,21.4,value,21.40,betyg_22_5,6,55,KTH
+KTH,CTFYS,KTH-32114,HT21,2021,urval2,DA,,all_admitted,*,annat,7,0,KTH
+KTH,CTFYS,KTH-32114,HT21,2021,urval2,HP,1.7,value,1.70,hogskoleprov,39,185,KTH
+KTH,CTFYS,KTH-32114,HT21,2021,urval2,MAFY,33.0,value,33,mafy,46,6,KTH
+KTH,CTFYS,KTH-32114,HT21,2021,urval2,ÖS,,none_admitted,-,annat,0,2,KTH
+KTH,CTFYS,KTH-32114,HT21,2021,urval2,T10,200.0,value,200,kth_lokal,16,16,KTH
+KTH,CTFYS,KTH-32114,HT21,2021,urval2,T20,85.0,value,85,kth_lokal,3,3,KTH
+LIU,6CYYY,LIU-50116,HT21,2021,urval1,BF,4.0,value,4.0,folkhogskola,1,1,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT21,2021,urval1,BI,19.45,value,19.45,betyg_22_5,73,96,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT21,2021,urval1,BII,19.9,value,19.90,betyg_22_5,9,24,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT21,2021,urval1,DA,,all_admitted,*,annat,11,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT21,2021,urval1,HP,1.25,value,1.25,hogskoleprov,41,89,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT21,2021,urval2,BF,,all_admitted,*,folkhogskola,1,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT21,2021,urval2,BI,19.45,value,19.45,betyg_22_5,57,50,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT21,2021,urval2,BII,19.9,value,19.90,betyg_22_5,8,15,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT21,2021,urval2,DA,,all_admitted,*,annat,10,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT21,2021,urval2,HP,1.25,value,1.25,hogskoleprov,29,45,Linköping (F och EE)
+LTU,TCTEA,LTU-87434,HT21,2021,urval1,BF,,none_admitted,-,folkhogskola,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87434,HT21,2021,urval1,BI,14.92,value,14.92,betyg_22_5,34,5,Luleå (F och EE)
+LTU,TCTEA,LTU-87434,HT21,2021,urval1,BII,16.98,value,16.98,betyg_22_5,4,5,Luleå (F och EE)
+LTU,TCTEA,LTU-87434,HT21,2021,urval1,DA,,all_admitted,*,annat,4,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87434,HT21,2021,urval1,HP,0.85,value,0.85,hogskoleprov,18,7,Luleå (F och EE)
+LTU,TCTEA,LTU-87434,HT21,2021,urval1,SA,,none_admitted,-,annat,0,9,Luleå (F och EE)
+LTU,TCTEA,LTU-87434,HT21,2021,urval2,BF,,none_admitted,-,folkhogskola,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87434,HT21,2021,urval2,BI,,all_admitted,*,betyg_22_5,25,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87434,HT21,2021,urval2,BII,,all_admitted,*,betyg_22_5,6,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87434,HT21,2021,urval2,DA,,all_admitted,*,annat,5,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87434,HT21,2021,urval2,HP,,all_admitted,*,hogskoleprov,15,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87434,HT21,2021,urval2,SA,908.0,value,908,annat,4,2,Luleå (F och EE)
+LU,TATFY,LU-80100,HT21,2021,urval1,BF,4.0,value,4.00,folkhogskola,2,5,Lund
+LU,TATFY,LU-80100,HT21,2021,urval1,BI,21.98,value,21.98,betyg_22_5,75,258,Lund
+LU,TATFY,LU-80100,HT21,2021,urval1,BII,21.61,value,21.61,betyg_22_5,6,38,Lund
+LU,TATFY,LU-80100,HT21,2021,urval1,DA,,all_admitted,*,annat,4,0,Lund
+LU,TATFY,LU-80100,HT21,2021,urval1,HP,1.65,value,1.65,hogskoleprov,43,232,Lund
+LU,TATFY,LU-80100,HT21,2021,urval2,BF,4.0,value,4.00,folkhogskola,2,4,Lund
+LU,TATFY,LU-80100,HT21,2021,urval2,BI,21.98,value,21.98,betyg_22_5,62,128,Lund
+LU,TATFY,LU-80100,HT21,2021,urval2,BII,21.46,value,21.46,betyg_22_5,4,18,Lund
+LU,TATFY,LU-80100,HT21,2021,urval2,DA,,all_admitted,*,annat,3,0,Lund
+LU,TATFY,LU-80100,HT21,2021,urval2,HP,1.65,value,1.65,hogskoleprov,37,113,Lund
+MIU,TFYSA,MIU-J2651,HT21,2021,urval1,BI,,all_admitted,*,betyg_22_5,11,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2651,HT21,2021,urval1,BII,,none_admitted,-,betyg_22_5,0,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2651,HT21,2021,urval1,DA,,all_admitted,*,annat,1,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2651,HT21,2021,urval1,HP,,all_admitted,*,hogskoleprov,1,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2651,HT21,2021,urval1,SA,,all_admitted,*,annat,4,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2651,HT21,2021,urval2,BI,,all_admitted,*,betyg_22_5,5,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2651,HT21,2021,urval2,BII,,none_admitted,-,betyg_22_5,0,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2651,HT21,2021,urval2,DA,,all_admitted,*,annat,1,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2651,HT21,2021,urval2,HP,,none_admitted,-,hogskoleprov,0,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2651,HT21,2021,urval2,SA,,all_admitted,*,annat,3,0,Mittuniversitetet
+UMU,TYCFT,UMU-P1534,HT21,2021,urval1,B-BF,,all_admitted,*,annat,1,0,Umeå
+UMU,TYCFT,UMU-P1534,HT21,2021,urval1,B-BI,,all_admitted,*,annat,1,0,Umeå
+UMU,TYCFT,UMU-P1534,HT21,2021,urval1,B-BII,,all_admitted,*,annat,5,0,Umeå
+UMU,TYCFT,UMU-P1534,HT21,2021,urval1,BF,,all_admitted,*,folkhogskola,1,0,Umeå
+UMU,TYCFT,UMU-P1534,HT21,2021,urval1,B-HP,,all_admitted,*,annat,2,0,Umeå
+UMU,TYCFT,UMU-P1534,HT21,2021,urval1,BI,18.25,value,18.25,betyg_22_5,42,47,Umeå
+UMU,TYCFT,UMU-P1534,HT21,2021,urval1,BII,16.66,value,16.66,betyg_22_5,7,8,Umeå
+UMU,TYCFT,UMU-P1534,HT21,2021,urval1,DA,,all_admitted,*,annat,1,0,Umeå
+UMU,TYCFT,UMU-P1534,HT21,2021,urval1,HP,1.15,value,1.15,hogskoleprov,25,34,Umeå
+UMU,TYCFT,UMU-P1534,HT21,2021,urval1,SA,,none_admitted,-,annat,0,14,Umeå
+UMU,TYCFT,UMU-P1534,HT21,2021,urval2,B-BF,,all_admitted,*,annat,1,0,Umeå
+UMU,TYCFT,UMU-P1534,HT21,2021,urval2,B-BI,,all_admitted,*,annat,1,0,Umeå
+UMU,TYCFT,UMU-P1534,HT21,2021,urval2,B-BII,,all_admitted,*,annat,5,0,Umeå
+UMU,TYCFT,UMU-P1534,HT21,2021,urval2,BF,,all_admitted,*,folkhogskola,1,0,Umeå
+UMU,TYCFT,UMU-P1534,HT21,2021,urval2,B-HP,,all_admitted,*,annat,1,0,Umeå
+UMU,TYCFT,UMU-P1534,HT21,2021,urval2,BI,16.95,value,16.95,betyg_22_5,38,15,Umeå
+UMU,TYCFT,UMU-P1534,HT21,2021,urval2,BII,16.66,value,16.66,betyg_22_5,5,6,Umeå
+UMU,TYCFT,UMU-P1534,HT21,2021,urval2,DA,,all_admitted,*,annat,1,0,Umeå
+UMU,TYCFT,UMU-P1534,HT21,2021,urval2,HP,1.05,value,1.05,hogskoleprov,22,13,Umeå
+UMU,TYCFT,UMU-P1534,HT21,2021,urval2,SA,,none_admitted,-,annat,0,8,Umeå
+UU,TTF2Y,UU-P1507,HT21,2021,urval1,BF,4.0,value,4.0,folkhogskola,1,3,Uppsala
+UU,TTF2Y,UU-P1507,HT21,2021,urval1,BI,19.85,value,19.85,betyg_22_5,109,134,Uppsala
+UU,TTF2Y,UU-P1507,HT21,2021,urval1,BII,19.37,value,19.37,betyg_22_5,11,26,Uppsala
+UU,TTF2Y,UU-P1507,HT21,2021,urval1,DA,,all_admitted,*,annat,7,0,Uppsala
+UU,TTF2Y,UU-P1507,HT21,2021,urval1,HP,1.35,value,1.35,hogskoleprov,60,119,Uppsala
+UU,TTF2Y,UU-P1507,HT21,2021,urval2,BF,4.0,value,4.0,folkhogskola,1,1,Uppsala
+UU,TTF2Y,UU-P1507,HT21,2021,urval2,BI,19.29,value,19.29,betyg_22_5,85,69,Uppsala
+UU,TTF2Y,UU-P1507,HT21,2021,urval2,BII,19.37,value,19.37,betyg_22_5,9,16,Uppsala
+UU,TTF2Y,UU-P1507,HT21,2021,urval2,DA,,all_admitted,*,annat,7,0,Uppsala
+UU,TTF2Y,UU-P1507,HT21,2021,urval2,HP,1.35,value,1.35,hogskoleprov,47,64,Uppsala
+CTH,TKTFY,CTH-57000,HT22,2022,urval1,APFM,,all_admitted,*,annat,43,0,Chalmers
+CTH,TKTFY,CTH-57000,HT22,2022,urval1,BF,4.0,value,4.00,folkhogskola,1,2,Chalmers
+CTH,TKTFY,CTH-57000,HT22,2022,urval1,BI,21.77,value,21.77,betyg_22_5,59,270,Chalmers
+CTH,TKTFY,CTH-57000,HT22,2022,urval1,BII,20.75,value,20.75,betyg_22_5,6,43,Chalmers
+CTH,TKTFY,CTH-57000,HT22,2022,urval1,DA,,all_admitted,*,annat,5,0,Chalmers
+CTH,TKTFY,CTH-57000,HT22,2022,urval1,HP,1.65,value,1.65,hogskoleprov,22,227,Chalmers
+CTH,TKTFY,CTH-57000,HT22,2022,urval1,ZBGAR,,all_admitted,*,annat,11,0,Chalmers
+CTH,TKTFY,CTH-57000,HT22,2022,urval2,APFM,,all_admitted,*,annat,40,0,Chalmers
+CTH,TKTFY,CTH-57000,HT22,2022,urval2,BF,4.0,value,4.00,folkhogskola,1,2,Chalmers
+CTH,TKTFY,CTH-57000,HT22,2022,urval2,BI,21.72,value,21.72,betyg_22_5,54,116,Chalmers
+CTH,TKTFY,CTH-57000,HT22,2022,urval2,BII,20.75,value,20.75,betyg_22_5,4,24,Chalmers
+CTH,TKTFY,CTH-57000,HT22,2022,urval2,DA,,all_admitted,*,annat,5,0,Chalmers
+CTH,TKTFY,CTH-57000,HT22,2022,urval2,HP,1.65,value,1.65,hogskoleprov,18,92,Chalmers
+CTH,TKTFY,CTH-57000,HT22,2022,urval2,ZBGAR,,all_admitted,*,annat,10,0,Chalmers
+KAU,TACTF,KAU-79869,HT22,2022,urval1,BF,,none_admitted,-,folkhogskola,0,0,Karlstad
+KAU,TACTF,KAU-79869,HT22,2022,urval1,BI,,all_admitted,*,betyg_22_5,21,0,Karlstad
+KAU,TACTF,KAU-79869,HT22,2022,urval1,BII,,all_admitted,*,betyg_22_5,2,0,Karlstad
+KAU,TACTF,KAU-79869,HT22,2022,urval1,DA,,all_admitted,*,annat,4,0,Karlstad
+KAU,TACTF,KAU-79869,HT22,2022,urval1,HP,,all_admitted,*,hogskoleprov,9,0,Karlstad
+KAU,TACTF,KAU-79869,HT22,2022,urval1,SA,958.0,value,958,annat,4,2,Karlstad
+KAU,TACTF,KAU-79869,HT22,2022,urval2,BF,,none_admitted,-,folkhogskola,0,0,Karlstad
+KAU,TACTF,KAU-79869,HT22,2022,urval2,BI,,all_admitted,*,betyg_22_5,11,0,Karlstad
+KAU,TACTF,KAU-79869,HT22,2022,urval2,BII,,all_admitted,*,betyg_22_5,2,0,Karlstad
+KAU,TACTF,KAU-79869,HT22,2022,urval2,DA,,all_admitted,*,annat,4,0,Karlstad
+KAU,TACTF,KAU-79869,HT22,2022,urval2,HP,,all_admitted,*,hogskoleprov,6,0,Karlstad
+KAU,TACTF,KAU-79869,HT22,2022,urval2,SA,,all_admitted,*,annat,6,0,Karlstad
+KTH,CTFYS,KTH-32114,HT22,2022,urval1,BF,,none_admitted,-,folkhogskola,0,2,KTH
+KTH,CTFYS,KTH-32114,HT22,2022,urval1,BI,22.3,value,22.30,betyg_22_5,38,442,KTH
+KTH,CTFYS,KTH-32114,HT22,2022,urval1,BII,21.71,value,21.71,betyg_22_5,5,105,KTH
+KTH,CTFYS,KTH-32114,HT22,2022,urval1,DA,,all_admitted,*,annat,5,0,KTH
+KTH,CTFYS,KTH-32114,HT22,2022,urval1,HP,1.7,value,1.70,hogskoleprov,41,385,KTH
+KTH,CTFYS,KTH-32114,HT22,2022,urval1,MAFY,35.0,value,35,mafy,41,46,KTH
+KTH,CTFYS,KTH-32114,HT22,2022,urval1,ÖS,,none_admitted,-,annat,0,1,KTH
+KTH,CTFYS,KTH-32114,HT22,2022,urval1,T10,210.0,value,210,kth_lokal,17,15,KTH
+KTH,CTFYS,KTH-32114,HT22,2022,urval1,T20,90.0,value,90,kth_lokal,3,9,KTH
+KTH,CTFYS,KTH-32114,HT22,2022,urval2,BF,,none_admitted,-,folkhogskola,0,1,KTH
+KTH,CTFYS,KTH-32114,HT22,2022,urval2,BI,22.19,value,22.19,betyg_22_5,38,205,KTH
+KTH,CTFYS,KTH-32114,HT22,2022,urval2,BII,21.37,value,21.37,betyg_22_5,5,52,KTH
+KTH,CTFYS,KTH-32114,HT22,2022,urval2,DA,,all_admitted,*,annat,5,0,KTH
+KTH,CTFYS,KTH-32114,HT22,2022,urval2,HP,1.65,value,1.65,hogskoleprov,41,182,KTH
+KTH,CTFYS,KTH-32114,HT22,2022,urval2,MAFY,35.0,value,35,mafy,41,32,KTH
+KTH,CTFYS,KTH-32114,HT22,2022,urval2,ÖS,,none_admitted,-,annat,0,1,KTH
+KTH,CTFYS,KTH-32114,HT22,2022,urval2,T10,200.0,value,200,kth_lokal,17,9,KTH
+KTH,CTFYS,KTH-32114,HT22,2022,urval2,T20,90.0,value,90,kth_lokal,3,7,KTH
+LIU,6CYYY,LIU-50116,HT22,2022,urval1,BF,,none_admitted,-,folkhogskola,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT22,2022,urval1,BI,18.35,value,18.35,betyg_22_5,70,61,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT22,2022,urval1,BII,19.11,value,19.11,betyg_22_5,8,19,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT22,2022,urval1,DA,,all_admitted,*,annat,9,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT22,2022,urval1,HP,1.25,value,1.25,hogskoleprov,38,66,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT22,2022,urval2,BF,,none_admitted,-,folkhogskola,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT22,2022,urval2,BI,18.35,value,18.35,betyg_22_5,54,36,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT22,2022,urval2,BII,19.11,value,19.11,betyg_22_5,7,14,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT22,2022,urval2,DA,,all_admitted,*,annat,9,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT22,2022,urval2,HP,1.25,value,1.25,hogskoleprov,32,40,Linköping (F och EE)
+LTU,TCTEA,LTU-87006,HT22,2022,urval1,BF,,all_admitted,*,folkhogskola,1,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87006,HT22,2022,urval1,BI,,all_admitted,*,betyg_22_5,19,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87006,HT22,2022,urval1,BII,,all_admitted,*,betyg_22_5,5,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87006,HT22,2022,urval1,DA,,all_admitted,*,annat,4,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87006,HT22,2022,urval1,HP,,all_admitted,*,hogskoleprov,12,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87006,HT22,2022,urval1,SA,,all_admitted,*,annat,9,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87006,HT22,2022,urval2,BF,,all_admitted,*,folkhogskola,1,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87006,HT22,2022,urval2,BI,,all_admitted,*,betyg_22_5,14,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87006,HT22,2022,urval2,BII,,all_admitted,*,betyg_22_5,3,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87006,HT22,2022,urval2,DA,,all_admitted,*,annat,4,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87006,HT22,2022,urval2,HP,,all_admitted,*,hogskoleprov,8,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87006,HT22,2022,urval2,SA,,all_admitted,*,annat,12,0,Luleå (F och EE)
+LU,TATFY,LU-80100,HT22,2022,urval1,BF,,none_admitted,-,folkhogskola,0,2,Lund
+LU,TATFY,LU-80100,HT22,2022,urval1,BI,21.88,value,21.88,betyg_22_5,76,269,Lund
+LU,TATFY,LU-80100,HT22,2022,urval1,BII,21.67,value,21.67,betyg_22_5,6,41,Lund
+LU,TATFY,LU-80100,HT22,2022,urval1,DA,,all_admitted,*,annat,6,0,Lund
+LU,TATFY,LU-80100,HT22,2022,urval1,HP,1.65,value,1.65,hogskoleprov,42,236,Lund
+LU,TATFY,LU-80100,HT22,2022,urval2,BF,,none_admitted,-,folkhogskola,0,2,Lund
+LU,TATFY,LU-80100,HT22,2022,urval2,BI,21.88,value,21.88,betyg_22_5,62,115,Lund
+LU,TATFY,LU-80100,HT22,2022,urval2,BII,21.67,value,21.67,betyg_22_5,5,17,Lund
+LU,TATFY,LU-80100,HT22,2022,urval2,DA,,all_admitted,*,annat,6,0,Lund
+LU,TATFY,LU-80100,HT22,2022,urval2,HP,1.65,value,1.65,hogskoleprov,35,102,Lund
+MIU,TFYSA,MIU-J2051,HT22,2022,urval1,BF,,all_admitted,*,folkhogskola,1,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2051,HT22,2022,urval1,BI,,all_admitted,*,betyg_22_5,5,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2051,HT22,2022,urval1,BII,,none_admitted,-,betyg_22_5,0,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2051,HT22,2022,urval1,HP,,none_admitted,-,hogskoleprov,0,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2051,HT22,2022,urval1,SA,,none_admitted,-,annat,0,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2051,HT22,2022,urval2,BF,,none_admitted,-,folkhogskola,0,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2051,HT22,2022,urval2,BI,,all_admitted,*,betyg_22_5,2,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2051,HT22,2022,urval2,BII,,none_admitted,-,betyg_22_5,0,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2051,HT22,2022,urval2,HP,,none_admitted,-,hogskoleprov,0,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2051,HT22,2022,urval2,SA,,none_admitted,-,annat,0,0,Mittuniversitetet
+UMU,TYCFT,UMU-P1534,HT22,2022,urval1,BF,,none_admitted,-,folkhogskola,0,0,Umeå
+UMU,TYCFT,UMU-P1534,HT22,2022,urval1,BI,16.68,value,16.68,betyg_22_5,45,8,Umeå
+UMU,TYCFT,UMU-P1534,HT22,2022,urval1,BII,17.9,value,17.90,betyg_22_5,3,3,Umeå
+UMU,TYCFT,UMU-P1534,HT22,2022,urval1,DA,,all_admitted,*,annat,8,0,Umeå
+UMU,TYCFT,UMU-P1534,HT22,2022,urval1,HP,0.9,value,0.90,hogskoleprov,24,7,Umeå
+UMU,TYCFT,UMU-P1534,HT22,2022,urval1,SA,,none_admitted,-,annat,0,12,Umeå
+UMU,TYCFT,UMU-P1534,HT22,2022,urval2,BF,,none_admitted,-,folkhogskola,0,0,Umeå
+UMU,TYCFT,UMU-P1534,HT22,2022,urval2,BI,,all_admitted,*,betyg_22_5,34,0,Umeå
+UMU,TYCFT,UMU-P1534,HT22,2022,urval2,BII,,all_admitted,*,betyg_22_5,2,0,Umeå
+UMU,TYCFT,UMU-P1534,HT22,2022,urval2,DA,,all_admitted,*,annat,8,0,Umeå
+UMU,TYCFT,UMU-P1534,HT22,2022,urval2,HP,,all_admitted,*,hogskoleprov,18,0,Umeå
+UMU,TYCFT,UMU-P1534,HT22,2022,urval2,SA,,all_admitted,*,annat,1,0,Umeå
+UU,TTF2Y,UU-P1507,HT22,2022,urval1,BF,,none_admitted,-,folkhogskola,0,2,Uppsala
+UU,TTF2Y,UU-P1507,HT22,2022,urval1,BI,20.43,value,20.43,betyg_22_5,112,168,Uppsala
+UU,TTF2Y,UU-P1507,HT22,2022,urval1,BII,20.44,value,20.44,betyg_22_5,9,23,Uppsala
+UU,TTF2Y,UU-P1507,HT22,2022,urval1,DA,,all_admitted,*,annat,5,0,Uppsala
+UU,TTF2Y,UU-P1507,HT22,2022,urval1,HP,1.4,value,1.40,hogskoleprov,62,125,Uppsala
+UU,TTF2Y,UU-P1507,HT22,2022,urval1,ÖS,,none_admitted,-,annat,0,1,Uppsala
+UU,TTF2Y,UU-P1507,HT22,2022,urval2,BF,,all_admitted,*,folkhogskola,1,0,Uppsala
+UU,TTF2Y,UU-P1507,HT22,2022,urval2,BI,19.76,value,19.76,betyg_22_5,87,77,Uppsala
+UU,TTF2Y,UU-P1507,HT22,2022,urval2,BII,20.44,value,20.44,betyg_22_5,6,13,Uppsala
+UU,TTF2Y,UU-P1507,HT22,2022,urval2,DA,,all_admitted,*,annat,3,0,Uppsala
+UU,TTF2Y,UU-P1507,HT22,2022,urval2,HP,1.4,value,1.40,hogskoleprov,52,58,Uppsala
+UU,TTF2Y,UU-P1507,HT22,2022,urval2,ÖS,,none_admitted,-,annat,0,1,Uppsala
+CTH,TKTFY,CTH-57000,HT23,2023,urval1,APFM,,all_admitted,*,annat,29,0,Chalmers
+CTH,TKTFY,CTH-57000,HT23,2023,urval1,BF,4.0,value,4.00,folkhogskola,1,1,Chalmers
+CTH,TKTFY,CTH-57000,HT23,2023,urval1,BI,21.67,value,21.67,betyg_22_5,88,278,Chalmers
+CTH,TKTFY,CTH-57000,HT23,2023,urval1,BII,21.35,value,21.35,betyg_22_5,9,41,Chalmers
+CTH,TKTFY,CTH-57000,HT23,2023,urval1,DA,,all_admitted,*,annat,4,0,Chalmers
+CTH,TKTFY,CTH-57000,HT23,2023,urval1,HP,1.6,value,1.60,hogskoleprov,32,252,Chalmers
+CTH,TKTFY,CTH-57000,HT23,2023,urval1,ZBGAR,,all_admitted,*,annat,22,0,Chalmers
+CTH,TKTFY,CTH-57000,HT23,2023,urval2,APFM,,all_admitted,*,annat,27,0,Chalmers
+CTH,TKTFY,CTH-57000,HT23,2023,urval2,BF,4.0,value,4.00,folkhogskola,1,1,Chalmers
+CTH,TKTFY,CTH-57000,HT23,2023,urval2,BI,21.61,value,21.61,betyg_22_5,67,124,Chalmers
+CTH,TKTFY,CTH-57000,HT23,2023,urval2,BII,21.51,value,21.51,betyg_22_5,8,25,Chalmers
+CTH,TKTFY,CTH-57000,HT23,2023,urval2,DA,,all_admitted,*,annat,3,0,Chalmers
+CTH,TKTFY,CTH-57000,HT23,2023,urval2,HP,1.6,value,1.60,hogskoleprov,25,116,Chalmers
+CTH,TKTFY,CTH-57000,HT23,2023,urval2,ZBGAR,,all_admitted,*,annat,21,0,Chalmers
+KAU,TACTF,KAU-80092,HT23,2023,urval1,BF,,none_admitted,-,folkhogskola,0,0,Karlstad
+KAU,TACTF,KAU-80092,HT23,2023,urval1,BI,,all_admitted,*,betyg_22_5,14,0,Karlstad
+KAU,TACTF,KAU-80092,HT23,2023,urval1,BII,,all_admitted,*,betyg_22_5,3,0,Karlstad
+KAU,TACTF,KAU-80092,HT23,2023,urval1,DA,,all_admitted,*,annat,4,0,Karlstad
+KAU,TACTF,KAU-80092,HT23,2023,urval1,HP,,all_admitted,*,hogskoleprov,8,0,Karlstad
+KAU,TACTF,KAU-80092,HT23,2023,urval1,SA,,all_admitted,*,annat,7,0,Karlstad
+KAU,TACTF,KAU-80092,HT23,2023,urval2,BF,,none_admitted,-,folkhogskola,0,0,Karlstad
+KAU,TACTF,KAU-80092,HT23,2023,urval2,BI,,all_admitted,*,betyg_22_5,10,0,Karlstad
+KAU,TACTF,KAU-80092,HT23,2023,urval2,BII,,all_admitted,*,betyg_22_5,3,0,Karlstad
+KAU,TACTF,KAU-80092,HT23,2023,urval2,DA,,all_admitted,*,annat,4,0,Karlstad
+KAU,TACTF,KAU-80092,HT23,2023,urval2,HP,,all_admitted,*,hogskoleprov,4,0,Karlstad
+KAU,TACTF,KAU-80092,HT23,2023,urval2,SA,,all_admitted,*,annat,3,0,Karlstad
+KTH,CTFYS,KTH-32114,HT23,2023,urval1,BF,4.0,value,4.00,folkhogskola,1,1,KTH
+KTH,CTFYS,KTH-32114,HT23,2023,urval1,BI,22.29,value,22.29,betyg_22_5,43,425,KTH
+KTH,CTFYS,KTH-32114,HT23,2023,urval1,BII,21.88,value,21.88,betyg_22_5,5,72,KTH
+KTH,CTFYS,KTH-32114,HT23,2023,urval1,DA,,all_admitted,*,annat,5,0,KTH
+KTH,CTFYS,KTH-32114,HT23,2023,urval1,HP,1.7,value,1.70,hogskoleprov,48,373,KTH
+KTH,CTFYS,KTH-32114,HT23,2023,urval1,MAFY,31.0,value,31,mafy,48,3,KTH
+KTH,CTFYS,KTH-32114,HT23,2023,urval1,ÖS,,none_admitted,-,annat,0,1,KTH
+KTH,CTFYS,KTH-32114,HT23,2023,urval1,T10,190.0,value,190,kth_lokal,14,11,KTH
+KTH,CTFYS,KTH-32114,HT23,2023,urval1,T20,85.0,value,85,kth_lokal,1,1,KTH
+KTH,CTFYS,KTH-32114,HT23,2023,urval2,BF,,all_admitted,*,folkhogskola,1,0,KTH
+KTH,CTFYS,KTH-32114,HT23,2023,urval2,BI,22.14,value,22.14,betyg_22_5,45,189,KTH
+KTH,CTFYS,KTH-32114,HT23,2023,urval2,BII,21.88,value,21.88,betyg_22_5,5,50,KTH
+KTH,CTFYS,KTH-32114,HT23,2023,urval2,DA,,all_admitted,*,annat,5,0,KTH
+KTH,CTFYS,KTH-32114,HT23,2023,urval2,HP,1.65,value,1.65,hogskoleprov,50,169,KTH
+KTH,CTFYS,KTH-32114,HT23,2023,urval2,MAFY,,all_admitted,*,mafy,44,0,KTH
+KTH,CTFYS,KTH-32114,HT23,2023,urval2,ÖS,,none_admitted,-,annat,0,1,KTH
+KTH,CTFYS,KTH-32114,HT23,2023,urval2,T10,190.0,value,190,kth_lokal,14,9,KTH
+KTH,CTFYS,KTH-32114,HT23,2023,urval2,T20,85.0,value,85,kth_lokal,1,1,KTH
+LIU,6CYYY,LIU-50116,HT23,2023,urval1,BF,,none_admitted,-,folkhogskola,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT23,2023,urval1,BI,18.59,value,18.59,betyg_22_5,72,53,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT23,2023,urval1,BII,17.86,value,17.86,betyg_22_5,6,11,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT23,2023,urval1,DA,,all_admitted,*,annat,8,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT23,2023,urval1,HP,1.2,value,1.20,hogskoleprov,39,51,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT23,2023,urval2,BF,,none_admitted,-,folkhogskola,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT23,2023,urval2,BI,18.59,value,18.59,betyg_22_5,51,40,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT23,2023,urval2,BII,17.86,value,17.86,betyg_22_5,6,10,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT23,2023,urval2,DA,,all_admitted,*,annat,8,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT23,2023,urval2,HP,1.2,value,1.20,hogskoleprov,33,40,Linköping (F och EE)
+LTU,TCTEA,LTU-87016,HT23,2023,urval1,BF,,none_admitted,-,folkhogskola,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87016,HT23,2023,urval1,BI,,all_admitted,*,betyg_22_5,20,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87016,HT23,2023,urval1,BII,,all_admitted,*,betyg_22_5,6,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87016,HT23,2023,urval1,DA,,none_admitted,-,annat,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87016,HT23,2023,urval1,HP,,all_admitted,*,hogskoleprov,10,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87016,HT23,2023,urval1,SA,,all_admitted,*,annat,3,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87016,HT23,2023,urval2,BF,,none_admitted,-,folkhogskola,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87016,HT23,2023,urval2,BI,,all_admitted,*,betyg_22_5,13,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87016,HT23,2023,urval2,BII,,all_admitted,*,betyg_22_5,2,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87016,HT23,2023,urval2,DA,,none_admitted,-,annat,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87016,HT23,2023,urval2,HP,,all_admitted,*,hogskoleprov,8,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87016,HT23,2023,urval2,SA,,all_admitted,*,annat,2,0,Luleå (F och EE)
+LU,TATFY,LU-80100,HT23,2023,urval1,BF,4.0,value,4.00,folkhogskola,1,1,Lund
+LU,TATFY,LU-80100,HT23,2023,urval1,BI,22.08,value,22.08,betyg_22_5,76,317,Lund
+LU,TATFY,LU-80100,HT23,2023,urval1,BII,22.08,value,22.08,betyg_22_5,5,44,Lund
+LU,TATFY,LU-80100,HT23,2023,urval1,DA,,all_admitted,*,annat,6,0,Lund
+LU,TATFY,LU-80100,HT23,2023,urval1,HP,1.7,value,1.70,hogskoleprov,42,292,Lund
+LU,TATFY,LU-80100,HT23,2023,urval2,BF,,none_admitted,-,folkhogskola,0,1,Lund
+LU,TATFY,LU-80100,HT23,2023,urval2,BI,21.98,value,21.98,betyg_22_5,64,152,Lund
+LU,TATFY,LU-80100,HT23,2023,urval2,BII,22.08,value,22.08,betyg_22_5,5,32,Lund
+LU,TATFY,LU-80100,HT23,2023,urval2,DA,,all_admitted,*,annat,5,0,Lund
+LU,TATFY,LU-80100,HT23,2023,urval2,HP,1.7,value,1.70,hogskoleprov,36,154,Lund
+MIU,TFYSA,MIU-J2061,HT23,2023,urval1,BF,,none_admitted,-,folkhogskola,0,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2061,HT23,2023,urval1,BI,,all_admitted,*,betyg_22_5,3,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2061,HT23,2023,urval1,BII,,none_admitted,-,betyg_22_5,0,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2061,HT23,2023,urval1,DA,,all_admitted,*,annat,1,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2061,HT23,2023,urval1,HP,,all_admitted,*,hogskoleprov,1,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2061,HT23,2023,urval1,SA,,all_admitted,*,annat,2,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2061,HT23,2023,urval2,BF,,none_admitted,-,folkhogskola,0,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2061,HT23,2023,urval2,BI,,all_admitted,*,betyg_22_5,2,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2061,HT23,2023,urval2,BII,,none_admitted,-,betyg_22_5,0,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2061,HT23,2023,urval2,DA,,none_admitted,-,annat,0,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2061,HT23,2023,urval2,HP,,none_admitted,-,hogskoleprov,0,0,Mittuniversitetet
+MIU,TFYSA,MIU-J2061,HT23,2023,urval2,SA,,all_admitted,*,annat,2,0,Mittuniversitetet
+UMU,TYCFT,UMU-P1534,HT23,2023,urval1,BF,,none_admitted,-,folkhogskola,0,0,Umeå
+UMU,TYCFT,UMU-P1534,HT23,2023,urval1,BI,,all_admitted,*,betyg_22_5,47,0,Umeå
+UMU,TYCFT,UMU-P1534,HT23,2023,urval1,BII,,all_admitted,*,betyg_22_5,5,0,Umeå
+UMU,TYCFT,UMU-P1534,HT23,2023,urval1,DA,,all_admitted,*,annat,6,0,Umeå
+UMU,TYCFT,UMU-P1534,HT23,2023,urval1,HP,,all_admitted,*,hogskoleprov,25,0,Umeå
+UMU,TYCFT,UMU-P1534,HT23,2023,urval1,SA,950.0,value,950,annat,7,3,Umeå
+UMU,TYCFT,UMU-P1534,HT23,2023,urval2,BF,,none_admitted,-,folkhogskola,0,0,Umeå
+UMU,TYCFT,UMU-P1534,HT23,2023,urval2,BI,,all_admitted,*,betyg_22_5,37,0,Umeå
+UMU,TYCFT,UMU-P1534,HT23,2023,urval2,BII,,all_admitted,*,betyg_22_5,3,0,Umeå
+UMU,TYCFT,UMU-P1534,HT23,2023,urval2,DA,,all_admitted,*,annat,5,0,Umeå
+UMU,TYCFT,UMU-P1534,HT23,2023,urval2,HP,,all_admitted,*,hogskoleprov,19,0,Umeå
+UMU,TYCFT,UMU-P1534,HT23,2023,urval2,SA,,all_admitted,*,annat,4,0,Umeå
+UU,TTF2Y,UU-P1507,HT23,2023,urval1,BF,,all_admitted,*,folkhogskola,1,0,Uppsala
+UU,TTF2Y,UU-P1507,HT23,2023,urval1,BI,21.05,value,21.05,betyg_22_5,95,231,Uppsala
+UU,TTF2Y,UU-P1507,HT23,2023,urval1,BII,19.95,value,19.95,betyg_22_5,8,37,Uppsala
+UU,TTF2Y,UU-P1507,HT23,2023,urval1,DA,,all_admitted,*,annat,9,0,Uppsala
+UU,TTF2Y,UU-P1507,HT23,2023,urval1,HP,1.55,value,1.55,hogskoleprov,53,221,Uppsala
+UU,TTF2Y,UU-P1507,HT23,2023,urval1,ÖS,,none_admitted,-,annat,0,0,Uppsala
+UU,TTF2Y,UU-P1507,HT23,2023,urval2,BF,,all_admitted,*,folkhogskola,1,0,Uppsala
+UU,TTF2Y,UU-P1507,HT23,2023,urval2,BI,20.78,value,20.78,betyg_22_5,71,108,Uppsala
+UU,TTF2Y,UU-P1507,HT23,2023,urval2,BII,19.95,value,19.95,betyg_22_5,7,30,Uppsala
+UU,TTF2Y,UU-P1507,HT23,2023,urval2,DA,,all_admitted,*,annat,9,0,Uppsala
+UU,TTF2Y,UU-P1507,HT23,2023,urval2,HP,1.55,value,1.55,hogskoleprov,44,119,Uppsala
+UU,TTF2Y,UU-P1507,HT23,2023,urval2,ÖS,,none_admitted,-,annat,0,0,Uppsala
+CTH,TKTFY,CTH-57000,HT24,2024,urval1,APFM,,all_admitted,*,annat,31,0,Chalmers
+CTH,TKTFY,CTH-57000,HT24,2024,urval1,BF,4.0,value,4.00,folkhogskola,1,2,Chalmers
+CTH,TKTFY,CTH-57000,HT24,2024,urval1,BI,21.44,value,21.44,betyg_22_5,94,308,Chalmers
+CTH,TKTFY,CTH-57000,HT24,2024,urval1,BII,20.89,value,20.89,betyg_22_5,9,44,Chalmers
+CTH,TKTFY,CTH-57000,HT24,2024,urval1,DA,,all_admitted,*,annat,4,0,Chalmers
+CTH,TKTFY,CTH-57000,HT24,2024,urval1,HP,1.7,value,1.70,hogskoleprov,34,296,Chalmers
+CTH,TKTFY,CTH-57000,HT24,2024,urval1,ZBGAR,,all_admitted,*,annat,12,0,Chalmers
+CTH,TKTFY,CTH-57000,HT24,2024,urval2,APFM,,all_admitted,*,annat,30,0,Chalmers
+CTH,TKTFY,CTH-57000,HT24,2024,urval2,BF,4.0,value,4.00,folkhogskola,1,1,Chalmers
+CTH,TKTFY,CTH-57000,HT24,2024,urval2,BI,21.25,value,21.25,betyg_22_5,72,130,Chalmers
+CTH,TKTFY,CTH-57000,HT24,2024,urval2,BII,20.9,value,20.90,betyg_22_5,7,32,Chalmers
+CTH,TKTFY,CTH-57000,HT24,2024,urval2,DA,,all_admitted,*,annat,4,0,Chalmers
+CTH,TKTFY,CTH-57000,HT24,2024,urval2,HP,1.65,value,1.65,hogskoleprov,26,135,Chalmers
+CTH,TKTFY,CTH-57000,HT24,2024,urval2,ZBGAR,,all_admitted,*,annat,12,0,Chalmers
+KAU,TACTF,KAU-80276,HT24,2024,urval1,BF,,none_admitted,-,folkhogskola,0,0,Karlstad
+KAU,TACTF,KAU-80276,HT24,2024,urval1,BI,,all_admitted,*,betyg_22_5,22,0,Karlstad
+KAU,TACTF,KAU-80276,HT24,2024,urval1,BII,,all_admitted,*,betyg_22_5,3,0,Karlstad
+KAU,TACTF,KAU-80276,HT24,2024,urval1,DA,,all_admitted,*,annat,2,0,Karlstad
+KAU,TACTF,KAU-80276,HT24,2024,urval1,HP,,all_admitted,*,hogskoleprov,9,0,Karlstad
+KAU,TACTF,KAU-80276,HT24,2024,urval1,SA,,all_admitted,*,annat,4,0,Karlstad
+KAU,TACTF,KAU-80276,HT24,2024,urval2,BF,,none_admitted,-,folkhogskola,0,0,Karlstad
+KAU,TACTF,KAU-80276,HT24,2024,urval2,BI,,all_admitted,*,betyg_22_5,16,0,Karlstad
+KAU,TACTF,KAU-80276,HT24,2024,urval2,BII,,all_admitted,*,betyg_22_5,1,0,Karlstad
+KAU,TACTF,KAU-80276,HT24,2024,urval2,DA,,all_admitted,*,annat,2,0,Karlstad
+KAU,TACTF,KAU-80276,HT24,2024,urval2,HP,,all_admitted,*,hogskoleprov,6,0,Karlstad
+KAU,TACTF,KAU-80276,HT24,2024,urval2,SA,,all_admitted,*,annat,7,0,Karlstad
+KTH,CTFYS,KTH-32114,HT24,2024,urval1,BF,,none_admitted,-,folkhogskola,0,5,KTH
+KTH,CTFYS,KTH-32114,HT24,2024,urval1,BI,22.3,value,22.30,betyg_22_5,43,493,KTH
+KTH,CTFYS,KTH-32114,HT24,2024,urval1,BII,21.63,value,21.63,betyg_22_5,5,77,KTH
+KTH,CTFYS,KTH-32114,HT24,2024,urval1,DA,,all_admitted,*,annat,6,0,KTH
+KTH,CTFYS,KTH-32114,HT24,2024,urval1,HP,1.7,value,1.70,hogskoleprov,47,459,KTH
+KTH,CTFYS,KTH-32114,HT24,2024,urval1,MAFY,31.0,value,31,mafy,47,11,KTH
+KTH,CTFYS,KTH-32114,HT24,2024,urval1,ÖS,,none_admitted,-,annat,0,3,KTH
+KTH,CTFYS,KTH-32114,HT24,2024,urval1,T10,205.0,value,205,kth_lokal,15,14,KTH
+KTH,CTFYS,KTH-32114,HT24,2024,urval1,T20,90.0,value,90,kth_lokal,2,6,KTH
+KTH,CTFYS,KTH-32114,HT24,2024,urval2,BF,,none_admitted,-,folkhogskola,0,2,KTH
+KTH,CTFYS,KTH-32114,HT24,2024,urval2,BI,22.19,value,22.19,betyg_22_5,44,232,KTH
+KTH,CTFYS,KTH-32114,HT24,2024,urval2,BII,21.63,value,21.63,betyg_22_5,4,48,KTH
+KTH,CTFYS,KTH-32114,HT24,2024,urval2,DA,,all_admitted,*,annat,6,0,KTH
+KTH,CTFYS,KTH-32114,HT24,2024,urval2,HP,1.7,value,1.70,hogskoleprov,47,225,KTH
+KTH,CTFYS,KTH-32114,HT24,2024,urval2,MAFY,31.0,value,31,mafy,47,7,KTH
+KTH,CTFYS,KTH-32114,HT24,2024,urval2,ÖS,,none_admitted,-,annat,0,2,KTH
+KTH,CTFYS,KTH-32114,HT24,2024,urval2,T10,205.0,value,205,kth_lokal,15,9,KTH
+KTH,CTFYS,KTH-32114,HT24,2024,urval2,T20,90.0,value,90,kth_lokal,2,3,KTH
+LIU,6CYYY,LIU-50116,HT24,2024,urval1,BF,,none_admitted,-,folkhogskola,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT24,2024,urval1,BI,19.16,value,19.16,betyg_22_5,75,101,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT24,2024,urval1,BII,17.4,value,17.40,betyg_22_5,9,19,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT24,2024,urval1,DA,,all_admitted,*,annat,10,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT24,2024,urval1,HP,1.3,value,1.30,hogskoleprov,41,94,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT24,2024,urval2,BF,,none_admitted,-,folkhogskola,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT24,2024,urval2,BI,19.16,value,19.16,betyg_22_5,57,63,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT24,2024,urval2,BII,17.4,value,17.40,betyg_22_5,8,12,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT24,2024,urval2,DA,,all_admitted,*,annat,10,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT24,2024,urval2,HP,1.3,value,1.30,hogskoleprov,28,61,Linköping (F och EE)
+LTU,TCTEA,LTU-87007,HT24,2024,urval1,BF,,all_admitted,*,folkhogskola,1,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87007,HT24,2024,urval1,BI,,all_admitted,*,betyg_22_5,26,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87007,HT24,2024,urval1,BII,,all_admitted,*,betyg_22_5,6,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87007,HT24,2024,urval1,DA,,all_admitted,*,annat,3,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87007,HT24,2024,urval1,HP,,all_admitted,*,hogskoleprov,13,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87007,HT24,2024,urval1,ÖS,,all_admitted,*,annat,1,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87007,HT24,2024,urval1,SA,,all_admitted,*,annat,7,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87007,HT24,2024,urval2,BF,,all_admitted,*,folkhogskola,1,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87007,HT24,2024,urval2,BI,,all_admitted,*,betyg_22_5,18,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87007,HT24,2024,urval2,BII,,all_admitted,*,betyg_22_5,5,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87007,HT24,2024,urval2,DA,,all_admitted,*,annat,3,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87007,HT24,2024,urval2,HP,,all_admitted,*,hogskoleprov,9,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87007,HT24,2024,urval2,ÖS,,all_admitted,*,annat,1,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87007,HT24,2024,urval2,SA,,all_admitted,*,annat,2,0,Luleå (F och EE)
+LU,TATFY,LU-80100,HT24,2024,urval1,BF,,all_admitted,*,folkhogskola,1,0,Lund
+LU,TATFY,LU-80100,HT24,2024,urval1,BI,22.03,value,22.03,betyg_22_5,79,376,Lund
+LU,TATFY,LU-80100,HT24,2024,urval1,BII,21.95,value,21.95,betyg_22_5,6,58,Lund
+LU,TATFY,LU-80100,HT24,2024,urval1,DA,,none_admitted,-,annat,0,0,Lund
+LU,TATFY,LU-80100,HT24,2024,urval1,HP,1.7,value,1.70,hogskoleprov,44,359,Lund
+LU,TATFY,LU-80100,HT24,2024,urval2,BF,,all_admitted,*,folkhogskola,1,0,Lund
+LU,TATFY,LU-80100,HT24,2024,urval2,BI,22.0,value,22.00,betyg_22_5,67,182,Lund
+LU,TATFY,LU-80100,HT24,2024,urval2,BII,21.95,value,21.95,betyg_22_5,6,29,Lund
+LU,TATFY,LU-80100,HT24,2024,urval2,DA,,none_admitted,-,annat,0,0,Lund
+LU,TATFY,LU-80100,HT24,2024,urval2,HP,1.7,value,1.70,hogskoleprov,40,173,Lund
+MIU,TFYSA,MIU-G2341,HT24,2024,urval1,BI,,all_admitted,*,betyg_22_5,5,0,Mittuniversitetet
+MIU,TFYSA,MIU-G2341,HT24,2024,urval1,BII,,all_admitted,*,betyg_22_5,2,0,Mittuniversitetet
+MIU,TFYSA,MIU-G2341,HT24,2024,urval1,DA,,all_admitted,*,annat,2,0,Mittuniversitetet
+MIU,TFYSA,MIU-G2341,HT24,2024,urval1,HP,,all_admitted,*,hogskoleprov,2,0,Mittuniversitetet
+MIU,TFYSA,MIU-G2341,HT24,2024,urval1,SA,,all_admitted,*,annat,2,0,Mittuniversitetet
+MIU,TFYSA,MIU-G2341,HT24,2024,urval2,BI,,all_admitted,*,betyg_22_5,3,0,Mittuniversitetet
+MIU,TFYSA,MIU-G2341,HT24,2024,urval2,BII,,all_admitted,*,betyg_22_5,2,0,Mittuniversitetet
+MIU,TFYSA,MIU-G2341,HT24,2024,urval2,DA,,all_admitted,*,annat,2,0,Mittuniversitetet
+MIU,TFYSA,MIU-G2341,HT24,2024,urval2,HP,,all_admitted,*,hogskoleprov,1,0,Mittuniversitetet
+MIU,TFYSA,MIU-G2341,HT24,2024,urval2,SA,,all_admitted,*,annat,2,0,Mittuniversitetet
+UMU,TYCFT,UMU-P1534,HT24,2024,urval1,B-BF,,none_admitted,-,annat,0,0,Umeå
+UMU,TYCFT,UMU-P1534,HT24,2024,urval1,B-BI,,none_admitted,-,annat,0,0,Umeå
+UMU,TYCFT,UMU-P1534,HT24,2024,urval1,B-BII,,all_admitted,*,annat,5,0,Umeå
+UMU,TYCFT,UMU-P1534,HT24,2024,urval1,BF,,none_admitted,-,folkhogskola,0,0,Umeå
+UMU,TYCFT,UMU-P1534,HT24,2024,urval1,B-HP,,all_admitted,*,annat,2,0,Umeå
+UMU,TYCFT,UMU-P1534,HT24,2024,urval1,BI,18.18,value,18.18,betyg_22_5,47,43,Umeå
+UMU,TYCFT,UMU-P1534,HT24,2024,urval1,BII,15.03,value,15.03,betyg_22_5,6,3,Umeå
+UMU,TYCFT,UMU-P1534,HT24,2024,urval1,DA,,all_admitted,*,annat,3,0,Umeå
+UMU,TYCFT,UMU-P1534,HT24,2024,urval1,HP,1.2,value,1.20,hogskoleprov,27,34,Umeå
+UMU,TYCFT,UMU-P1534,HT24,2024,urval1,SA,,none_admitted,-,annat,0,8,Umeå
+UMU,TYCFT,UMU-P1534,HT24,2024,urval2,B-BF,,none_admitted,-,annat,0,0,Umeå
+UMU,TYCFT,UMU-P1534,HT24,2024,urval2,B-BI,,none_admitted,-,annat,0,0,Umeå
+UMU,TYCFT,UMU-P1534,HT24,2024,urval2,B-BII,,all_admitted,*,annat,4,0,Umeå
+UMU,TYCFT,UMU-P1534,HT24,2024,urval2,BF,,none_admitted,-,folkhogskola,0,0,Umeå
+UMU,TYCFT,UMU-P1534,HT24,2024,urval2,B-HP,,all_admitted,*,annat,2,0,Umeå
+UMU,TYCFT,UMU-P1534,HT24,2024,urval2,BI,17.59,value,17.59,betyg_22_5,37,20,Umeå
+UMU,TYCFT,UMU-P1534,HT24,2024,urval2,BII,15.03,value,15.03,betyg_22_5,6,2,Umeå
+UMU,TYCFT,UMU-P1534,HT24,2024,urval2,DA,,all_admitted,*,annat,3,0,Umeå
+UMU,TYCFT,UMU-P1534,HT24,2024,urval2,HP,1.2,value,1.20,hogskoleprov,23,13,Umeå
+UMU,TYCFT,UMU-P1534,HT24,2024,urval2,SA,,none_admitted,-,annat,0,3,Umeå
+UU,TTF2Y,UU-P1507,HT24,2024,urval1,BF,,all_admitted,*,folkhogskola,1,0,Uppsala
+UU,TTF2Y,UU-P1507,HT24,2024,urval1,BI,21.04,value,21.04,betyg_22_5,112,277,Uppsala
+UU,TTF2Y,UU-P1507,HT24,2024,urval1,BII,20.21,value,20.21,betyg_22_5,8,30,Uppsala
+UU,TTF2Y,UU-P1507,HT24,2024,urval1,DA,,all_admitted,*,annat,11,0,Uppsala
+UU,TTF2Y,UU-P1507,HT24,2024,urval1,HP,1.55,value,1.55,hogskoleprov,62,263,Uppsala
+UU,TTF2Y,UU-P1507,HT24,2024,urval2,BF,,all_admitted,*,folkhogskola,1,0,Uppsala
+UU,TTF2Y,UU-P1507,HT24,2024,urval2,BI,21.04,value,21.04,betyg_22_5,83,150,Uppsala
+UU,TTF2Y,UU-P1507,HT24,2024,urval2,BII,20.21,value,20.21,betyg_22_5,7,19,Uppsala
+UU,TTF2Y,UU-P1507,HT24,2024,urval2,DA,,all_admitted,*,annat,11,0,Uppsala
+UU,TTF2Y,UU-P1507,HT24,2024,urval2,HP,1.55,value,1.55,hogskoleprov,53,145,Uppsala
+CTH,TKTFY,CTH-57000,HT25,2025,urval1,APFM,30.0,value,30,annat,30,1,Chalmers
+CTH,TKTFY,CTH-57000,HT25,2025,urval1,BF,3.0,value,3.00,folkhogskola,1,1,Chalmers
+CTH,TKTFY,CTH-57000,HT25,2025,urval1,BI,21.3,value,21.30,betyg_22_5,104,383,Chalmers
+CTH,TKTFY,CTH-57000,HT25,2025,urval1,BII,20.79,value,20.79,betyg_22_5,8,50,Chalmers
+CTH,TKTFY,CTH-57000,HT25,2025,urval1,DA,,all_admitted,*,annat,3,0,Chalmers
+CTH,TKTFY,CTH-57000,HT25,2025,urval1,HP,1.7,value,1.70,hogskoleprov,26,369,Chalmers
+CTH,TKTFY,CTH-57000,HT25,2025,urval1,ZBGAR,3.94,value,3.94,annat,10,6,Chalmers
+CTH,TKTFY,CTH-57000,HT25,2025,urval2,APFM,,all_admitted,*,annat,31,0,Chalmers
+CTH,TKTFY,CTH-57000,HT25,2025,urval2,BF,3.0,value,3.00,folkhogskola,1,1,Chalmers
+CTH,TKTFY,CTH-57000,HT25,2025,urval2,BI,21.3,value,21.30,betyg_22_5,74,205,Chalmers
+CTH,TKTFY,CTH-57000,HT25,2025,urval2,BII,20.79,value,20.79,betyg_22_5,8,26,Chalmers
+CTH,TKTFY,CTH-57000,HT25,2025,urval2,DA,,all_admitted,*,annat,2,0,Chalmers
+CTH,TKTFY,CTH-57000,HT25,2025,urval2,HP,1.7,value,1.70,hogskoleprov,21,196,Chalmers
+CTH,TKTFY,CTH-57000,HT25,2025,urval2,ZBGAR,3.76,value,3.76,annat,10,3,Chalmers
+KAU,TACTF,KAU-80507,HT25,2025,urval1,BF,,none_admitted,-,folkhogskola,0,0,Karlstad
+KAU,TACTF,KAU-80507,HT25,2025,urval1,BI,,all_admitted,*,betyg_22_5,17,0,Karlstad
+KAU,TACTF,KAU-80507,HT25,2025,urval1,BII,,all_admitted,*,betyg_22_5,3,0,Karlstad
+KAU,TACTF,KAU-80507,HT25,2025,urval1,DA,,all_admitted,*,annat,6,0,Karlstad
+KAU,TACTF,KAU-80507,HT25,2025,urval1,HP,,all_admitted,*,hogskoleprov,12,0,Karlstad
+KAU,TACTF,KAU-80507,HT25,2025,urval2,BF,,none_admitted,-,folkhogskola,0,0,Karlstad
+KAU,TACTF,KAU-80507,HT25,2025,urval2,BI,,all_admitted,*,betyg_22_5,9,0,Karlstad
+KAU,TACTF,KAU-80507,HT25,2025,urval2,BII,,all_admitted,*,betyg_22_5,3,0,Karlstad
+KAU,TACTF,KAU-80507,HT25,2025,urval2,DA,,all_admitted,*,annat,6,0,Karlstad
+KAU,TACTF,KAU-80507,HT25,2025,urval2,HP,,all_admitted,*,hogskoleprov,9,0,Karlstad
+KTH,CTFYS,KTH-32114,HT25,2025,urval1,BF,,none_admitted,-,folkhogskola,0,2,KTH
+KTH,CTFYS,KTH-32114,HT25,2025,urval1,BI,22.4,value,22.40,betyg_22_5,35,697,KTH
+KTH,CTFYS,KTH-32114,HT25,2025,urval1,BII,22.06,value,22.06,betyg_22_5,4,127,KTH
+KTH,CTFYS,KTH-32114,HT25,2025,urval1,DA,,all_admitted,*,annat,6,0,KTH
+KTH,CTFYS,KTH-32114,HT25,2025,urval1,HP,1.75,value,1.75,hogskoleprov,37,660,KTH
+KTH,CTFYS,KTH-32114,HT25,2025,urval1,MAFY,36.0,value,36,mafy,38,37,KTH
+KTH,CTFYS,KTH-32114,HT25,2025,urval1,ÖS,,none_admitted,-,annat,0,1,KTH
+KTH,CTFYS,KTH-32114,HT25,2025,urval1,T10,215.0,value,215,kth_lokal,16,33,KTH
+KTH,CTFYS,KTH-32114,HT25,2025,urval1,T20,70.0,value,70,kth_lokal,4,2,KTH
+KTH,CTFYS,KTH-32114,HT25,2025,urval2,BF,,none_admitted,-,folkhogskola,0,1,KTH
+KTH,CTFYS,KTH-32114,HT25,2025,urval2,BI,22.4,value,22.40,betyg_22_5,36,349,KTH
+KTH,CTFYS,KTH-32114,HT25,2025,urval2,BII,21.98,value,21.98,betyg_22_5,4,77,KTH
+KTH,CTFYS,KTH-32114,HT25,2025,urval2,DA,,all_admitted,*,annat,4,0,KTH
+KTH,CTFYS,KTH-32114,HT25,2025,urval2,HP,1.75,value,1.75,hogskoleprov,38,337,KTH
+KTH,CTFYS,KTH-32114,HT25,2025,urval2,MAFY,36.0,value,36,mafy,38,28,KTH
+KTH,CTFYS,KTH-32114,HT25,2025,urval2,ÖS,,none_admitted,-,annat,0,1,KTH
+KTH,CTFYS,KTH-32114,HT25,2025,urval2,T10,215.0,value,215,kth_lokal,16,26,KTH
+KTH,CTFYS,KTH-32114,HT25,2025,urval2,T20,70.0,value,70,kth_lokal,4,2,KTH
+LIU,6CYYY,LIU-50116,HT25,2025,urval1,BF,,none_admitted,-,folkhogskola,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT25,2025,urval1,BI,19.69,value,19.69,betyg_22_5,75,166,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT25,2025,urval1,BII,18.23,value,18.23,betyg_22_5,9,42,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT25,2025,urval1,DA,,all_admitted,*,annat,10,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT25,2025,urval1,HP,1.45,value,1.45,hogskoleprov,41,181,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT25,2025,urval2,BF,,none_admitted,-,folkhogskola,0,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT25,2025,urval2,BI,19.69,value,19.69,betyg_22_5,49,108,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT25,2025,urval2,BII,18.23,value,18.23,betyg_22_5,9,31,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT25,2025,urval2,DA,,all_admitted,*,annat,9,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT25,2025,urval2,HP,1.45,value,1.45,hogskoleprov,33,119,Linköping (F och EE)
+LTU,TCTEA,LTU-87015,HT25,2025,urval1,BF,,none_admitted,-,folkhogskola,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87015,HT25,2025,urval1,BI,,all_admitted,*,betyg_22_5,34,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87015,HT25,2025,urval1,BII,,all_admitted,*,betyg_22_5,3,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87015,HT25,2025,urval1,DA,,all_admitted,*,annat,2,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87015,HT25,2025,urval1,HP,,all_admitted,*,hogskoleprov,18,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87015,HT25,2025,urval1,SA,,all_admitted,*,annat,5,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87015,HT25,2025,urval2,BF,,none_admitted,-,folkhogskola,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87015,HT25,2025,urval2,BI,,all_admitted,*,betyg_22_5,28,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87015,HT25,2025,urval2,BII,,all_admitted,*,betyg_22_5,2,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87015,HT25,2025,urval2,DA,,all_admitted,*,annat,2,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87015,HT25,2025,urval2,HP,,all_admitted,*,hogskoleprov,12,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87015,HT25,2025,urval2,SA,,all_admitted,*,annat,2,0,Luleå (F och EE)
+LU,TATFY,LU-80100,HT25,2025,urval1,BF,,none_admitted,-,folkhogskola,0,2,Lund
+LU,TATFY,LU-80100,HT25,2025,urval1,BI,22.19,value,22.19,betyg_22_5,74,423,Lund
+LU,TATFY,LU-80100,HT25,2025,urval1,BII,22.19,value,22.19,betyg_22_5,7,72,Lund
+LU,TATFY,LU-80100,HT25,2025,urval1,DA,,all_admitted,*,annat,7,0,Lund
+LU,TATFY,LU-80100,HT25,2025,urval1,HP,1.8,value,1.80,hogskoleprov,42,419,Lund
+LU,TATFY,LU-80100,HT25,2025,urval2,BF,,none_admitted,-,folkhogskola,0,1,Lund
+LU,TATFY,LU-80100,HT25,2025,urval2,BI,22.08,value,22.08,betyg_22_5,66,198,Lund
+LU,TATFY,LU-80100,HT25,2025,urval2,BII,22.19,value,22.19,betyg_22_5,6,39,Lund
+LU,TATFY,LU-80100,HT25,2025,urval2,DA,,all_admitted,*,annat,6,0,Lund
+LU,TATFY,LU-80100,HT25,2025,urval2,HP,1.8,value,1.80,hogskoleprov,37,200,Lund
+MIU,TFYSA,MIU-G2015,HT25,2025,urval1,BI,,all_admitted,*,betyg_22_5,4,0,Mittuniversitetet
+MIU,TFYSA,MIU-G2015,HT25,2025,urval1,BII,,all_admitted,*,betyg_22_5,2,0,Mittuniversitetet
+MIU,TFYSA,MIU-G2015,HT25,2025,urval1,HP,,all_admitted,*,hogskoleprov,2,0,Mittuniversitetet
+MIU,TFYSA,MIU-G2015,HT25,2025,urval1,SA,,all_admitted,*,annat,4,0,Mittuniversitetet
+MIU,TFYSA,MIU-G2015,HT25,2025,urval2,BI,,all_admitted,*,betyg_22_5,2,0,Mittuniversitetet
+MIU,TFYSA,MIU-G2015,HT25,2025,urval2,BII,,all_admitted,*,betyg_22_5,2,0,Mittuniversitetet
+MIU,TFYSA,MIU-G2015,HT25,2025,urval2,HP,,all_admitted,*,hogskoleprov,1,0,Mittuniversitetet
+MIU,TFYSA,MIU-G2015,HT25,2025,urval2,SA,,all_admitted,*,annat,1,0,Mittuniversitetet
+UMU,TYCFT,UMU-P1534,HT25,2025,urval1,B-BI,,none_admitted,-,annat,0,0,Umeå
+UMU,TYCFT,UMU-P1534,HT25,2025,urval1,B-BII,,all_admitted,*,annat,5,0,Umeå
+UMU,TYCFT,UMU-P1534,HT25,2025,urval1,BF,,none_admitted,-,folkhogskola,0,2,Umeå
+UMU,TYCFT,UMU-P1534,HT25,2025,urval1,B-HP,,all_admitted,*,annat,4,0,Umeå
+UMU,TYCFT,UMU-P1534,HT25,2025,urval1,BI,18.39,value,18.39,betyg_22_5,48,42,Umeå
+UMU,TYCFT,UMU-P1534,HT25,2025,urval1,BII,18.65,value,18.65,betyg_22_5,7,19,Umeå
+UMU,TYCFT,UMU-P1534,HT25,2025,urval1,DA,,all_admitted,*,annat,2,0,Umeå
+UMU,TYCFT,UMU-P1534,HT25,2025,urval1,HP,1.25,value,1.25,hogskoleprov,29,50,Umeå
+UMU,TYCFT,UMU-P1534,HT25,2025,urval1,SA,,none_admitted,-,annat,0,15,Umeå
+UMU,TYCFT,UMU-P1534,HT25,2025,urval2,B-BI,,none_admitted,-,annat,0,0,Umeå
+UMU,TYCFT,UMU-P1534,HT25,2025,urval2,B-BII,,all_admitted,*,annat,5,0,Umeå
+UMU,TYCFT,UMU-P1534,HT25,2025,urval2,BF,,none_admitted,-,folkhogskola,0,0,Umeå
+UMU,TYCFT,UMU-P1534,HT25,2025,urval2,B-HP,,all_admitted,*,annat,4,0,Umeå
+UMU,TYCFT,UMU-P1534,HT25,2025,urval2,BI,18.08,value,18.08,betyg_22_5,38,27,Umeå
+UMU,TYCFT,UMU-P1534,HT25,2025,urval2,BII,17.64,value,17.64,betyg_22_5,8,8,Umeå
+UMU,TYCFT,UMU-P1534,HT25,2025,urval2,DA,,all_admitted,*,annat,2,0,Umeå
+UMU,TYCFT,UMU-P1534,HT25,2025,urval2,HP,1.2,value,1.20,hogskoleprov,23,31,Umeå
+UMU,TYCFT,UMU-P1534,HT25,2025,urval2,SA,,none_admitted,-,annat,0,25,Umeå
+UU,TTF2Y,UU-P1507,HT25,2025,urval1,BF,,none_admitted,-,folkhogskola,0,1,Uppsala
+UU,TTF2Y,UU-P1507,HT25,2025,urval1,BI,21.56,value,21.56,betyg_22_5,95,395,Uppsala
+UU,TTF2Y,UU-P1507,HT25,2025,urval1,BII,21.63,value,21.63,betyg_22_5,9,73,Uppsala
+UU,TTF2Y,UU-P1507,HT25,2025,urval1,DA,,all_admitted,*,annat,33,0,Uppsala
+UU,TTF2Y,UU-P1507,HT25,2025,urval1,HP,1.65,value,1.65,hogskoleprov,53,409,Uppsala
+UU,TTF2Y,UU-P1507,HT25,2025,urval1,ÖS,,none_admitted,-,annat,0,1,Uppsala
+UU,TTF2Y,UU-P1507,HT25,2025,urval2,BF,,none_admitted,-,folkhogskola,0,1,Uppsala
+UU,TTF2Y,UU-P1507,HT25,2025,urval2,BI,21.51,value,21.51,betyg_22_5,70,200,Uppsala
+UU,TTF2Y,UU-P1507,HT25,2025,urval2,BII,21.63,value,21.63,betyg_22_5,8,48,Uppsala
+UU,TTF2Y,UU-P1507,HT25,2025,urval2,DA,,all_admitted,*,annat,33,0,Uppsala
+UU,TTF2Y,UU-P1507,HT25,2025,urval2,HP,1.65,value,1.65,hogskoleprov,40,211,Uppsala
+UU,TTF2Y,UU-P1507,HT25,2025,urval2,ÖS,,none_admitted,-,annat,0,1,Uppsala
+CTH,TKTFY,CTH-57000,HT26,2026,urval1,APFM,,all_admitted,*,annat,51,0,Chalmers
+CTH,TKTFY,CTH-57000,HT26,2026,urval1,BF,4.0,value,4.00,folkhogskola,1,6,Chalmers
+CTH,TKTFY,CTH-57000,HT26,2026,urval1,BI,21.58,value,21.58,betyg_22_5,95,419,Chalmers
+CTH,TKTFY,CTH-57000,HT26,2026,urval1,BII,20.94,value,20.94,betyg_22_5,9,96,Chalmers
+CTH,TKTFY,CTH-57000,HT26,2026,urval1,DA,,all_admitted,*,annat,8,0,Chalmers
+CTH,TKTFY,CTH-57000,HT26,2026,urval1,HP,1.75,value,1.75,hogskoleprov,25,431,Chalmers
+CTH,TKTFY,CTH-57000,HT26,2026,urval1,ZBGAR,4.45,value,4.45,annat,10,13,Chalmers
+CTH,TKTFY,CTH-57000,HT26,2026,urval2,APFM,,all_admitted,*,annat,50,0,Chalmers
+CTH,TKTFY,CTH-57000,HT26,2026,urval2,BF,4.0,value,4.00,folkhogskola,1,3,Chalmers
+CTH,TKTFY,CTH-57000,HT26,2026,urval2,BI,21.58,value,21.58,betyg_22_5,71,200,Chalmers
+CTH,TKTFY,CTH-57000,HT26,2026,urval2,BII,20.94,value,20.94,betyg_22_5,7,52,Chalmers
+CTH,TKTFY,CTH-57000,HT26,2026,urval2,DA,,all_admitted,*,annat,8,0,Chalmers
+CTH,TKTFY,CTH-57000,HT26,2026,urval2,HP,1.75,value,1.75,hogskoleprov,19,213,Chalmers
+CTH,TKTFY,CTH-57000,HT26,2026,urval2,ZBGAR,4.45,value,4.45,annat,10,9,Chalmers
+KAU,TACTF,KAU-80612,HT26,2026,urval1,BF,,none_admitted,-,folkhogskola,0,0,Karlstad
+KAU,TACTF,KAU-80612,HT26,2026,urval1,BI,16.1,value,16.10,betyg_22_5,20,19,Karlstad
+KAU,TACTF,KAU-80612,HT26,2026,urval1,BII,17.2,value,17.20,betyg_22_5,3,12,Karlstad
+KAU,TACTF,KAU-80612,HT26,2026,urval1,DA,,all_admitted,*,annat,5,0,Karlstad
+KAU,TACTF,KAU-80612,HT26,2026,urval1,HP,1.05,value,1.05,hogskoleprov,12,21,Karlstad
+KAU,TACTF,KAU-80612,HT26,2026,urval2,BF,,none_admitted,-,folkhogskola,0,0,Karlstad
+KAU,TACTF,KAU-80612,HT26,2026,urval2,BI,15.36,value,15.36,betyg_22_5,15,9,Karlstad
+KAU,TACTF,KAU-80612,HT26,2026,urval2,BII,16.7,value,16.70,betyg_22_5,4,4,Karlstad
+KAU,TACTF,KAU-80612,HT26,2026,urval2,DA,,all_admitted,*,annat,5,0,Karlstad
+KAU,TACTF,KAU-80612,HT26,2026,urval2,HP,1.05,value,1.05,hogskoleprov,11,8,Karlstad
+KAU,TACTF,KAU-80612,HT26,2026,urval2,SA,,none_admitted,-,annat,0,7,Karlstad
+KTH,CTFYS,KTH-32114,HT26,2026,urval1,BF,,none_admitted,-,folkhogskola,0,8,KTH
+KTH,CTFYS,KTH-32114,HT26,2026,urval1,BI,22.4,value,22.40,betyg_22_5,37,814,KTH
+KTH,CTFYS,KTH-32114,HT26,2026,urval1,BII,22.28,value,22.28,betyg_22_5,5,181,KTH
+KTH,CTFYS,KTH-32114,HT26,2026,urval1,DA,,all_admitted,*,annat,5,0,KTH
+KTH,CTFYS,KTH-32114,HT26,2026,urval1,HP,1.85,value,1.85,hogskoleprov,40,847,KTH
+KTH,CTFYS,KTH-32114,HT26,2026,urval1,MAFY,41.0,value,41,mafy,40,86,KTH
+KTH,CTFYS,KTH-32114,HT26,2026,urval1,ÖS,,none_admitted,-,annat,0,1,KTH
+KTH,CTFYS,KTH-32114,HT26,2026,urval1,T10,220.0,value,220,kth_lokal,15,29,KTH
+KTH,CTFYS,KTH-32114,HT26,2026,urval1,T20,85.0,value,85,kth_lokal,1,4,KTH
+KTH,CTFYS,KTH-32114,HT26,2026,urval2,BF,,none_admitted,-,folkhogskola,0,6,KTH
+KTH,CTFYS,KTH-32114,HT26,2026,urval2,BI,22.4,value,22.40,betyg_22_5,36,375,KTH
+KTH,CTFYS,KTH-32114,HT26,2026,urval2,BII,22.19,value,22.19,betyg_22_5,5,100,KTH
+KTH,CTFYS,KTH-32114,HT26,2026,urval2,DA,,all_admitted,*,annat,6,0,KTH
+KTH,CTFYS,KTH-32114,HT26,2026,urval2,HP,1.8,value,1.80,hogskoleprov,39,409,KTH
+KTH,CTFYS,KTH-32114,HT26,2026,urval2,MAFY,41.0,value,41,mafy,40,70,KTH
+KTH,CTFYS,KTH-32114,HT26,2026,urval2,ÖS,,none_admitted,-,annat,0,1,KTH
+KTH,CTFYS,KTH-32114,HT26,2026,urval2,T10,220.0,value,220,kth_lokal,16,19,KTH
+KTH,CTFYS,KTH-32114,HT26,2026,urval2,T20,85.0,value,85,kth_lokal,1,4,KTH
+LIU,6CYYY,LIU-50116,HT26,2026,urval1,BF,,none_admitted,-,folkhogskola,0,2,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT26,2026,urval1,BI,20.05,value,20.05,betyg_22_5,70,213,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT26,2026,urval1,BII,19.34,value,19.34,betyg_22_5,12,66,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT26,2026,urval1,DA,,all_admitted,*,annat,12,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT26,2026,urval1,HP,1.5,value,1.50,hogskoleprov,41,239,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT26,2026,urval2,BF,,none_admitted,-,folkhogskola,0,1,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT26,2026,urval2,BI,20.05,value,20.05,betyg_22_5,56,120,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT26,2026,urval2,BII,19.34,value,19.34,betyg_22_5,9,44,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT26,2026,urval2,DA,,all_admitted,*,annat,13,0,Linköping (F och EE)
+LIU,6CYYY,LIU-50116,HT26,2026,urval2,HP,1.5,value,1.50,hogskoleprov,33,142,Linköping (F och EE)
+LTU,TCTEA,LTU-87453,HT26,2026,urval1,BF,,none_admitted,-,folkhogskola,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87453,HT26,2026,urval1,BI,,all_admitted,*,betyg_22_5,34,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87453,HT26,2026,urval1,BII,,all_admitted,*,betyg_22_5,8,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87453,HT26,2026,urval1,DA,,all_admitted,*,annat,2,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87453,HT26,2026,urval1,HP,,all_admitted,*,hogskoleprov,20,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87453,HT26,2026,urval1,SA,938.0,value,938,annat,11,1,Luleå (F och EE)
+LTU,TCTEA,LTU-87453,HT26,2026,urval2,BF,,none_admitted,-,folkhogskola,0,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87453,HT26,2026,urval2,BI,,all_admitted,*,betyg_22_5,23,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87453,HT26,2026,urval2,BII,,all_admitted,*,betyg_22_5,6,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87453,HT26,2026,urval2,DA,,all_admitted,*,annat,2,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87453,HT26,2026,urval2,HP,,all_admitted,*,hogskoleprov,11,0,Luleå (F och EE)
+LTU,TCTEA,LTU-87453,HT26,2026,urval2,SA,,all_admitted,*,annat,8,0,Luleå (F och EE)
+LU,TATFY,LU-80100,HT26,2026,urval1,BF,,none_admitted,-,folkhogskola,0,3,Lund
+LU,TATFY,LU-80100,HT26,2026,urval1,BI,22.19,value,22.19,betyg_22_5,76,473,Lund
+LU,TATFY,LU-80100,HT26,2026,urval1,BII,22.04,value,22.04,betyg_22_5,7,69,Lund
+LU,TATFY,LU-80100,HT26,2026,urval1,DA,,all_admitted,*,annat,8,0,Lund
+LU,TATFY,LU-80100,HT26,2026,urval1,HP,1.8,value,1.80,hogskoleprov,43,492,Lund
+LU,TATFY,LU-80100,HT26,2026,urval2,BF,,none_admitted,-,folkhogskola,0,1,Lund
+LU,TATFY,LU-80100,HT26,2026,urval2,BI,22.19,value,22.19,betyg_22_5,66,216,Lund
+LU,TATFY,LU-80100,HT26,2026,urval2,BII,22.04,value,22.04,betyg_22_5,7,42,Lund
+LU,TATFY,LU-80100,HT26,2026,urval2,DA,,all_admitted,*,annat,7,0,Lund
+LU,TATFY,LU-80100,HT26,2026,urval2,HP,1.8,value,1.80,hogskoleprov,37,236,Lund
+LU,TATFY,LU-80100,HT26,2026,urval2,ÖS,,none_admitted,-,annat,0,0,Lund
+MIU,TFYSA,MIU-G3573,HT26,2026,urval1,BI,,all_admitted,*,betyg_22_5,9,0,Mittuniversitetet
+MIU,TFYSA,MIU-G3573,HT26,2026,urval1,BII,,all_admitted,*,betyg_22_5,2,0,Mittuniversitetet
+MIU,TFYSA,MIU-G3573,HT26,2026,urval1,DA,,all_admitted,*,annat,3,0,Mittuniversitetet
+MIU,TFYSA,MIU-G3573,HT26,2026,urval1,HP,,all_admitted,*,hogskoleprov,7,0,Mittuniversitetet
+MIU,TFYSA,MIU-G3573,HT26,2026,urval1,SA,,all_admitted,*,annat,4,0,Mittuniversitetet
+MIU,TFYSA,MIU-G3573,HT26,2026,urval2,BI,,all_admitted,*,betyg_22_5,6,0,Mittuniversitetet
+MIU,TFYSA,MIU-G3573,HT26,2026,urval2,BII,,all_admitted,*,betyg_22_5,1,0,Mittuniversitetet
+MIU,TFYSA,MIU-G3573,HT26,2026,urval2,DA,,all_admitted,*,annat,3,0,Mittuniversitetet
+MIU,TFYSA,MIU-G3573,HT26,2026,urval2,HP,,all_admitted,*,hogskoleprov,3,0,Mittuniversitetet
+MIU,TFYSA,MIU-G3573,HT26,2026,urval2,SA,,all_admitted,*,annat,2,0,Mittuniversitetet
+UMU,TYCFT,UMU-P1534,HT26,2026,urval1,B-BII,,all_admitted,*,annat,7,0,Umeå
+UMU,TYCFT,UMU-P1534,HT26,2026,urval1,BF,,none_admitted,-,folkhogskola,0,0,Umeå
+UMU,TYCFT,UMU-P1534,HT26,2026,urval1,B-HP,,all_admitted,*,annat,4,0,Umeå
+UMU,TYCFT,UMU-P1534,HT26,2026,urval1,BI,19.52,value,19.52,betyg_22_5,49,64,Umeå
+UMU,TYCFT,UMU-P1534,HT26,2026,urval1,BII,17.19,value,17.19,betyg_22_5,8,17,Umeå
+UMU,TYCFT,UMU-P1534,HT26,2026,urval1,DA,,all_admitted,*,annat,3,0,Umeå
+UMU,TYCFT,UMU-P1534,HT26,2026,urval1,HP,1.4,value,1.40,hogskoleprov,29,64,Umeå
+UMU,TYCFT,UMU-P1534,HT26,2026,urval1,ÖS,,none_admitted,-,annat,0,0,Umeå
+UMU,TYCFT,UMU-P1534,HT26,2026,urval2,B-BII,,all_admitted,*,annat,7,0,Umeå
+UMU,TYCFT,UMU-P1534,HT26,2026,urval2,BF,,none_admitted,-,folkhogskola,0,0,Umeå
+UMU,TYCFT,UMU-P1534,HT26,2026,urval2,B-HP,,all_admitted,*,annat,4,0,Umeå
+UMU,TYCFT,UMU-P1534,HT26,2026,urval2,BI,19.52,value,19.52,betyg_22_5,41,42,Umeå
+UMU,TYCFT,UMU-P1534,HT26,2026,urval2,BII,17.36,value,17.36,betyg_22_5,7,11,Umeå
+UMU,TYCFT,UMU-P1534,HT26,2026,urval2,DA,,all_admitted,*,annat,3,0,Umeå
+UMU,TYCFT,UMU-P1534,HT26,2026,urval2,HP,1.4,value,1.40,hogskoleprov,25,42,Umeå
+UMU,TYCFT,UMU-P1534,HT26,2026,urval2,ÖS,,none_admitted,-,annat,0,0,Umeå
+UU,TTF2Y,UU-P1507,HT26,2026,urval1,BF,,none_admitted,-,folkhogskola,0,2,Uppsala
+UU,TTF2Y,UU-P1507,HT26,2026,urval1,BI,21.77,value,21.77,betyg_22_5,78,458,Uppsala
+UU,TTF2Y,UU-P1507,HT26,2026,urval1,BII,21.2,value,21.20,betyg_22_5,8,85,Uppsala
+UU,TTF2Y,UU-P1507,HT26,2026,urval1,DA,,all_admitted,*,annat,32,0,Uppsala
+UU,TTF2Y,UU-P1507,HT26,2026,urval1,HP,1.75,value,1.75,hogskoleprov,45,475,Uppsala
+UU,TTF2Y,UU-P1507,HT26,2026,urval2,BF,,none_admitted,-,folkhogskola,0,1,Uppsala
+UU,TTF2Y,UU-P1507,HT26,2026,urval2,BI,21.72,value,21.72,betyg_22_5,54,212,Uppsala
+UU,TTF2Y,UU-P1507,HT26,2026,urval2,BII,21.2,value,21.20,betyg_22_5,8,46,Uppsala
+UU,TTF2Y,UU-P1507,HT26,2026,urval2,DA,,all_admitted,*,annat,30,0,Uppsala
+UU,TTF2Y,UU-P1507,HT26,2026,urval2,HP,1.75,value,1.75,hogskoleprov,37,230,Uppsala

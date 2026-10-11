@@ -1,0 +1,1608 @@
+{
+ "exported_at": "2026-07-26T09:33:07",
+ "source": "https://www.uhr.se/api/antagningsstatistik/searchTotal",
+ "n_program_rader": 114,
+ "n_urvalsgrupp_rader": 682,
+ "cache": {
+  "searchTotal_HT08_CTH": {
+   "antalObjekt": 148,
+   "fetched_at": "2026-07-25T21:29:24",
+   "larosate": "CTH",
+   "pages": 1,
+   "period": "HT08",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT08_KAU": {
+   "antalObjekt": 145,
+   "fetched_at": "2026-07-25T21:29:35",
+   "larosate": "KAU",
+   "pages": 1,
+   "period": "HT08",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT08_KTH": {
+   "antalObjekt": 105,
+   "fetched_at": "2026-07-25T21:27:49",
+   "larosate": "KTH",
+   "pages": 1,
+   "period": "HT08",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT08_LIU": {
+   "antalObjekt": 176,
+   "fetched_at": "2026-07-25T21:29:30",
+   "larosate": "LIU",
+   "pages": 1,
+   "period": "HT08",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT08_LNU": {
+   "antalObjekt": 0,
+   "fetched_at": "2026-07-25T21:29:38",
+   "larosate": "LNU",
+   "pages": 1,
+   "period": "HT08",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT08_LTU": {
+   "antalObjekt": 130,
+   "fetched_at": "2026-07-25T21:29:32",
+   "larosate": "LTU",
+   "pages": 1,
+   "period": "HT08",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT08_LU": {
+   "antalObjekt": 258,
+   "fetched_at": "2026-07-25T21:29:26",
+   "larosate": "LU",
+   "pages": 1,
+   "period": "HT08",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT08_MIU": {
+   "antalObjekt": 131,
+   "fetched_at": "2026-07-25T21:29:37",
+   "larosate": "MIU",
+   "pages": 1,
+   "period": "HT08",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT08_UMU": {
+   "antalObjekt": 381,
+   "fetched_at": "2026-07-25T21:29:34",
+   "larosate": "UMU",
+   "pages": 1,
+   "period": "HT08",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT08_UU": {
+   "antalObjekt": 248,
+   "fetched_at": "2026-07-25T21:29:28",
+   "larosate": "UU",
+   "pages": 1,
+   "period": "HT08",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT09_CTH": {
+   "antalObjekt": 108,
+   "fetched_at": "2026-07-25T21:29:40",
+   "larosate": "CTH",
+   "pages": 1,
+   "period": "HT09",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT09_KAU": {
+   "antalObjekt": 162,
+   "fetched_at": "2026-07-25T21:29:50",
+   "larosate": "KAU",
+   "pages": 1,
+   "period": "HT09",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT09_KTH": {
+   "antalObjekt": 103,
+   "fetched_at": "2026-07-25T21:27:51",
+   "larosate": "KTH",
+   "pages": 1,
+   "period": "HT09",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT09_LIU": {
+   "antalObjekt": 158,
+   "fetched_at": "2026-07-25T21:29:45",
+   "larosate": "LIU",
+   "pages": 1,
+   "period": "HT09",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT09_LNU": {
+   "antalObjekt": 0,
+   "fetched_at": "2026-07-25T21:29:53",
+   "larosate": "LNU",
+   "pages": 1,
+   "period": "HT09",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT09_LTU": {
+   "antalObjekt": 159,
+   "fetched_at": "2026-07-25T21:29:46",
+   "larosate": "LTU",
+   "pages": 1,
+   "period": "HT09",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT09_LU": {
+   "antalObjekt": 288,
+   "fetched_at": "2026-07-25T21:29:41",
+   "larosate": "LU",
+   "pages": 1,
+   "period": "HT09",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT09_MIU": {
+   "antalObjekt": 130,
+   "fetched_at": "2026-07-25T21:29:51",
+   "larosate": "MIU",
+   "pages": 1,
+   "period": "HT09",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT09_UMU": {
+   "antalObjekt": 251,
+   "fetched_at": "2026-07-25T21:29:48",
+   "larosate": "UMU",
+   "pages": 1,
+   "period": "HT09",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT09_UU": {
+   "antalObjekt": 242,
+   "fetched_at": "2026-07-25T21:29:43",
+   "larosate": "UU",
+   "pages": 1,
+   "period": "HT09",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT10_CTH": {
+   "antalObjekt": 82,
+   "fetched_at": "2026-07-25T21:29:54",
+   "larosate": "CTH",
+   "pages": 1,
+   "period": "HT10",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT10_KAU": {
+   "antalObjekt": 158,
+   "fetched_at": "2026-07-25T21:30:06",
+   "larosate": "KAU",
+   "pages": 1,
+   "period": "HT10",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT10_KTH": {
+   "antalObjekt": 125,
+   "fetched_at": "2026-07-25T21:27:53",
+   "larosate": "KTH",
+   "pages": 1,
+   "period": "HT10",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT10_LIU": {
+   "antalObjekt": 145,
+   "fetched_at": "2026-07-25T21:29:59",
+   "larosate": "LIU",
+   "pages": 1,
+   "period": "HT10",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT10_LNU": {
+   "antalObjekt": 289,
+   "fetched_at": "2026-07-25T21:30:09",
+   "larosate": "LNU",
+   "pages": 1,
+   "period": "HT10",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT10_LTU": {
+   "antalObjekt": 143,
+   "fetched_at": "2026-07-25T21:30:02",
+   "larosate": "LTU",
+   "pages": 1,
+   "period": "HT10",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT10_LU": {
+   "antalObjekt": 305,
+   "fetched_at": "2026-07-25T21:29:56",
+   "larosate": "LU",
+   "pages": 1,
+   "period": "HT10",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT10_MIU": {
+   "antalObjekt": 140,
+   "fetched_at": "2026-07-25T21:30:07",
+   "larosate": "MIU",
+   "pages": 1,
+   "period": "HT10",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT10_UMU": {
+   "antalObjekt": 276,
+   "fetched_at": "2026-07-25T21:30:04",
+   "larosate": "UMU",
+   "pages": 1,
+   "period": "HT10",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT10_UU": {
+   "antalObjekt": 253,
+   "fetched_at": "2026-07-25T21:29:58",
+   "larosate": "UU",
+   "pages": 1,
+   "period": "HT10",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT11_CTH": {
+   "antalObjekt": 73,
+   "fetched_at": "2026-07-25T21:30:11",
+   "larosate": "CTH",
+   "pages": 1,
+   "period": "HT11",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT11_KAU": {
+   "antalObjekt": 163,
+   "fetched_at": "2026-07-25T21:30:21",
+   "larosate": "KAU",
+   "pages": 1,
+   "period": "HT11",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT11_KTH": {
+   "antalObjekt": 116,
+   "fetched_at": "2026-07-25T21:27:54",
+   "larosate": "KTH",
+   "pages": 1,
+   "period": "HT11",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT11_LIU": {
+   "antalObjekt": 165,
+   "fetched_at": "2026-07-25T21:30:16",
+   "larosate": "LIU",
+   "pages": 1,
+   "period": "HT11",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT11_LNU": {
+   "antalObjekt": 304,
+   "fetched_at": "2026-07-25T21:30:25",
+   "larosate": "LNU",
+   "pages": 1,
+   "period": "HT11",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT11_LTU": {
+   "antalObjekt": 161,
+   "fetched_at": "2026-07-25T21:30:18",
+   "larosate": "LTU",
+   "pages": 1,
+   "period": "HT11",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT11_LU": {
+   "antalObjekt": 320,
+   "fetched_at": "2026-07-25T21:30:13",
+   "larosate": "LU",
+   "pages": 1,
+   "period": "HT11",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT11_MIU": {
+   "antalObjekt": 146,
+   "fetched_at": "2026-07-25T21:30:23",
+   "larosate": "MIU",
+   "pages": 1,
+   "period": "HT11",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT11_UMU": {
+   "antalObjekt": 396,
+   "fetched_at": "2026-07-25T21:30:19",
+   "larosate": "UMU",
+   "pages": 1,
+   "period": "HT11",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT11_UU": {
+   "antalObjekt": 266,
+   "fetched_at": "2026-07-25T21:30:14",
+   "larosate": "UU",
+   "pages": 1,
+   "period": "HT11",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT12_CTH": {
+   "antalObjekt": 97,
+   "fetched_at": "2026-07-25T21:30:26",
+   "larosate": "CTH",
+   "pages": 1,
+   "period": "HT12",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT12_KAU": {
+   "antalObjekt": 183,
+   "fetched_at": "2026-07-25T21:30:38",
+   "larosate": "KAU",
+   "pages": 1,
+   "period": "HT12",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT12_KTH": {
+   "antalObjekt": 101,
+   "fetched_at": "2026-07-25T21:27:56",
+   "larosate": "KTH",
+   "pages": 1,
+   "period": "HT12",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT12_LIU": {
+   "antalObjekt": 161,
+   "fetched_at": "2026-07-25T21:30:32",
+   "larosate": "LIU",
+   "pages": 1,
+   "period": "HT12",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT12_LNU": {
+   "antalObjekt": 287,
+   "fetched_at": "2026-07-25T21:30:42",
+   "larosate": "LNU",
+   "pages": 1,
+   "period": "HT12",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT12_LTU": {
+   "antalObjekt": 162,
+   "fetched_at": "2026-07-25T21:30:33",
+   "larosate": "LTU",
+   "pages": 1,
+   "period": "HT12",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT12_LU": {
+   "antalObjekt": 337,
+   "fetched_at": "2026-07-25T21:30:28",
+   "larosate": "LU",
+   "pages": 1,
+   "period": "HT12",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT12_MIU": {
+   "antalObjekt": 125,
+   "fetched_at": "2026-07-25T21:30:40",
+   "larosate": "MIU",
+   "pages": 1,
+   "period": "HT12",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT12_UMU": {
+   "antalObjekt": 321,
+   "fetched_at": "2026-07-25T21:30:37",
+   "larosate": "UMU",
+   "pages": 1,
+   "period": "HT12",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT12_UU": {
+   "antalObjekt": 262,
+   "fetched_at": "2026-07-25T21:30:30",
+   "larosate": "UU",
+   "pages": 1,
+   "period": "HT12",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT13_CTH": {
+   "antalObjekt": 91,
+   "fetched_at": "2026-07-25T21:30:44",
+   "larosate": "CTH",
+   "pages": 1,
+   "period": "HT13",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT13_KAU": {
+   "antalObjekt": 203,
+   "fetched_at": "2026-07-25T21:30:54",
+   "larosate": "KAU",
+   "pages": 1,
+   "period": "HT13",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT13_KTH": {
+   "antalObjekt": 88,
+   "fetched_at": "2026-07-25T21:27:57",
+   "larosate": "KTH",
+   "pages": 1,
+   "period": "HT13",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT13_LIU": {
+   "antalObjekt": 157,
+   "fetched_at": "2026-07-25T21:30:49",
+   "larosate": "LIU",
+   "pages": 1,
+   "period": "HT13",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT13_LNU": {
+   "antalObjekt": 249,
+   "fetched_at": "2026-07-25T21:31:00",
+   "larosate": "LNU",
+   "pages": 1,
+   "period": "HT13",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT13_LTU": {
+   "antalObjekt": 165,
+   "fetched_at": "2026-07-25T21:30:50",
+   "larosate": "LTU",
+   "pages": 1,
+   "period": "HT13",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT13_LU": {
+   "antalObjekt": 353,
+   "fetched_at": "2026-07-25T21:30:46",
+   "larosate": "LU",
+   "pages": 1,
+   "period": "HT13",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT13_MIU": {
+   "antalObjekt": 110,
+   "fetched_at": "2026-07-25T21:30:56",
+   "larosate": "MIU",
+   "pages": 1,
+   "period": "HT13",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT13_UMU": {
+   "antalObjekt": 304,
+   "fetched_at": "2026-07-25T21:30:52",
+   "larosate": "UMU",
+   "pages": 1,
+   "period": "HT13",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT13_UU": {
+   "antalObjekt": 273,
+   "fetched_at": "2026-07-25T21:30:47",
+   "larosate": "UU",
+   "pages": 1,
+   "period": "HT13",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT14_CTH": {
+   "antalObjekt": 82,
+   "fetched_at": "2026-07-25T21:31:01",
+   "larosate": "CTH",
+   "pages": 1,
+   "period": "HT14",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT14_KAU": {
+   "antalObjekt": 188,
+   "fetched_at": "2026-07-25T21:31:13",
+   "larosate": "KAU",
+   "pages": 1,
+   "period": "HT14",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT14_KTH": {
+   "antalObjekt": 124,
+   "fetched_at": "2026-07-25T21:27:59",
+   "larosate": "KTH",
+   "pages": 1,
+   "period": "HT14",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT14_LIU": {
+   "antalObjekt": 158,
+   "fetched_at": "2026-07-25T21:31:07",
+   "larosate": "LIU",
+   "pages": 1,
+   "period": "HT14",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT14_LNU": {
+   "antalObjekt": 256,
+   "fetched_at": "2026-07-25T21:31:16",
+   "larosate": "LNU",
+   "pages": 1,
+   "period": "HT14",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT14_LTU": {
+   "antalObjekt": 158,
+   "fetched_at": "2026-07-25T21:31:09",
+   "larosate": "LTU",
+   "pages": 1,
+   "period": "HT14",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT14_LU": {
+   "antalObjekt": 304,
+   "fetched_at": "2026-07-25T21:31:03",
+   "larosate": "LU",
+   "pages": 1,
+   "period": "HT14",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT14_MIU": {
+   "antalObjekt": 106,
+   "fetched_at": "2026-07-25T21:31:14",
+   "larosate": "MIU",
+   "pages": 1,
+   "period": "HT14",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT14_UMU": {
+   "antalObjekt": 297,
+   "fetched_at": "2026-07-25T21:31:11",
+   "larosate": "UMU",
+   "pages": 1,
+   "period": "HT14",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT14_UU": {
+   "antalObjekt": 291,
+   "fetched_at": "2026-07-25T21:31:06",
+   "larosate": "UU",
+   "pages": 1,
+   "period": "HT14",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT15_CTH": {
+   "antalObjekt": 84,
+   "fetched_at": "2026-07-25T21:31:18",
+   "larosate": "CTH",
+   "pages": 1,
+   "period": "HT15",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT15_KAU": {
+   "antalObjekt": 178,
+   "fetched_at": "2026-07-25T21:31:28",
+   "larosate": "KAU",
+   "pages": 1,
+   "period": "HT15",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT15_KTH": {
+   "antalObjekt": 121,
+   "fetched_at": "2026-07-25T21:28:00",
+   "larosate": "KTH",
+   "pages": 1,
+   "period": "HT15",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT15_LIU": {
+   "antalObjekt": 156,
+   "fetched_at": "2026-07-25T21:31:23",
+   "larosate": "LIU",
+   "pages": 1,
+   "period": "HT15",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT15_LNU": {
+   "antalObjekt": 267,
+   "fetched_at": "2026-07-25T21:31:32",
+   "larosate": "LNU",
+   "pages": 1,
+   "period": "HT15",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT15_LTU": {
+   "antalObjekt": 157,
+   "fetched_at": "2026-07-25T21:31:25",
+   "larosate": "LTU",
+   "pages": 1,
+   "period": "HT15",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT15_LU": {
+   "antalObjekt": 326,
+   "fetched_at": "2026-07-25T21:31:19",
+   "larosate": "LU",
+   "pages": 1,
+   "period": "HT15",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT15_MIU": {
+   "antalObjekt": 114,
+   "fetched_at": "2026-07-25T21:31:30",
+   "larosate": "MIU",
+   "pages": 1,
+   "period": "HT15",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT15_UMU": {
+   "antalObjekt": 277,
+   "fetched_at": "2026-07-25T21:31:26",
+   "larosate": "UMU",
+   "pages": 1,
+   "period": "HT15",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT15_UU": {
+   "antalObjekt": 308,
+   "fetched_at": "2026-07-25T21:31:21",
+   "larosate": "UU",
+   "pages": 1,
+   "period": "HT15",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT16_CTH": {
+   "antalObjekt": 81,
+   "fetched_at": "2026-07-25T21:31:33",
+   "larosate": "CTH",
+   "pages": 1,
+   "period": "HT16",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT16_KAU": {
+   "antalObjekt": 170,
+   "fetched_at": "2026-07-25T21:31:44",
+   "larosate": "KAU",
+   "pages": 1,
+   "period": "HT16",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT16_KTH": {
+   "antalObjekt": 117,
+   "fetched_at": "2026-07-25T21:28:02",
+   "larosate": "KTH",
+   "pages": 1,
+   "period": "HT16",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT16_LIU": {
+   "antalObjekt": 213,
+   "fetched_at": "2026-07-25T21:31:39",
+   "larosate": "LIU",
+   "pages": 1,
+   "period": "HT16",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT16_LNU": {
+   "antalObjekt": 256,
+   "fetched_at": "2026-07-25T21:31:47",
+   "larosate": "LNU",
+   "pages": 1,
+   "period": "HT16",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT16_LTU": {
+   "antalObjekt": 155,
+   "fetched_at": "2026-07-25T21:31:40",
+   "larosate": "LTU",
+   "pages": 1,
+   "period": "HT16",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT16_LU": {
+   "antalObjekt": 320,
+   "fetched_at": "2026-07-25T21:31:35",
+   "larosate": "LU",
+   "pages": 1,
+   "period": "HT16",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT16_MIU": {
+   "antalObjekt": 117,
+   "fetched_at": "2026-07-25T21:31:45",
+   "larosate": "MIU",
+   "pages": 1,
+   "period": "HT16",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT16_UMU": {
+   "antalObjekt": 303,
+   "fetched_at": "2026-07-25T21:31:42",
+   "larosate": "UMU",
+   "pages": 1,
+   "period": "HT16",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT16_UU": {
+   "antalObjekt": 320,
+   "fetched_at": "2026-07-25T21:31:37",
+   "larosate": "UU",
+   "pages": 1,
+   "period": "HT16",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT17_CTH": {
+   "antalObjekt": 92,
+   "fetched_at": "2026-07-25T21:31:48",
+   "larosate": "CTH",
+   "pages": 1,
+   "period": "HT17",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT17_KAU": {
+   "antalObjekt": 168,
+   "fetched_at": "2026-07-25T21:31:59",
+   "larosate": "KAU",
+   "pages": 1,
+   "period": "HT17",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT17_KTH": {
+   "antalObjekt": 116,
+   "fetched_at": "2026-07-25T21:28:04",
+   "larosate": "KTH",
+   "pages": 1,
+   "period": "HT17",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT17_LIU": {
+   "antalObjekt": 201,
+   "fetched_at": "2026-07-25T21:31:54",
+   "larosate": "LIU",
+   "pages": 1,
+   "period": "HT17",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT17_LNU": {
+   "antalObjekt": 245,
+   "fetched_at": "2026-07-25T21:32:04",
+   "larosate": "LNU",
+   "pages": 1,
+   "period": "HT17",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT17_LTU": {
+   "antalObjekt": 146,
+   "fetched_at": "2026-07-25T21:31:55",
+   "larosate": "LTU",
+   "pages": 1,
+   "period": "HT17",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT17_LU": {
+   "antalObjekt": 321,
+   "fetched_at": "2026-07-25T21:31:50",
+   "larosate": "LU",
+   "pages": 1,
+   "period": "HT17",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT17_MIU": {
+   "antalObjekt": 126,
+   "fetched_at": "2026-07-25T21:32:02",
+   "larosate": "MIU",
+   "pages": 1,
+   "period": "HT17",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT17_UMU": {
+   "antalObjekt": 302,
+   "fetched_at": "2026-07-25T21:31:57",
+   "larosate": "UMU",
+   "pages": 1,
+   "period": "HT17",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT17_UU": {
+   "antalObjekt": 327,
+   "fetched_at": "2026-07-25T21:31:52",
+   "larosate": "UU",
+   "pages": 1,
+   "period": "HT17",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT18_CTH": {
+   "antalObjekt": 91,
+   "fetched_at": "2026-07-25T21:32:06",
+   "larosate": "CTH",
+   "pages": 1,
+   "period": "HT18",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT18_KAU": {
+   "antalObjekt": 173,
+   "fetched_at": "2026-07-25T21:32:16",
+   "larosate": "KAU",
+   "pages": 1,
+   "period": "HT18",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT18_KTH": {
+   "antalObjekt": 125,
+   "fetched_at": "2026-07-25T21:28:05",
+   "larosate": "KTH",
+   "pages": 1,
+   "period": "HT18",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT18_LIU": {
+   "antalObjekt": 181,
+   "fetched_at": "2026-07-25T21:32:11",
+   "larosate": "LIU",
+   "pages": 1,
+   "period": "HT18",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT18_LNU": {
+   "antalObjekt": 227,
+   "fetched_at": "2026-07-25T21:32:20",
+   "larosate": "LNU",
+   "pages": 1,
+   "period": "HT18",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT18_LTU": {
+   "antalObjekt": 136,
+   "fetched_at": "2026-07-25T21:32:13",
+   "larosate": "LTU",
+   "pages": 1,
+   "period": "HT18",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT18_LU": {
+   "antalObjekt": 304,
+   "fetched_at": "2026-07-25T21:32:07",
+   "larosate": "LU",
+   "pages": 1,
+   "period": "HT18",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT18_MIU": {
+   "antalObjekt": 123,
+   "fetched_at": "2026-07-25T21:32:18",
+   "larosate": "MIU",
+   "pages": 1,
+   "period": "HT18",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT18_UMU": {
+   "antalObjekt": 292,
+   "fetched_at": "2026-07-25T21:32:14",
+   "larosate": "UMU",
+   "pages": 1,
+   "period": "HT18",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT18_UU": {
+   "antalObjekt": 333,
+   "fetched_at": "2026-07-25T21:32:09",
+   "larosate": "UU",
+   "pages": 1,
+   "period": "HT18",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT19_CTH": {
+   "antalObjekt": 92,
+   "fetched_at": "2026-07-25T21:32:21",
+   "larosate": "CTH",
+   "pages": 1,
+   "period": "HT19",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT19_KAU": {
+   "antalObjekt": 154,
+   "fetched_at": "2026-07-25T21:32:32",
+   "larosate": "KAU",
+   "pages": 1,
+   "period": "HT19",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT19_KTH": {
+   "antalObjekt": 121,
+   "fetched_at": "2026-07-25T21:28:07",
+   "larosate": "KTH",
+   "pages": 1,
+   "period": "HT19",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT19_LIU": {
+   "antalObjekt": 184,
+   "fetched_at": "2026-07-25T21:32:27",
+   "larosate": "LIU",
+   "pages": 1,
+   "period": "HT19",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT19_LNU": {
+   "antalObjekt": 251,
+   "fetched_at": "2026-07-25T21:32:35",
+   "larosate": "LNU",
+   "pages": 1,
+   "period": "HT19",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT19_LTU": {
+   "antalObjekt": 121,
+   "fetched_at": "2026-07-25T21:32:29",
+   "larosate": "LTU",
+   "pages": 1,
+   "period": "HT19",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT19_LU": {
+   "antalObjekt": 316,
+   "fetched_at": "2026-07-25T21:32:23",
+   "larosate": "LU",
+   "pages": 1,
+   "period": "HT19",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT19_MIU": {
+   "antalObjekt": 112,
+   "fetched_at": "2026-07-25T21:32:34",
+   "larosate": "MIU",
+   "pages": 1,
+   "period": "HT19",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT19_UMU": {
+   "antalObjekt": 288,
+   "fetched_at": "2026-07-25T21:32:31",
+   "larosate": "UMU",
+   "pages": 1,
+   "period": "HT19",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT19_UU": {
+   "antalObjekt": 347,
+   "fetched_at": "2026-07-25T21:32:25",
+   "larosate": "UU",
+   "pages": 1,
+   "period": "HT19",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT20_CTH": {
+   "antalObjekt": 95,
+   "fetched_at": "2026-07-25T21:32:37",
+   "larosate": "CTH",
+   "pages": 1,
+   "period": "HT20",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT20_KAU": {
+   "antalObjekt": 153,
+   "fetched_at": "2026-07-25T21:32:52",
+   "larosate": "KAU",
+   "pages": 1,
+   "period": "HT20",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT20_KTH": {
+   "antalObjekt": 121,
+   "fetched_at": "2026-07-25T21:28:08",
+   "larosate": "KTH",
+   "pages": 1,
+   "period": "HT20",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT20_LIU": {
+   "antalObjekt": 212,
+   "fetched_at": "2026-07-25T21:32:44",
+   "larosate": "LIU",
+   "pages": 1,
+   "period": "HT20",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT20_LNU": {
+   "antalObjekt": 279,
+   "fetched_at": "2026-07-25T21:32:55",
+   "larosate": "LNU",
+   "pages": 1,
+   "period": "HT20",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT20_LTU": {
+   "antalObjekt": 130,
+   "fetched_at": "2026-07-25T21:32:48",
+   "larosate": "LTU",
+   "pages": 1,
+   "period": "HT20",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT20_LU": {
+   "antalObjekt": 315,
+   "fetched_at": "2026-07-25T21:32:39",
+   "larosate": "LU",
+   "pages": 1,
+   "period": "HT20",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT20_MIU": {
+   "antalObjekt": 131,
+   "fetched_at": "2026-07-25T21:32:54",
+   "larosate": "MIU",
+   "pages": 1,
+   "period": "HT20",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT20_UMU": {
+   "antalObjekt": 276,
+   "fetched_at": "2026-07-25T21:32:50",
+   "larosate": "UMU",
+   "pages": 1,
+   "period": "HT20",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT20_UU": {
+   "antalObjekt": 395,
+   "fetched_at": "2026-07-25T21:32:42",
+   "larosate": "UU",
+   "pages": 1,
+   "period": "HT20",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT21_CTH": {
+   "antalObjekt": 95,
+   "fetched_at": "2026-07-25T21:32:57",
+   "larosate": "CTH",
+   "pages": 1,
+   "period": "HT21",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT21_KAU": {
+   "antalObjekt": 192,
+   "fetched_at": "2026-07-25T21:33:07",
+   "larosate": "KAU",
+   "pages": 1,
+   "period": "HT21",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT21_KTH": {
+   "antalObjekt": 113,
+   "fetched_at": "2026-07-25T21:28:10",
+   "larosate": "KTH",
+   "pages": 1,
+   "period": "HT21",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT21_LIU": {
+   "antalObjekt": 214,
+   "fetched_at": "2026-07-25T21:33:02",
+   "larosate": "LIU",
+   "pages": 1,
+   "period": "HT21",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT21_LNU": {
+   "antalObjekt": 276,
+   "fetched_at": "2026-07-25T21:33:11",
+   "larosate": "LNU",
+   "pages": 1,
+   "period": "HT21",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT21_LTU": {
+   "antalObjekt": 129,
+   "fetched_at": "2026-07-25T21:33:04",
+   "larosate": "LTU",
+   "pages": 1,
+   "period": "HT21",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT21_LU": {
+   "antalObjekt": 328,
+   "fetched_at": "2026-07-25T21:32:59",
+   "larosate": "LU",
+   "pages": 1,
+   "period": "HT21",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT21_MIU": {
+   "antalObjekt": 138,
+   "fetched_at": "2026-07-25T21:33:09",
+   "larosate": "MIU",
+   "pages": 1,
+   "period": "HT21",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT21_UMU": {
+   "antalObjekt": 292,
+   "fetched_at": "2026-07-25T21:33:06",
+   "larosate": "UMU",
+   "pages": 1,
+   "period": "HT21",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT21_UU": {
+   "antalObjekt": 392,
+   "fetched_at": "2026-07-25T21:33:01",
+   "larosate": "UU",
+   "pages": 1,
+   "period": "HT21",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT22_CTH": {
+   "antalObjekt": 92,
+   "fetched_at": "2026-07-25T21:33:13",
+   "larosate": "CTH",
+   "pages": 1,
+   "period": "HT22",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT22_KAU": {
+   "antalObjekt": 221,
+   "fetched_at": "2026-07-25T21:33:24",
+   "larosate": "KAU",
+   "pages": 1,
+   "period": "HT22",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT22_KTH": {
+   "antalObjekt": 109,
+   "fetched_at": "2026-07-25T21:28:11",
+   "larosate": "KTH",
+   "pages": 1,
+   "period": "HT22",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT22_LIU": {
+   "antalObjekt": 223,
+   "fetched_at": "2026-07-25T21:33:18",
+   "larosate": "LIU",
+   "pages": 1,
+   "period": "HT22",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT22_LNU": {
+   "antalObjekt": 287,
+   "fetched_at": "2026-07-25T21:33:27",
+   "larosate": "LNU",
+   "pages": 1,
+   "period": "HT22",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT22_LTU": {
+   "antalObjekt": 133,
+   "fetched_at": "2026-07-25T21:33:20",
+   "larosate": "LTU",
+   "pages": 1,
+   "period": "HT22",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT22_LU": {
+   "antalObjekt": 326,
+   "fetched_at": "2026-07-25T21:33:15",
+   "larosate": "LU",
+   "pages": 1,
+   "period": "HT22",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT22_MIU": {
+   "antalObjekt": 147,
+   "fetched_at": "2026-07-25T21:33:26",
+   "larosate": "MIU",
+   "pages": 1,
+   "period": "HT22",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT22_UMU": {
+   "antalObjekt": 294,
+   "fetched_at": "2026-07-25T21:33:22",
+   "larosate": "UMU",
+   "pages": 1,
+   "period": "HT22",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT22_UU": {
+   "antalObjekt": 404,
+   "fetched_at": "2026-07-25T21:33:16",
+   "larosate": "UU",
+   "pages": 1,
+   "period": "HT22",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT23_CTH": {
+   "antalObjekt": 101,
+   "fetched_at": "2026-07-25T21:33:29",
+   "larosate": "CTH",
+   "pages": 1,
+   "period": "HT23",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT23_KAU": {
+   "antalObjekt": 191,
+   "fetched_at": "2026-07-25T21:33:39",
+   "larosate": "KAU",
+   "pages": 1,
+   "period": "HT23",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT23_KTH": {
+   "antalObjekt": 108,
+   "fetched_at": "2026-07-25T21:28:13",
+   "larosate": "KTH",
+   "pages": 1,
+   "period": "HT23",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT23_LIU": {
+   "antalObjekt": 236,
+   "fetched_at": "2026-07-25T21:33:34",
+   "larosate": "LIU",
+   "pages": 1,
+   "period": "HT23",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT23_LNU": {
+   "antalObjekt": 295,
+   "fetched_at": "2026-07-25T21:33:42",
+   "larosate": "LNU",
+   "pages": 1,
+   "period": "HT23",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT23_LTU": {
+   "antalObjekt": 140,
+   "fetched_at": "2026-07-25T21:33:36",
+   "larosate": "LTU",
+   "pages": 1,
+   "period": "HT23",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT23_LU": {
+   "antalObjekt": 318,
+   "fetched_at": "2026-07-25T21:33:31",
+   "larosate": "LU",
+   "pages": 1,
+   "period": "HT23",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT23_MIU": {
+   "antalObjekt": 147,
+   "fetched_at": "2026-07-25T21:33:41",
+   "larosate": "MIU",
+   "pages": 1,
+   "period": "HT23",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT23_UMU": {
+   "antalObjekt": 284,
+   "fetched_at": "2026-07-25T21:33:37",
+   "larosate": "UMU",
+   "pages": 1,
+   "period": "HT23",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT23_UU": {
+   "antalObjekt": 386,
+   "fetched_at": "2026-07-25T21:33:32",
+   "larosate": "UU",
+   "pages": 1,
+   "period": "HT23",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT24_CTH": {
+   "antalObjekt": 91,
+   "fetched_at": "2026-07-25T21:33:44",
+   "larosate": "CTH",
+   "pages": 1,
+   "period": "HT24",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT24_KAU": {
+   "antalObjekt": 210,
+   "fetched_at": "2026-07-25T21:33:54",
+   "larosate": "KAU",
+   "pages": 1,
+   "period": "HT24",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT24_KTH": {
+   "antalObjekt": 107,
+   "fetched_at": "2026-07-25T21:28:15",
+   "larosate": "KTH",
+   "pages": 1,
+   "period": "HT24",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT24_LIU": {
+   "antalObjekt": 221,
+   "fetched_at": "2026-07-25T21:33:49",
+   "larosate": "LIU",
+   "pages": 1,
+   "period": "HT24",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT24_LNU": {
+   "antalObjekt": 330,
+   "fetched_at": "2026-07-25T21:33:58",
+   "larosate": "LNU",
+   "pages": 1,
+   "period": "HT24",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT24_LTU": {
+   "antalObjekt": 153,
+   "fetched_at": "2026-07-25T21:33:51",
+   "larosate": "LTU",
+   "pages": 1,
+   "period": "HT24",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT24_LU": {
+   "antalObjekt": 317,
+   "fetched_at": "2026-07-25T21:33:46",
+   "larosate": "LU",
+   "pages": 1,
+   "period": "HT24",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT24_MIU": {
+   "antalObjekt": 157,
+   "fetched_at": "2026-07-25T21:33:56",
+   "larosate": "MIU",
+   "pages": 1,
+   "period": "HT24",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT24_UMU": {
+   "antalObjekt": 292,
+   "fetched_at": "2026-07-25T21:33:53",
+   "larosate": "UMU",
+   "pages": 1,
+   "period": "HT24",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT24_UU": {
+   "antalObjekt": 388,
+   "fetched_at": "2026-07-25T21:33:48",
+   "larosate": "UU",
+   "pages": 1,
+   "period": "HT24",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT25_CTH": {
+   "antalObjekt": 85,
+   "fetched_at": "2026-07-25T21:33:59",
+   "larosate": "CTH",
+   "pages": 1,
+   "period": "HT25",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT25_KAU": {
+   "antalObjekt": 222,
+   "fetched_at": "2026-07-25T21:34:10",
+   "larosate": "KAU",
+   "pages": 1,
+   "period": "HT25",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT25_KTH": {
+   "antalObjekt": 100,
+   "fetched_at": "2026-07-25T21:28:16",
+   "larosate": "KTH",
+   "pages": 1,
+   "period": "HT25",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT25_LIU": {
+   "antalObjekt": 206,
+   "fetched_at": "2026-07-25T21:34:04",
+   "larosate": "LIU",
+   "pages": 1,
+   "period": "HT25",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT25_LNU": {
+   "antalObjekt": 321,
+   "fetched_at": "2026-07-25T21:34:13",
+   "larosate": "LNU",
+   "pages": 1,
+   "period": "HT25",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT25_LTU": {
+   "antalObjekt": 158,
+   "fetched_at": "2026-07-25T21:34:06",
+   "larosate": "LTU",
+   "pages": 1,
+   "period": "HT25",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT25_LU": {
+   "antalObjekt": 310,
+   "fetched_at": "2026-07-25T21:34:01",
+   "larosate": "LU",
+   "pages": 1,
+   "period": "HT25",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT25_MIU": {
+   "antalObjekt": 166,
+   "fetched_at": "2026-07-25T21:34:11",
+   "larosate": "MIU",
+   "pages": 1,
+   "period": "HT25",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT25_UMU": {
+   "antalObjekt": 290,
+   "fetched_at": "2026-07-25T21:34:08",
+   "larosate": "UMU",
+   "pages": 1,
+   "period": "HT25",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT25_UU": {
+   "antalObjekt": 390,
+   "fetched_at": "2026-07-25T21:34:03",
+   "larosate": "UU",
+   "pages": 1,
+   "period": "HT25",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT26_CTH": {
+   "antalObjekt": 85,
+   "fetched_at": "2026-07-25T21:34:14",
+   "larosate": "CTH",
+   "pages": 1,
+   "period": "HT26",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT26_KAU": {
+   "antalObjekt": 210,
+   "fetched_at": "2026-07-25T21:34:27",
+   "larosate": "KAU",
+   "pages": 1,
+   "period": "HT26",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT26_KTH": {
+   "antalObjekt": 100,
+   "fetched_at": "2026-07-25T21:28:18",
+   "larosate": "KTH",
+   "pages": 1,
+   "period": "HT26",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT26_LIU": {
+   "antalObjekt": 219,
+   "fetched_at": "2026-07-25T21:34:22",
+   "larosate": "LIU",
+   "pages": 1,
+   "period": "HT26",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT26_LNU": {
+   "antalObjekt": 302,
+   "fetched_at": "2026-07-25T21:34:30",
+   "larosate": "LNU",
+   "pages": 1,
+   "period": "HT26",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT26_LTU": {
+   "antalObjekt": 153,
+   "fetched_at": "2026-07-25T21:34:23",
+   "larosate": "LTU",
+   "pages": 1,
+   "period": "HT26",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT26_LU": {
+   "antalObjekt": 314,
+   "fetched_at": "2026-07-25T21:34:16",
+   "larosate": "LU",
+   "pages": 1,
+   "period": "HT26",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT26_MIU": {
+   "antalObjekt": 177,
+   "fetched_at": "2026-07-25T21:34:28",
+   "larosate": "MIU",
+   "pages": 1,
+   "period": "HT26",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT26_UMU": {
+   "antalObjekt": 306,
+   "fetched_at": "2026-07-25T21:34:25",
+   "larosate": "UMU",
+   "pages": 1,
+   "period": "HT26",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT26_UU": {
+   "antalObjekt": 383,
+   "fetched_at": "2026-07-25T21:34:20",
+   "larosate": "UU",
+   "pages": 1,
+   "period": "HT26",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT27_CTH": {
+   "antalObjekt": 0,
+   "fetched_at": "2026-07-25T21:45:43",
+   "larosate": "CTH",
+   "pages": 1,
+   "period": "HT27",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT27_KAU": {
+   "antalObjekt": 0,
+   "fetched_at": "2026-07-25T21:45:45",
+   "larosate": "KAU",
+   "pages": 1,
+   "period": "HT27",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT27_KTH": {
+   "antalObjekt": 0,
+   "fetched_at": "2026-07-25T21:31:11",
+   "larosate": "KTH",
+   "pages": 1,
+   "period": "HT27",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT27_LIU": {
+   "antalObjekt": 0,
+   "fetched_at": "2026-07-25T21:45:46",
+   "larosate": "LIU",
+   "pages": 1,
+   "period": "HT27",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT27_LNU": {
+   "antalObjekt": 0,
+   "fetched_at": "2026-07-25T21:49:37",
+   "larosate": "LNU",
+   "pages": 1,
+   "period": "HT27",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT27_LTU": {
+   "antalObjekt": 0,
+   "fetched_at": "2026-07-25T21:45:47",
+   "larosate": "LTU",
+   "pages": 1,
+   "period": "HT27",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT27_LU": {
+   "antalObjekt": 0,
+   "fetched_at": "2026-07-25T21:45:48",
+   "larosate": "LU",
+   "pages": 1,
+   "period": "HT27",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT27_MIU": {
+   "antalObjekt": 0,
+   "fetched_at": "2026-07-25T21:45:50",
+   "larosate": "MIU",
+   "pages": 1,
+   "period": "HT27",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT27_UMU": {
+   "antalObjekt": 0,
+   "fetched_at": "2026-07-25T21:45:51",
+   "larosate": "UMU",
+   "pages": 1,
+   "period": "HT27",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  },
+  "searchTotal_HT27_UU": {
+   "antalObjekt": 0,
+   "fetched_at": "2026-07-25T21:45:52",
+   "larosate": "UU",
+   "pages": 1,
+   "period": "HT27",
+   "url": "https://www.uhr.se/api/antagningsstatistik/searchTotal"
+  }
+ }
+}
