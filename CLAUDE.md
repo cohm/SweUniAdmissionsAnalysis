@@ -27,7 +27,7 @@ There is no test suite or linter. `analyze_uhr.py --check` is the only automated
 
 ## Sensitive data — read before touching input files
 
-The NyA Excel exports contain personal data for real applicants: full names, addresses, `Personnummer`, e-mail and phone numbers. They live **outside** the repo (e.g. `../../NyA/createReport-2026-07-25.xls`) and must stay there — never copy them in, never commit them, and never paste raw dataframe output into commits, logs, scratch files, or anything uploaded externally. `.gitignore` now blocks `*.xls`/`*.xlsx`/`*.csv` except the two datasets that belong in git.
+The NyA Excel exports contain personal data for real applicants: full names, addresses, `Personnummer`, e-mail and phone numbers. They live **outside** the repo (e.g. `../../NyA/createReport-2026-08-25-SCI.xls`) and must stay there — never copy them in, never commit them, and never paste raw dataframe output into commits, logs, scratch files, or anything uploaded externally. `.gitignore` now blocks `*.xls`/`*.xlsx`/`*.csv` except the two datasets that belong in git.
 
 Two mechanisms keep PII out of output, and both should be preserved:
 
@@ -64,31 +64,34 @@ Input columns from NyA are Swedish: `Postnummer`, `Meritvärde`, `Resultat`, `Pe
 - `Resultat_kategori` — ordered categorical, the real NyA vocabulary (see below). Plus booleans `Antagen`, `Reservplacerad`, `Struken`, `Placerad_annat_val`, `Kvar_i_urval`.
 - `Svar_kategori` (`Ja`/`Nej`/`Inget svar`) and `Svarat_ja` from `Ja-svar`.
 - `Ålder` (float years) and `Födelseår`, from the first 8 chars of `Personnummer`, measured against the source's `Referensdatum` — **not** `Timestamp.now()`, so re-running reproduces the same ages.
-- `Kön` — `"K"`/`"M"` from the second-to-last digit of the personnummer, NaN-safe; the unparseable count is reported (51 of 5157 in HT26).
+- `Kön` — `"K"`/`"M"` from the second-to-last digit of the personnummer, NaN-safe; the unparseable count is reported (49 of 5142 in HT26).
 - `ApplicantID` — salted hash, see the PII section.
 - Geography from the postal-code merge: `KnKod` (cast to `Int64`), `KnNamn`, `LnNamn`.
 
-Rows whose postal code is not in the mapping (mostly people living abroad — 230 of 5157 in HT26) are **kept**, labelled `UNKNOWN_COUNTY`, so they still count in merit and age analyses. They fall out of the maps naturally, because the label matches no `lan`/`kommun_kod`.
+Rows whose postal code is not in the mapping (mostly people living abroad — 233 of 5142 in HT26) are **kept**, labelled `UNKNOWN_COUNTY`, so they still count in merit and age analyses. They fall out of the maps naturally, because the label matches no `lan`/`kommun_kod`.
 
 ### `Resultat` and what "admitted" means
 
 `admitted(df)` is the single test; use it rather than any string comparison. `ADMITTED_CATEGORIES` is `("Antagen",)`, which also absorbs `Reservantagen` should it appear (`RESULT_PATTERNS` maps it to `Antagen`, since being admitted off the reserve list is an offer). Standing on the reserve list is not admission.
 
-The actual HT26 vocabulary, which is nothing like a simple Antagen/Ej antagen split:
+The actual HT26 vocabulary (`createReport-2026-08-25-SCI.xls`, the HT26 entry in `SOURCES`), which is nothing like a simple Antagen/Ej antagen split:
 
 | `Resultat` | n | meaning |
 |---|---|---|
-| `Reserv` | 1500 | on the waiting list |
-| `Struken - Takvärde för ord. urval/inplacering uppnått` | 1471 | **already holds a place on a higher-priority choice** — admitted somewhere, never a rejection |
-| `Struken - Uteblivet svar` | 1359 | removed for answering no / not answering |
-| `Antagen` | 402 | |
-| `Struken - Obehörighet` | 354 | not eligible |
-| `Struken - Återbud` | 51 | withdrew after accepting |
+| `Struken - Takvärde för ord. urval/inplacering uppnått` | 1467 | **already holds a place on a higher-priority choice** — admitted somewhere, never a rejection |
+| `Reserv` | 1465 | on the waiting list |
+| `Struken - Uteblivet svar` | 1354 | removed for answering no / not answering |
+| `Antagen` | 374 | |
+| `Struken - Obehörighet` | 349 | not eligible |
+| `Struken - Återbud` | 107 | withdrew after accepting |
+| `Reserv - Studieavgiftsvillkor` / `Antagen - Studieavgiftsvillkor` | 4 / 1 | conditional on paying the tuition fee; the `^reserv` / `^antagen` patterns classify them as reserve / admitted |
 | others | ≤11 each | |
 
-`audit_admitted_definitions()` prints the canonical count next to the two definitions the code used previously; for HT26 the canonical count equals `contains("Antagen")` for all four programmes and differs from `== "antagen"` by one row (CFATE).
+This export was taken on 2026-08-25, well after urval 2 was published, so it is a later snapshot than UHR's urval-2 figures: `Återbud` has grown (51 in the earlier 2026-07-25 export, 107 here) and `Antagen` has shrunk (402 → 374) as admitted students declined. Numbers below are from this file.
 
-**`Ja-svar` is not an offer acceptance.** It is the reply to the *first* round's notification, where answering yes is required to stay in the running. In the HT26 urval-2 export all 403 admitted rows *and* all 1504 reserve rows have `Ja`, because everyone who answered no (1139) or did not answer (220) was already struck. A "share of admitted who accepted" plot would therefore be a flat 100 %; the real signal is attrition between the rounds, which is what `plot_response_attrition()` shows.
+`audit_admitted_definitions()` prints the canonical count next to the two definitions the code used previously; for HT26 the canonical count equals `contains("Antagen")` for all four programmes and differs from `== "antagen"` by one row (CFATE: the `Antagen - Studieavgiftsvillkor` row).
+
+**`Ja-svar` is not an offer acceptance.** It is the reply to the *first* round's notification, where answering yes is required to stay in the running. In the HT26 export all 375 admitted rows *and* all 1469 reserve rows have `Ja` (as do all 107 `Återbud` rows), because everyone who answered no (1134) or did not answer (220) was already struck. A "share of admitted who accepted" plot would therefore be a flat 100 %; the real signal is attrition between the rounds, which is what `plot_response_attrition()` shows.
 
 **Minimum merit score among admitted ≠ the group's admission threshold.** Admitted students hold scores in several groups but are admitted through one, so `min_BI_antagna` for CTFYS HT26 is 14.22 while UHR's BI threshold is 22.40. The export has no column for the group someone was admitted through, so the threshold has to come from `analyze_uhr.py`. Don't relabel these as cut-offs.
 
@@ -169,16 +172,18 @@ separation from Luleå from 16.3 to 6.2 — a worse trade, already tested.
 
 ### Cross-checking the two sources
 
-For HT26 the admitted counts agree closely and the gender shares agree to within about one percentage point, which is the useful confirmation that the `admitted()` definition is right:
+For HT26 the admitted counts agree reasonably and the shares of women among applicants and among admitted agree to within about two percentage points (largest gap 2.3), which is the useful confirmation that the `admitted()` definition is right:
 
 | | NyA antagna | UHR antagna | NyA sökande | UHR sökande |
 |---|---|---|---|---|
-| CTFYS | 138 | 143 | 1517 | 1904 |
-| CTMAT | 74 | 75 | 924 | 1217 |
-| CFATE | 103 | 112 | 1152 | 1539 |
-| COPEN | 88 | 90 | 1564 | 2093 |
+| CTFYS | 131 | 143 | 1515 | 1904 |
+| CTMAT | 71 | 75 | 919 | 1217 |
+| CFATE | 95 | 112 | 1150 | 1539 |
+| COPEN | 78 | 90 | 1558 | 2093 |
 
-The applicant counts do **not** agree: the NyA export holds 75–80 % of UHR's applicant figure, consistently across all four programmes. That is a population difference rather than a bug — treat UHR as the official applicant count and the NyA row count as "applications in this export". Don't try to reconcile them by adjusting the loading code.
+NyA admitted is 4–17 below UHR because the export postdates urval 2: people who declined after admission now show as `Struken - Återbud`, while UHR reports the count at urval 2. With the earlier 2026-07-25 export the gap was 1–9.
+
+The applicant counts do **not** agree: the NyA export holds 74–80 % of UHR's applicant figure, consistently across all four programmes. That is a population difference rather than a bug — treat UHR as the official applicant count and the NyA row count as "applications in this export". Don't try to reconcile them by adjusting the loading code.
 
 ## Known rough edges
 
