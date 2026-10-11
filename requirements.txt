@@ -5,3 +5,6 @@ swemaps
 pyarrow
 openpyxl
 xlrd
+seaborn
+scipy
+requests
